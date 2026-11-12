@@ -136,7 +136,8 @@ def match(a, b):
         diffs = []
         for k in ("persona", "documento", "destino", "decreto_referido", "fecha"):
             if k == "documento":
-                same = re.sub(r"[^A-Z0-9]", "", ev[k].upper()) == re.sub(r"[^A-Z0-9]", "", other[k].upper())
+                nd = lambda x: re.sub(r"[^A-Z0-9]", "", re.sub(r"\bn[ºª°o]?\.?\s", "", x.lower()).upper())  # noqa: E731
+                same = nd(ev[k]) == nd(other[k])
             else:
                 same = norm_name(ev[k]) == norm_name(other[k]) if k == "persona" else ev[k] == other[k]
             if not same:

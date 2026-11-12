@@ -55,7 +55,7 @@ Damián MARTHOFLEARCH,CI 123.071,,arresto,657/1976,2/6/1976,,,2,,batch_001,a+b
 Ricardo Sergio Ramón VIERA,MI 4.098.387,,arresto,657/1976,2/6/1976,,,2,,batch_001,a+b
 Margarita Juana HOBSON,LC 1.829.060,,arresto,657/1976,2/6/1976,,,2,,batch_001,a+b
 Hugo Anibal BALCAZA,MI 5.083.543,,arresto,657/1976,2/6/1976,,,2,,batch_001,a+b
-Miguel Angel RAGONESE,CI 9.512.615,,arresto,657/1976,2/6/1976,,,2,documento: a='CI 9.512.615' b='C.I. nº 9.512.615',batch_001,a+b
+Miguel Angel RAGONESE,CI 9.512.615,,arresto,657/1976,2/6/1976,,,2,,batch_001,a+b
 Horacio Oscar SARAGOVI,CI 6.115.554,,arresto,657/1976,2/6/1976,,,2,,batch_001,a+b
 José Luis GHIGO,CI 7.490.739,,liberacion,659/1976,2/6/1976,,88/1976,2,el original dice 'Cl' (OCR) | documento: a='CI 7.490.739' b='Cl 7.490.739',batch_001,a+b
 Jorge Luis VIAGGIO,CI 969.148,,liberacion,659/1976,2/6/1976,,88/1976,2,,batch_001,a+b
@@ -110,7 +110,7 @@ Jorge Daniel BASSO,DNI 8.304.042,,arresto,734/1976,4/6/1976,,,2,,batch_001,a+b
 Ilda Teresita BUSTAMANTE,DNI 4.438.933,,arresto,734/1976,4/6/1976,,,2,,batch_001,a+b
 Luis Alberto CORZO,DNI 6.717.061,,arresto,734/1976,4/6/1976,,,2,,batch_001,a+b
 Raúl Nicolás CHACON,DNI 10.018.921,,arresto,734/1976,4/6/1976,,,2,,batch_001,a+b
-Rogelio DELEONARDI,DNI 6.722.633,,arresto,734/1976,4/6/1976,,,2,documento: a='DNI 6.722.633' b='DNI nº 6.722.633',batch_001,a+b
+Rogelio DELEONARDI,DNI 6.722.633,,arresto,734/1976,4/6/1976,,,2,,batch_001,a+b
 Juan Carlos GOMEZ,DNI 7.853.817,,arresto,734/1976,4/6/1976,,,2,,batch_001,a+b
 Leopoldo Juan GONZALEZ,DNI 7.627.321,,arresto,734/1976,4/6/1976,,,2,,batch_001,a+b
 Guillermo Belisario HUEYO,DNI 4.250.807,,arresto,734/1976,4/6/1976,,,2,,batch_001,a+b
@@ -168,7 +168,7 @@ Luis PONTI,MI 5.793.596,,liberacion,755/1976,9/6/1976,,,3,,batch_001,a+b
 Eduardo Alberto MASSAT,MI 5.892.823,,liberacion,755/1976,9/6/1976,,,3,,batch_001,a+b
 Rosa Adriana Catalina PALMA HERRERA,DNI 92.270.992,,expulsion,787/1976,10/6/1976,,,3,,batch_001,a+b
 José Antonio VIEIRA DA CUNHA,,hijo de José y María Soto,expulsion,787/1976,10/6/1976,,,3,,batch_001,a+b
-Juan José RAMIREZ MORAGA,CI chilena 41049,,expulsion,787/1976,10/6/1976,,,3,documento: a='CI chilena 41049' b='CI chilena nº 41049',batch_001,a+b
+Juan José RAMIREZ MORAGA,CI chilena 41049,,expulsion,787/1976,10/6/1976,,,3,,batch_001,a+b
 Cesar Augusto GIMENEZ ROA,CI 339.593 Pol. Paraguay,,expulsion,787/1976,10/6/1976,,,3,,batch_001,a+b
 Digno BAEZ ROMERO,DNI 92.170.778,,expulsion,787/1976,10/6/1976,,,3,,batch_001,a+b
 Sergue Daniel LECHINERVSKI,,hijo de David e Iraci Wismeki,expulsion,787/1976,10/6/1976,,,3,,batch_001,a+b
@@ -224,7 +224,7 @@ Marcelo Hugo AGUERO,MI 7.010.010,,arresto,833/1976,14/6/1976,,,4,,batch_001,a+b
 Cesar Eulogio ALBARRACIN,MI 6.495.642,,arresto,833/1976,14/6/1976,,,4,,batch_001,a+b
 Armando Raúl BRITOS,MI 8.650.749,,arresto,833/1976,14/6/1976,,,4,,batch_001,a+b
 Bruno Alejo BRIZUELA,MI 8.654.385,,arresto,833/1976,14/6/1976,,,4,,batch_001,a+b
-Raúl Héctor CENTIONI,MI 8.478.167,,arresto,833/1976,14/6/1976,,,4,documento: a='MI 8.478.167' b='M.I. nº 8.478.167',batch_001,a+b
+Raúl Héctor CENTIONI,MI 8.478.167,,arresto,833/1976,14/6/1976,,,4,,batch_001,a+b
 Francisco Soleris CORTES,MI 5.465.749,,arresto,833/1976,14/6/1976,,,4,,batch_001,a+b
 Jorge Eduardo CACERES,MI 7.986.684,,arresto,833/1976,14/6/1976,,,4,,batch_001,a+b
 Saúl Gustavo COHEN,MI 11.486.638,,arresto,833/1976,14/6/1976,,,4,,batch_001,a+b
@@ -347,11 +347,11 @@ Rolando Alfredo AZCONA,DNI 10.323.198,,arresto,1207/1976,5/7/1976,,,5,,batch_002
 Osvaldo Hugo RODRIGUEZ,MI 13.309.030,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
 Rubén Alcides ARCE,MI 8.534.536,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
 Hugo Alberto DEDIEU,DNI 11.249.077,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
-Elsa Siria QUIROZ,L.C. 6.393.451,,arresto,1207/1976,5/7/1976,,,5,documento: a='L.C. 6.393.451' b='L.C. nº 6.393.451',batch_002,a+b
+Elsa Siria QUIROZ,L.C. 6.393.451,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
 Cesar Rodrigo PELAYO,D.N.I. 2.190.794,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
 Angel Leónidas OJEDA,M.I. 5.993.582,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
 Roberto Nicolás RUGGERI,M.I. 2.363.255,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
-Julio Eduardo EGGIMAN,D.N.I. 11.791.451,,arresto,1207/1976,5/7/1976,,,5,documento: a='D.N.I. 11.791.451' b='D.N.I. nº 11.791.451',batch_002,a+b
+Julio Eduardo EGGIMAN,D.N.I. 11.791.451,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
 Ana María CALVO,L.C. 6.056.406,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
 Angel Rafael LEIVA,MI 8.230.107,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
 Hilda Olga GARCILAZO,MI 4.567.449,,arresto,1207/1976,5/7/1976,,,5,,batch_002,a+b
@@ -410,7 +410,7 @@ Abdul Adolfo SARAVIA,MI 5.309.367,,arresto,983/1976,18/6/1976,,,5,,batch_002,a+b
 Adolfo MOLINA,MI 1.305.233,,arresto,983/1976,18/6/1976,,,5,,batch_002,a+b
 Mabel Noemí MOSQUERA,DNI 10.434.118,,arresto,983/1976,18/6/1976,,,5,,batch_002,a+b
 Rubén Antonio ALIMONTA,DNI 11.177.553,,arresto,983/1976,18/6/1976,,,5,,batch_002,a+b
-Jorge Horacio LAMAS,DNI 10.434.032,,arresto,983/1976,18/6/1976,,,5,documento: a='DNI 10.434.032' b='DNI nº 10.434.032',batch_002,a+b
+Jorge Horacio LAMAS,DNI 10.434.032,,arresto,983/1976,18/6/1976,,,5,,batch_002,a+b
 Justo Alberto ALVAREZ,DNI 11.177.615,,arresto,983/1976,18/6/1976,,,5,,batch_002,a+b
 José María MUSMECI,MI 10.591.458,,arresto,983/1976,18/6/1976,,,5,,batch_002,a+b
 Jorge POVLOSKY,MI 8.037.734,,arresto,983/1976,18/6/1976,,,5,,batch_002,a+b
@@ -437,7 +437,7 @@ Francisco TOMASEVICH,MI 7.578.851,,arresto,1235/1976,7/7/1976,,,5,,batch_002,a+b
 José Delineo MENDEZ,CI Neuquén 11.853,,arresto,1235/1976,7/7/1976,,,5,,batch_002,a+b
 Manuel Angel LANGEHEIN,MI 5.399.925,,arresto,1235/1976,7/7/1976,,,5,,batch_002,a+b
 Luis Roberto MAZO LUCERO,MI 7.996.569,,arresto,1235/1976,7/7/1976,,,5,,batch_002,a+b
-María Teresa CEBOLLERO,LC 6.715.164,,arresto,1235/1976,7/7/1976,,,5,documento: a='LC 6.715.164' b='LC nº 6.715.164',batch_002,a+b
+María Teresa CEBOLLERO,LC 6.715.164,,arresto,1235/1976,7/7/1976,,,5,,batch_002,a+b
 Alicia Nélida COSTA,,hija de Luis Gerónimo y Elida Castro,arresto,1235/1976,7/7/1976,,,5,,batch_002,a+b
 José Luis CATALDO,,hijo de José Salvador y Lidia Antonia Mosca de Rizzo,arresto,1235/1976,7/7/1976,,,5,,batch_002,a+b
 Juan Carlos SANTILLAN,DNI 12.832.856,,arresto,1235/1976,7/7/1976,,,5,,batch_002,a+b
@@ -491,7 +491,7 @@ Rosendo RIVERA JOVELR,CI 32.336,,arresto,984/1976,21/6/1976,,,6,apellido tal com
 Silverio PEREYRA,MI 5.578.718,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Juan Jesús NAVARRO,MI 6.112.799,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Elido Arnaldo INSUA,MI 6.118.129,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
-Ireneo Teófilo GRAF,MI 6.114.439,,arresto,984/1976,21/6/1976,,,6,documento: a='MI 6.114.439' b='MI nª 6.114.439',batch_002,a+b
+Ireneo Teófilo GRAF,MI 6.114.439,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Ernesto Esteban HERNANDEZ,MI 6.131.679,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Andrés Marcelo FERNANDEZ,MI 5.913.052,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Juan Manuel DIANDA,MI 7.822.307,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
@@ -544,7 +544,7 @@ Ventura PEREZ BENTEO,M.I. 6.921.971,,arresto,984/1976,21/6/1976,,,6,,batch_002,a
 Victor Antonio GARCIA DIEGO,C.I. 433.086,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Francisco Hipólito ROBLEDO FLORES,M.I. 6.896.820,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Osvaldo Agustín SALVADOR MATEO,M.I. 8.141.518,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
-Mario Antonio SANTOS AMEZQUETA,MI 8.147.216,,arresto,984/1976,21/6/1976,,,6,documento: a='MI 8.147.216' b='MI nº 8.147.216',batch_002,a+b
+Mario Antonio SANTOS AMEZQUETA,MI 8.147.216,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Horacio Patrocinio PARADISO BRAVO,MI 10.736.786,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Oscar CAMBURSANO,MI 6.433.073,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
 Luis María AMBROSINI,MI 4.560.429,,arresto,984/1976,21/6/1976,,,6,,batch_002,a+b
@@ -563,7 +563,7 @@ Nestor Antonio ALVAREZ,MI 6.031.110,,liberacion,987/1976,22/6/1976,,,6,,batch_00
 Roberto Gregorio MORAN,MI 1.973.259,,liberacion,987/1976,22/6/1976,,,6,,batch_002,a+b
 Horacio Anibal CASTELLANO,MI 5.827.577,,liberacion,987/1976,22/6/1976,,,6,,batch_002,a+b
 Rodolfo Silvestre SERANTES,MI 5.775.883,,liberacion,987/1976,22/6/1976,,,6,,batch_002,a+b
-Juan Alberto VALLEJOS,MI 7.579.674,,arresto,988/1976,22/6/1976,,3607/1975,6,"inclusión en los términos del decreto 3607/1975, cuyo arresto había sido omitido | documento: a='MI 7.579.674' b='MI nº 7.579.674'",batch_002,a+b
+Juan Alberto VALLEJOS,MI 7.579.674,,arresto,988/1976,22/6/1976,,3607/1975,6,"inclusión en los términos del decreto 3607/1975, cuyo arresto había sido omitido",batch_002,a+b
 Herminio MARTINEZ BORBOLLA,,hijo de Francisco y Angela Borbolla,expulsion,989/1976,22/6/1976,,,7,,batch_002,a+b
 Antonio GARRIDO,CI 3.990.455,,expulsion,989/1976,22/6/1976,,,7,,batch_002,a+b
 Gerardo BARRERO,CI 5.501.749,,expulsion,989/1976,22/6/1976,,,7,,batch_002,a+b
