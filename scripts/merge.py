@@ -15,18 +15,25 @@ opcion.xlsx
 revisar.xlsx
   Eventos found by only one agent, or with conflicting fields, for manual review.
 
+Adjudication: scripts/adjudicate.py asks a stronger model to settle each of
+those items against the decree text and writes review/resolved/*.json. When
+those files exist, merge applies them: "confirmar" moves the (corrected) event
+to the confirmed set, "descartar" drops it, "dudoso" (or no resolution) leaves
+it in revisar.xlsx. Discarded items are listed in a third sheet for audit.
+
 Matching rule between agents: same decreto + same tipo + same person, where
 "same person" is the same document number (digits only) if both have one,
 otherwise the same normalized name (accents and case removed, tokens sorted).
 """
 import csv
 import glob
+import hashlib
 import json
 import os
 import re
 import sys
 import unicodedata
-from collections import defaultdict
+from collections import Counter, defaultdict
 
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
@@ -133,6 +140,7 @@ def match(a, b):
         other = b[j]
         merged = dict(ev)
         merged["agente"] = "a+b"
+        merged["_a"], merged["_b"] = ev, other
         diffs = []
         for k in ("persona", "documento", "destino", "decreto_referido", "fecha"):
             if k == "documento":
@@ -150,6 +158,127 @@ def match(a, b):
         confirmed.append(merged)
     only_b = [ev for j, ev in enumerate(b) if j not in used_b]
     return confirmed, only_a, only_b, conflicts
+
+
+def renorm(ev):
+    """Recompute the derived fields of an event after its raw fields changed."""
+    ev["tipo"] = ev["tipo"] if ev["tipo"] in TIPOS else "otro"
+    ev["decreto"] = norm_decreto(ev["decreto"])
+    ev["decreto_referido"] = norm_decreto(ev["decreto_referido"])
+    ev["_name"] = norm_name(ev["persona"])
+    ev["_doc"] = norm_doc(ev["documento"])
+
+
+def assign_ids(only_a, only_b, conflicts):
+    """Give every review item a stable id (same inputs -> same id)."""
+    seen = Counter()
+    for kind, lst in (("a", only_a), ("b", only_b), ("c", conflicts)):
+        for ev in lst:
+            src = ev.get("_a", ev)
+            raw = "|".join([kind, src["batch"], src["decreto"], src["tipo"],
+                            src["persona"], src["documento"], src["filiacion"]])
+            h = kind + "_" + hashlib.sha1(raw.encode("utf-8")).hexdigest()[:12]
+            seen[h] += 1
+            ev["_id"] = h if seen[h] == 1 else f"{h}-{seen[h]}"
+
+
+def compute():
+    """Load both agents and pair their events. Shared with adjudicate.py."""
+    a, b = load("a"), load("b")
+    batches_a = {e["batch"] for e in a}
+    batches_b = {e["batch"] for e in b}
+    both = batches_a & batches_b
+    confirmed, only_a, only_b, conflicts = match(
+        [e for e in a if e["batch"] in both], [e for e in b if e["batch"] in both]
+    )
+    assign_ids(only_a, only_b, conflicts)
+    single = [e for e in a if e["batch"] not in both] + [e for e in b if e["batch"] not in both]
+    return a, b, batches_a, batches_b, confirmed, only_a, only_b, conflicts, single
+
+
+def load_resolutions():
+    """id -> resolution, from review/resolved/*.json (written by adjudicate.py)."""
+    res = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "review", "resolved", "*.json"))):
+        try:
+            d = json.load(open(f, encoding="utf-8"))
+        except Exception as e:  # noqa: BLE001
+            print(f"WARN {f}: {e}", file=sys.stderr)
+            continue
+        for r in d.get("resoluciones", []):
+            if isinstance(r, dict) and r.get("id") and r.get("veredicto") in ("confirmar", "descartar", "dudoso"):
+                res[r["id"]] = r
+    return res
+
+
+def apply_resolutions(confirmed, only_a, only_b, conflicts, res):
+    """Apply the adjudicator's verdicts.
+
+    Returns (confirmed, resolved_single, only_a, only_b, conflicts, discarded, stats)
+    where only_a / only_b / conflicts are what is still left for manual review.
+    """
+    stats = Counter()
+    discarded = []
+
+    def fix(ev, r, agente):
+        new = r.get("evento") or {}
+        for k in FIELDS:
+            if k in new:
+                ev[k] = str(new[k] or "").strip()
+        renorm(ev)
+        ev["agente"] = agente
+        ev["motivo"] = r.get("motivo", "")
+
+    left_conf, dropped = [], set()
+    for ev in conflicts:
+        r = res.get(ev["_id"])
+        v = r["veredicto"] if r else ""
+        if v == "confirmar" and isinstance(r.get("evento"), dict):
+            fix(ev, r, "a+b")
+            stats["conf_ok"] += 1
+        elif v == "descartar":
+            ev["motivo"] = "descartado: " + r.get("motivo", "")
+            dropped.add(id(ev))
+            discarded.append(ev)
+            stats["conf_drop"] += 1
+        else:
+            if r:
+                ev["motivo_f"] = r.get("motivo", "")
+            left_conf.append(ev)
+    confirmed = [e for e in confirmed if id(e) not in dropped]
+
+    seen = set()
+    for e in confirmed:
+        seen.add(key(e, False))
+        if e["_doc"]:
+            seen.add(key(e, True))
+    resolved, left = [], {"a": [], "b": []}
+    for tag, lst in (("a", only_a), ("b", only_b)):
+        for ev in lst:
+            r = res.get(ev["_id"])
+            v = r["veredicto"] if r else ""
+            if v == "confirmar" and isinstance(r.get("evento"), dict):
+                fix(ev, r, tag + "+f")
+                k = key(ev, bool(ev["_doc"]))
+                if k in seen:
+                    ev["motivo"] = "descartado: duplicado de un evento ya confirmado"
+                    discarded.append(ev)
+                    stats["solo_dup"] += 1
+                    continue
+                seen.add(key(ev, False))
+                if ev["_doc"]:
+                    seen.add(key(ev, True))
+                resolved.append(ev)
+                stats["solo_ok"] += 1
+            elif v == "descartar":
+                ev["motivo"] = "descartado: " + r.get("motivo", "")
+                discarded.append(ev)
+                stats["solo_drop"] += 1
+            else:
+                if r:
+                    ev["motivo_f"] = r.get("motivo", "")
+                left[tag].append(ev)
+    return confirmed, resolved, left["a"], left["b"], left_conf, discarded, stats
 
 
 def person_id(ev):
@@ -219,7 +348,9 @@ def people_sheet(ws, people, pids):
         row += [" ; ".join(otros),
                 " ; ".join(sorted({e["decreto_referido"] for e in evs if e["decreto_referido"]})),
                 " ; ".join(sorted({e["pagina"] for e in evs if e["pagina"]}, key=lambda s: int(re.sub(r"\D", "", s) or 0))),
-                "ambos" if all(e["agente"] == "a+b" for e in evs) else "parcial"]
+                "ambos" if all(e["agente"] == "a+b" for e in evs)
+                else "revisado" if all(e["agente"] in ("a+b", "a+f", "b+f") for e in evs)
+                else "parcial"]
         ws.append(row)
     style_header(ws)
 
@@ -236,19 +367,21 @@ def events_sheet(ws, events, extra_cols=()):
 
 
 def main() -> int:
-    a, b = load("a"), load("b")
-    batches_a = {e["batch"] for e in a}
-    batches_b = {e["batch"] for e in b}
+    a, b, batches_a, batches_b, confirmed, only_a, only_b, conflicts, single = compute()
     print(f"agent a: {len(a)} eventos in {len(batches_a)} batches; agent b: {len(b)} in {len(batches_b)}")
     both = batches_a & batches_b
-    confirmed, only_a, only_b, conflicts = match(
-        [e for e in a if e["batch"] in both], [e for e in b if e["batch"] in both]
-    )
-    # Batches done by one agent only: include their events as unconfirmed.
-    single = [e for e in a if e["batch"] not in both] + [e for e in b if e["batch"] not in both]
     print(f"confirmed {len(confirmed)} (with field conflicts {len(conflicts)}), only a {len(only_a)}, only b {len(only_b)}, single-agent batches {len(single)}")
+    n_review = len(only_a) + len(only_b) + len(conflicts)
 
-    all_events = confirmed + only_a + only_b + single
+    res = load_resolutions()
+    confirmed, resolved, only_a, only_b, conflicts, discarded, st = apply_resolutions(
+        confirmed, only_a, only_b, conflicts, res)
+    if res:
+        print(f"adjudicated: conflicts settled {st['conf_ok']}, single-agent confirmed {st['solo_ok']}, "
+              f"discarded {st['solo_drop'] + st['solo_dup'] + st['conf_drop']}; "
+              f"left for manual review {len(only_a) + len(only_b) + len(conflicts)} of {n_review}")
+
+    all_events = confirmed + resolved + only_a + only_b + single
     people = build_people(all_events)
     with_option = [pid for pid, p in people.items() if any(e["tipo"] != "arresto" for e in p["eventos"])]
     arrest_only = [pid for pid in people if pid not in set(with_option)]
@@ -271,6 +404,11 @@ def main() -> int:
         ("Eventos sólo agente A", len(only_a)),
         ("Eventos sólo agente B", len(only_b)),
         ("Eventos con campos en conflicto", len(conflicts)),
+        ("Ítems enviados a revisión (antes de adjudicar)", n_review),
+        ("Adjudicador: conflictos de campos resueltos", st["conf_ok"]),
+        ("Adjudicador: eventos de un solo agente confirmados", st["solo_ok"]),
+        ("Adjudicador: eventos descartados", st["solo_drop"] + st["solo_dup"] + st["conf_drop"]),
+        ("Pendientes de revisión manual", len(only_a) + len(only_b) + len(conflicts)),
         ("Personas con eventos de opción/otros", len(with_option)),
         ("Personas sólo con arresto", len(arrest_only)),
     ] + [(f"Eventos: {TIPO_LABEL[t]}", sum(1 for e in all_events if e["tipo"] == t)) for t in TIPOS]
@@ -286,8 +424,13 @@ def main() -> int:
         e["motivo"] = "sólo agente " + e["agente"]
     for e in conflicts:
         e["motivo"] = "campos distintos"
+    for e in only_a + only_b + conflicts:
+        if e.get("motivo_f"):
+            e["motivo"] += " | adjudicador (dudoso): " + e["motivo_f"]
     events_sheet(ws, only_a + only_b, extra_cols=("motivo",))
     events_sheet(wb.create_sheet("Campos en conflicto"), conflicts, extra_cols=("motivo",))
+    if discarded:
+        events_sheet(wb.create_sheet("Descartados"), discarded, extra_cols=("motivo",))
     wb.save(os.path.join(ROOT, "revisar.xlsx"))
 
     with open(os.path.join(ROOT, "eventos.csv"), "w", newline="", encoding="utf-8") as fh:
