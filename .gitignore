@@ -6,3 +6,4 @@ events/raw/
 logs/
 *.tmp
 preview_opcion.html
+~$*
