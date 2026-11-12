@@ -1,0 +1,327 @@
+{
+ "Bélgica": {
+  "pais": "Bélgica",
+  "iso3": "BEL",
+  "ciudad": ""
+ },
+ "Canadá": {
+  "pais": "Canadá",
+  "iso3": "CAN",
+  "ciudad": ""
+ },
+ "Chile": {
+  "pais": "Chile",
+  "iso3": "CHL",
+  "ciudad": ""
+ },
+ "Colombia": {
+  "pais": "Colombia",
+  "iso3": "COL",
+  "ciudad": ""
+ },
+ "ESPAÑA": {
+  "pais": "España",
+  "iso3": "ESP",
+  "ciudad": ""
+ },
+ "España": {
+  "pais": "España",
+  "iso3": "ESP",
+  "ciudad": ""
+ },
+ "Estado de Israel": {
+  "pais": "Israel",
+  "iso3": "ISR",
+  "ciudad": ""
+ },
+ "Estado de Suiza": {
+  "pais": "Suiza",
+  "iso3": "CHE",
+  "ciudad": ""
+ },
+ "Estados Unidos de América": {
+  "pais": "Estados Unidos",
+  "iso3": "USA",
+  "ciudad": ""
+ },
+ "Estados Unidos de MEJICO": {
+  "pais": "México",
+  "iso3": "MEX",
+  "ciudad": ""
+ },
+ "Estados Unidos de Méjico": {
+  "pais": "México",
+  "iso3": "MEX",
+  "ciudad": ""
+ },
+ "Estados Unidos de México": {
+  "pais": "México",
+  "iso3": "MEX",
+  "ciudad": ""
+ },
+ "Estados Unidos de Norte América": {
+  "pais": "Estados Unidos",
+  "iso3": "USA",
+  "ciudad": ""
+ },
+ "Estados Unidos de Norteamérica": {
+  "pais": "Estados Unidos",
+  "iso3": "USA",
+  "ciudad": ""
+ },
+ "FRANCIA": {
+  "pais": "Francia",
+  "iso3": "FRA",
+  "ciudad": ""
+ },
+ "Francia": {
+  "pais": "Francia",
+  "iso3": "FRA",
+  "ciudad": ""
+ },
+ "Honduras": {
+  "pais": "Honduras",
+  "iso3": "HND",
+  "ciudad": ""
+ },
+ "INGLATERRA": {
+  "pais": "Reino Unido",
+  "iso3": "GBR",
+  "ciudad": ""
+ },
+ "Inglaterra": {
+  "pais": "Reino Unido",
+  "iso3": "GBR",
+  "ciudad": ""
+ },
+ "Israel": {
+  "pais": "Israel",
+  "iso3": "ISR",
+  "ciudad": ""
+ },
+ "Italia": {
+  "pais": "Italia",
+  "iso3": "ITA",
+  "ciudad": ""
+ },
+ "Lima, Perú": {
+  "pais": "Perú",
+  "iso3": "PER",
+  "ciudad": "Lima"
+ },
+ "MEXICO": {
+  "pais": "México",
+  "iso3": "MEX",
+  "ciudad": ""
+ },
+ "Méjico": {
+  "pais": "México",
+  "iso3": "MEX",
+  "ciudad": ""
+ },
+ "México": {
+  "pais": "México",
+  "iso3": "MEX",
+  "ciudad": ""
+ },
+ "Noruega": {
+  "pais": "Noruega",
+  "iso3": "NOR",
+  "ciudad": ""
+ },
+ "PERU": {
+  "pais": "Perú",
+  "iso3": "PER",
+  "ciudad": ""
+ },
+ "Panamá": {
+  "pais": "Panamá",
+  "iso3": "PAN",
+  "ciudad": ""
+ },
+ "Perú": {
+  "pais": "Perú",
+  "iso3": "PER",
+  "ciudad": ""
+ },
+ "Reino Unido de Gran Bretaña": {
+  "pais": "Reino Unido",
+  "iso3": "GBR",
+  "ciudad": ""
+ },
+ "Reino de Bélgica": {
+  "pais": "Bélgica",
+  "iso3": "BEL",
+  "ciudad": ""
+ },
+ "Reino de Dinamarca": {
+  "pais": "Dinamarca",
+  "iso3": "DNK",
+  "ciudad": ""
+ },
+ "Reino de ESPAÑA": {
+  "pais": "España",
+  "iso3": "ESP",
+  "ciudad": ""
+ },
+ "Reino de España": {
+  "pais": "España",
+  "iso3": "ESP",
+  "ciudad": ""
+ },
+ "Reino de Gran Bretaña": {
+  "pais": "Reino Unido",
+  "iso3": "GBR",
+  "ciudad": ""
+ },
+ "Reino de Holanda": {
+  "pais": "Países Bajos",
+  "iso3": "NLD",
+  "ciudad": ""
+ },
+ "Reino de Israel": {
+  "pais": "Israel",
+  "iso3": "ISR",
+  "ciudad": ""
+ },
+ "Reino de Noruega": {
+  "pais": "Noruega",
+  "iso3": "NOR",
+  "ciudad": ""
+ },
+ "Reino de Suecia": {
+  "pais": "Suecia",
+  "iso3": "SWE",
+  "ciudad": ""
+ },
+ "República Federal Alemana": {
+  "pais": "Alemania",
+  "iso3": "DEU",
+  "ciudad": ""
+ },
+ "República Federal de Alemania": {
+  "pais": "Alemania",
+  "iso3": "DEU",
+  "ciudad": ""
+ },
+ "República Oriental del Uruguay": {
+  "pais": "Uruguay",
+  "iso3": "URY",
+  "ciudad": ""
+ },
+ "República de Austria": {
+  "pais": "Austria",
+  "iso3": "AUT",
+  "ciudad": ""
+ },
+ "República de Bolivia": {
+  "pais": "Bolivia",
+  "iso3": "BOL",
+  "ciudad": ""
+ },
+ "República de Colombia": {
+  "pais": "Colombia",
+  "iso3": "COL",
+  "ciudad": ""
+ },
+ "República de España": {
+  "pais": "España",
+  "iso3": "ESP",
+  "ciudad": ""
+ },
+ "República de Finlandia": {
+  "pais": "Finlandia",
+  "iso3": "FIN",
+  "ciudad": ""
+ },
+ "República de Francia": {
+  "pais": "Francia",
+  "iso3": "FRA",
+  "ciudad": ""
+ },
+ "República de ITALIA": {
+  "pais": "Italia",
+  "iso3": "ITA",
+  "ciudad": ""
+ },
+ "República de Italia": {
+  "pais": "Italia",
+  "iso3": "ITA",
+  "ciudad": ""
+ },
+ "República de Méjico": {
+  "pais": "México",
+  "iso3": "MEX",
+  "ciudad": ""
+ },
+ "República de México": {
+  "pais": "México",
+  "iso3": "MEX",
+  "ciudad": ""
+ },
+ "República de PERU": {
+  "pais": "Perú",
+  "iso3": "PER",
+  "ciudad": ""
+ },
+ "República de Panamá": {
+  "pais": "Panamá",
+  "iso3": "PAN",
+  "ciudad": ""
+ },
+ "República de Perú": {
+  "pais": "Perú",
+  "iso3": "PER",
+  "ciudad": ""
+ },
+ "República de Senegal": {
+  "pais": "Senegal",
+  "iso3": "SEN",
+  "ciudad": ""
+ },
+ "República de Venezuela": {
+  "pais": "Venezuela",
+  "iso3": "VEN",
+  "ciudad": ""
+ },
+ "República del PERU": {
+  "pais": "Perú",
+  "iso3": "PER",
+  "ciudad": ""
+ },
+ "República del Perú": {
+  "pais": "Perú",
+  "iso3": "PER",
+  "ciudad": ""
+ },
+ "SUIZA": {
+  "pais": "Suiza",
+  "iso3": "CHE",
+  "ciudad": ""
+ },
+ "Suecia": {
+  "pais": "Suecia",
+  "iso3": "SWE",
+  "ciudad": ""
+ },
+ "Suiza": {
+  "pais": "Suiza",
+  "iso3": "CHE",
+  "ciudad": ""
+ },
+ "Venezuela": {
+  "pais": "Venezuela",
+  "iso3": "VEN",
+  "ciudad": ""
+ },
+ "ciudad de Lima, Perú": {
+  "pais": "Perú",
+  "iso3": "PER",
+  "ciudad": "Lima"
+ },
+ "un país no limítrofe": {
+  "pais": "",
+  "iso3": "",
+  "ciudad": ""
+ }
+}
