@@ -1,0 +1,57 @@
+{
+ "case": "batch_091_ef392410",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_e1faf6cc1251",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "María Rosa ALMIRON",
+    "documento": "CI 8.438.325",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "779/1981",
+    "fecha": "24/7/1981",
+    "destino": "",
+    "decreto_referido": "2314/1976",
+    "pagina": "354",
+    "nota": "Ciudad de Santa Fe, Provincia de Santa Fe; control Policía de la Provincia de Santa Fe"
+   },
+   "motivo": "el texto dice 'Cl. 8.438.325'; por regla, 'Cl' se transcribe como 'CI' (cédula de identidad), sin punto ni abreviatura"
+  },
+  {
+   "id": "c_95b980fe6de0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mario Antonio CHOCOBAR",
+    "documento": "DNI 12.847.041",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "801/1981",
+    "fecha": "29/7/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "355",
+    "nota": "también consignado Prio. 741.987"
+   },
+   "motivo": "el texto dice 'Mario Antonio CHOCOBAR (Prio. 741.987) —DNI. 12.847.041—'; el documento de identidad es el DNI y el prontuario se deja en nota"
+  },
+  {
+   "id": "c_358834315a21",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Rogelio FONTANO",
+    "documento": "MI 7.648.206",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "749/1981",
+    "fecha": "22/7/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "352",
+    "nota": "rectificación de apellido: las medidas de los Decretos 1960/74, 542/77, 2765/78, 2072/79, 1442/80 y 502/81 a nombre de Carlos Rogelio FONTANO deben entenderse a nombre de Carlos Rogelio PONTANO; el considerando consigna MI 7.548.206 y la parte dispositiva MI 7.648.206"
+   },
+   "motivo": "el artículo 1 rectifica seis decretos a la vez sin que uno solo corresponda al evento; decreto_referido queda vacío por ambiguo, el resto coincide en A y B"
+  }
+ ]
+}

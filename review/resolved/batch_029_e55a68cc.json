@@ -1,0 +1,40 @@
+{
+ "case": "batch_029_e55a68cc",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_046b444f5793",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hilda AGUADO de CONSENTINI",
+    "documento": "LC 9.646.005",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "835/1977",
+    "fecha": "30/3/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "96",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'CONSEN-TINI' (corte por guión) → CONSENTINI; B omitió la N. Los considerandos citan dos decretos (202/976 y 262/977) sin indicar cuál corresponde a ella, por lo que decreto_referido queda vacío"
+  },
+  {
+   "id": "c_6bcab62aea56",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "María Luisa BABINI",
+    "documento": "L.C. 5.649.792",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "934/1977",
+    "fecha": "5/4/1977",
+    "destino": "",
+    "decreto_referido": "485/1977",
+    "pagina": "97",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'por Decreto número 485 de fecha 23 de febrero de 1977 se denegó dicha solicitud', único decreto asociado a la persona; A lo omitió"
+  }
+ ]
+}

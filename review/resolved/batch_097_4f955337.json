@@ -1,0 +1,89 @@
+{
+ "case": "batch_097_4f955337",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_4db7408c2563",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Leonardo BLANCO",
+    "documento": "CI 5.684.058 y DNI 7.597.175",
+    "filiacion": "hijo de Eduardo y Ana ARMIENTO",
+    "tipo": "libertad_vigilada",
+    "decreto": "1882/1981",
+    "fecha": "4/11/1981",
+    "destino": "",
+    "decreto_referido": "3505/1975",
+    "pagina": "386",
+    "nota": "Ciudad de Burzaco, Provincia de Buenos Aires; controla la Policía de la Provincia de Buenos Aires"
+   },
+   "motivo": "el texto dice '—CI. 5.684.058 y DNI. 7.597.175—' (dos documentos unidos por 'y', como B) y la filiación va en minúscula 'hijo de' según la regla de formato; el resto coincide en ambas versiones"
+  },
+  {
+   "id": "a_76236f964afc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ariel Rolando SIERRA",
+    "documento": "DNI 4.417.709",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2381/1975",
+    "fecha": "2/11/1982",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "387",
+    "nota": "fe de erratas: donde dice SIERRA debe decir SIENRA (rectificación dispuesta por Decreto 1107/1982)"
+   },
+   "motivo": "el art. 1 rectifica la medida del Decreto 2381/75 'en la persona de Ariel Rolando SIERRA (DNI. 4.417.709)' a nombre de SIENRA; en fe de erratas el campo decreto es el decreto corregido (2381/1975), como puso A"
+  },
+  {
+   "id": "b_655a62d5c95f",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_76236f964afc (misma persona y misma rectificación); B puso en 'decreto' el decreto rectificador 1107/1982 en vez del corregido 2381/1975"
+  },
+  {
+   "id": "a_24da10cadb61",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Santiago CALAONE",
+    "documento": "DNI 11.926.444",
+    "filiacion": "hijo de Santiago Hipólito y Nélida MARTIN",
+    "tipo": "otro",
+    "decreto": "409/1976",
+    "fecha": "11/11/1982",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "385",
+    "nota": "fe de erratas: donde dice CALAONE debe decir COLAONE (rectificación dispuesta por Decreto 1180/1982; alcanza también a los Decretos 427/77, 1839/78, 2397/79, 2191/80, 1424/81 y 1169/82)"
+   },
+   "motivo": "el art. 1 rectifica las medidas de los Decretos 409/76 y seis más 'en la persona de Hugo Santiago CALAONE' a nombre de COLAONE; el campo decreto es el de arresto corregido (409/1976), como puso A, y los demás se consignan en nota"
+  },
+  {
+   "id": "b_455c912c2567",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_24da10cadb61 (misma persona y misma rectificación); B puso en 'decreto' el decreto rectificador 1180/1982 en vez del corregido 409/1976"
+  },
+  {
+   "id": "a_e05d0d320eb7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rodolfo Juan BERNARDI",
+    "documento": "LE 4.745.965",
+    "filiacion": "hijo de Luis Gino y Emilia Fernanda MARMOL",
+    "tipo": "otro",
+    "decreto": "3505/1975",
+    "fecha": "2/11/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "385",
+    "nota": "fe de erratas: donde dice BERNARDI debe decir BEGNARDI (rectificación dispuesta por Decreto 1864/1981; alcanza también a los Decretos 542/77, 3825/77, 745/78, 478/79, 146/80 y 304/81)"
+   },
+   "motivo": "el art. 1 rectifica las medidas de los Decretos 3505/75 y seis más 'en la persona de Rodolfo Juan BERNARDI' a nombre de BEGNARDI; el campo decreto es el de arresto corregido (3505/1975), como puso A, y los demás se consignan en nota"
+  },
+  {
+   "id": "b_f9197ab58c7f",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_e05d0d320eb7 (misma persona y misma rectificación); B puso en 'decreto' el decreto rectificador 1864/1981 en vez del corregido 3505/1975"
+  }
+ ]
+}

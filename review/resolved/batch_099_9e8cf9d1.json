@@ -1,0 +1,40 @@
+{
+ "case": "batch_099_9e8cf9d1",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_004219020def",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alberto LALLI",
+    "documento": "DNI 10.932.450",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "620/1982",
+    "fecha": "16/9/1982",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "398",
+    "nota": "rectificación de nombre y documento: las medidas de los Decretos 1199/75, 576/77, 972/78, 1114/79, 975/80, 1882/81 y 1064/82 deben entenderse a nombre de Alberto Amado LALLI (DNI. 10.392.450)"
+   },
+   "motivo": "el VISTO cita siete decretos (1199/75 … 1064/82) que afectan todos a la persona; al no ser uno solo, decreto_referido queda vacío y se listan en la nota como hizo A"
+  },
+  {
+   "id": "c_54d920e0fff0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Elena Cristina CERONE de BAGENETTA",
+    "documento": "LC 6.416.333",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "619/1982",
+    "fecha": "16/9/1982",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "398",
+    "nota": "rectificación de nombre: las medidas de los Decretos 2045/75, 142/80, 2713/80 y 2220/81 deben entenderse a nombre de Estela Cristina CERONE de BAGENETTA (LC. 6.416.333)"
+   },
+   "motivo": "el texto rectifica cuatro decretos (2045/75, 142/80, 2713/80 y 2220/81) sin que uno solo sea el referido; corresponde dejar decreto_referido vacío y enumerarlos en la nota, como A"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "case": "batch_009_817a4c3c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_5f5d9ad6e386",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Manuel FERNANDEZ",
+    "documento": "M.I. 7.125.541",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3155/1976",
+    "fecha": "3/12/1976",
+    "destino": "",
+    "decreto_referido": "2087/1976",
+    "pagina": "31",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto nº 2087 del 17 de septiembre de 1976, con respecto a una persona comprendida en el mismo'; es el decreto de arresto que se deja sin efecto"
+  },
+  {
+   "id": "c_e7e53c1539c8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Osvaldo Jorge PAPALEO",
+    "documento": "CI 6.116.116",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2987/1976",
+    "fecha": "24/11/1976",
+    "destino": "",
+    "decreto_referido": "1119/1976",
+    "pagina": "31",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por decreto Nº 1119 del 29 de junio de 1976, con respecto a una persona comprendida en el mismo'; es el decreto de arresto que se deja sin efecto"
+  },
+  {
+   "id": "c_e972fa3e8706",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sebastián Alejandro CORPACCI",
+    "documento": "MI 3.422.758",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2788/1976",
+    "fecha": "5/11/1976",
+    "destino": "",
+    "decreto_referido": "89/1976",
+    "pagina": "33",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto Nº 89 del 12 de abril de 1976, con respecto a algunas personas comprendidas en el mismo'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_3af3e51d7383",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio César SANTILLAN",
+    "documento": "MI 3.420.027",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2788/1976",
+    "fecha": "5/11/1976",
+    "destino": "",
+    "decreto_referido": "89/1976",
+    "pagina": "33",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto Nº 89 del 12 de abril de 1976, con respecto a algunas personas comprendidas en el mismo'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_9858973b2dec",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Ernesto RIVERO CRANWELL",
+    "documento": "MI 4.399.873",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2986/1976",
+    "fecha": "24/11/1976",
+    "destino": "",
+    "decreto_referido": "734/1976",
+    "pagina": "31",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por decreto nº 734 del 4 de junio de 1976, con respecto a una persona comprendida en el mismo'; es el decreto de arresto que se deja sin efecto"
+  }
+ ]
+}

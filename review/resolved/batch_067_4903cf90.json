@@ -1,0 +1,33 @@
+{
+ "case": "batch_067_4903cf90",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_351f35231934",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Luis FOURCADE",
+    "documento": "M.I. 7.693.581",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1463/1979",
+    "fecha": "19/6/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "244",
+    "nota": "Rectificación: los Decretos 2525/1975 (arresto, a nombre de Héctor Luis FURCADE, M.I. 2.693.581) y 2524/1978 (cese, a nombre de FOURCADES) deben entenderse a nombre de Héctor Luis FOURCADE (M.I. 7.693.581); se lo excluye además del Decreto 3972/1975 (donde figuraba como FOURCADES)"
+   },
+   "motivo": "el art. 1 fija la identidad correcta como 'Héctor Luis FOURCADE (M.I. 7.693.581)'; FURCADE y FOURCADES son grafías erróneas de la misma persona; varios decretos referidos sin uno único, por eso vacío"
+  },
+  {
+   "id": "b_9f85d13d2155",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_351f35231934: el texto dice que FURCADE (M.I. 2.693.581) 'corresponde a una misma y única persona' identificada como FOURCADE (M.I. 7.693.581)"
+  },
+  {
+   "id": "b_42ea84315da6",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_351f35231934: la exclusión del Decreto 3972/75 recae sobre la misma persona (FOURCADE, M.I. 7.693.581), ya cubierta en la nota del evento confirmado"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "case": "batch_001_33d17365",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_2e74a06aa022",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ermindo CORIA",
+    "documento": "",
+    "filiacion": "hijo de Mamerto y Julia Mansilla",
+    "tipo": "arresto",
+    "decreto": "947/1976",
+    "fecha": "16/6/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "4",
+    "nota": "el texto dice 'Ermin-\\ndo CORIA' (corte de palabra por guión a fin de línea); se une como 'Ermindo', probable errata por Erminio o Erminido"
+   },
+   "motivo": "el texto dice 'Ermin-do CORIA (hijo de Mamerto y Julia Mansilla)' con guión de fin de línea; unido queda 'Ermindo', ni 'Erminio' (A) ni 'Erminido' (B)"
+  },
+  {
+   "id": "a_7578c4d3bcbb",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_2e74a06aa022 (misma persona, misma filiación; A normalizó el nombre a 'Erminio' que no es lo que dice el texto)"
+  },
+  {
+   "id": "c_d8bf807f9d62",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Luis GHIGO",
+    "documento": "CI 7.490.739",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "659/1976",
+    "fecha": "2/6/1976",
+    "destino": "",
+    "decreto_referido": "88/1976",
+    "pagina": "2",
+    "nota": "el texto dice 'Cl 7.490.739' (OCR por CI)"
+   },
+   "motivo": "el texto dice 'Cl 7.490.739'; por regla 'Cl' donde corresponde cédula de identidad se escribe 'CI', como hizo A"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "case": "batch_089_e6e40a73",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_de3b9b2474a4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Urbano CIAVAGLIA",
+    "documento": "MI 8.353.739",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "639/1981",
+    "fecha": "13/7/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "343",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Urbano CIAVAGLIA (MI. 8.353.739)'; los considerandos listan 25 decretos 'respectivamente' sin indicar cuál corresponde a cada persona, por lo que decreto_referido queda vacío; la nota sobre libertad vigilada no corresponde en una liberacion"
+  },
+  {
+   "id": "c_eeb6236ad1ad",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Angel FIGUEROA",
+    "documento": "CI 8.161.369",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "639/1981",
+    "fecha": "13/7/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "343",
+    "nota": "también Prio. CF. 4910"
+   },
+   "motivo": "el texto dice 'FIGUEROA (Prio. CF. 4910) —CI. 8.161.369—'; el prontuario no es documento de identidad, va en nota"
+  },
+  {
+   "id": "c_9d1af3d74ca8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Orlando Raúl LLANO",
+    "documento": "CI 6.816.503",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "639/1981",
+    "fecha": "13/7/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "343",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Orlando Raúl LLANO (CI. 6.816.503)'; los decretos del considerando no se asignan a personas concretas, decreto_referido vacío"
+  },
+  {
+   "id": "c_cd8750e4eb47",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mónica Cecilia SANCHEZ",
+    "documento": "",
+    "filiacion": "hija de Florencio y N.N.",
+    "tipo": "otro",
+    "decreto": "459/1981",
+    "fecha": "12/3/1981",
+    "destino": "",
+    "decreto_referido": "558/1976",
+    "pagina": "344",
+    "nota": "rectificación de identidad: los Decretos 558/76 (arresto) y 1390/80 (salida del país) deben entenderse a nombre de Norma Stella VAZQUEZ (LC 6.650.342)"
+   },
+   "motivo": "el texto identifica expresamente al Decreto 558/76 como el que 'ordena el arresto' de esta persona, por lo que es el decreto referido"
+  },
+  {
+   "id": "c_aaa5cd30e3f0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Néstro Eduardo BLANCO",
+    "documento": "C.I. 5.278.796; L.E. 4.525.042",
+    "filiacion": "hijo de Eduardo y Ana Armiento",
+    "tipo": "opcion_denegada",
+    "decreto": "304/1981",
+    "fecha": "18/2/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "344",
+    "nota": ""
+   },
+   "motivo": "el texto dice '—C.I. 5.278.796 L.E. 4.525.042—': ambos son documentos de identidad y van en documento"
+  },
+  {
+   "id": "c_f543c724e121",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Norberto PASTORINO",
+    "documento": "M.I. 8.575,890",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "304/1981",
+    "fecha": "18/2/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "344",
+    "nota": "el texto dice 'M.I. 8.575,890' (coma en lugar de punto); también Prio. AGC. 761.582"
+   },
+   "motivo": "el texto dice 'PASTORINO (Prio. AGC. 761.582) —M.I. 8.575,890—'; se transcribe la errata y se aclara en nota, el prontuario va en nota"
+  },
+  {
+   "id": "c_9b246eca1257",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Nicolás SANTELLA",
+    "documento": "C.I. 1.778.813",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "304/1981",
+    "fecha": "18/2/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "344",
+    "nota": "también Prio C.F. 4409"
+   },
+   "motivo": "el texto dice 'SANTELLA (Prio C.F. 4409) —C.I. 1.778.813—'; el prontuario no es documento de identidad"
+  },
+  {
+   "id": "c_abbccc42f58c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Aníbal PAEZ",
+    "documento": "C.I. 251.393 P. Chaco; DNI 14.930.929",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "304/1981",
+    "fecha": "18/2/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "344",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'PAEZ (C.I. 251.393 P. Chaco). DNI. 14.930.929': dos documentos de identidad, ambos en documento en el orden del texto"
+  },
+  {
+   "id": "c_5d6dacd83b4f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "León Eduardo GLOGOWIKY",
+    "documento": "DNI 11.827.749",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "640/1981",
+    "fecha": "13/7/1981",
+    "destino": "",
+    "decreto_referido": "486/1976",
+    "pagina": "344",
+    "nota": "rectificación de apellido en Decretos 486/76 (arresto) y 501/81 (libertad vigilada): donde dice GLOGOWIKY debe decir GLOGOWSKY (DNI 11.827.749)"
+   },
+   "motivo": "el texto dice que por Decreto 486/76 'se dispuso el arresto' de esta persona; ese es el decreto referido"
+  },
+  {
+   "id": "c_4056e438b711",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Enrique PEREIMUTER",
+    "documento": "MI 4.886.872",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "595/1981",
+    "fecha": "7/7/1981",
+    "destino": "",
+    "decreto_referido": "2766/1978",
+    "pagina": "342",
+    "nota": "rectificación de apellido y documento en Decretos 2766/78 (arresto) y 501/81 (libertad vigilada): donde dice Enrique PEREIMUTER (MI 4.886.872) debe decir Enrique PERELMUTER (DNI 6.829.483)"
+   },
+   "motivo": "el texto identifica al Decreto 2766/78 como el que 'dispuso el arresto' de esta persona"
+  },
+  {
+   "id": "c_f945d4616cb0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mirta Esther ROSAS de CORVALAN",
+    "documento": "L.C. 5.958.459",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "264/1981",
+    "fecha": "13/2/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "343",
+    "nota": "también Prio. A.P. 308.285"
+   },
+   "motivo": "el texto dice 'ROSAS de CORVALAN (Prio. A.P. 308.285) —L.C. 5.958.459—'; el prontuario va en nota, no en documento"
+  }
+ ]
+}

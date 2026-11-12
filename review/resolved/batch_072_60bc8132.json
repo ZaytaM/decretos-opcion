@@ -1,0 +1,138 @@
+{
+ "case": "batch_072_60bc8132",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_1cbafd12b88d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eladio GUANTAY",
+    "documento": "M.I. 7.234.266",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2088/1976",
+    "fecha": "28/8/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "264",
+    "nota": "fe de erratas (rectificación dispuesta por Decreto 2093/1979): donde dice Eladio GANTAY debe decir Eladio GUANTAY (M.I. 7.234.266)"
+   },
+   "motivo": "art. 1 rectifica el Decreto 2088/76 ('debe entenderse a nombre de Eladio GUANTAY'); por regla, en fe de erratas `decreto` es el que se corrige, como hace A"
+  },
+  {
+   "id": "b_9cff6a26dd29",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_1cbafd12b88d (misma rectificación de apellido sobre el Decreto 2088/76); B asigna el evento al decreto rectificador en vez del corregido"
+  },
+  {
+   "id": "a_29101b01216d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Isidro Eriberto BARCENA",
+    "documento": "M.I. 8.059.804",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1667/1975",
+    "fecha": "28/8/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "264",
+    "nota": "fe de erratas (rectificación dispuesta por Decreto 2094/1979): donde dice Isidoro Heriberto BARCENA debe decir Isidro Eriberto BARCENA (M.I. 8.059.804); la rectificación alcanza también al Decreto 1004/1977 (denegatoria de salida)"
+   },
+   "motivo": "art. 1 rectifica los Decretos 1667/75 y 1004/77 ('deben entenderse a nombre de Isidro Eriberto BARCENA'); se asigna al decreto de arresto corregido, dejando constancia del otro en nota"
+  },
+  {
+   "id": "b_f00745d179da",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_29101b01216d (misma rectificación de nombre sobre los Decretos 1667/75 y 1004/77); B la asigna al decreto rectificador"
+  },
+  {
+   "id": "a_082c43a95758",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos BERENT",
+    "documento": "M.I. 8.299.404",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "389/1976",
+    "fecha": "28/8/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "264",
+    "nota": "fe de erratas (rectificación dispuesta por Decreto 2095/1979): donde dice Juan Carlos BERONT (C.I. Pol. Mnes. 175.036) debe decir Juan Carlos BERENT (M.I. 8.299.404); la rectificación alcanza también a los Decretos 542/1977 y 1114/1979 (denegatorias de salida)"
+   },
+   "motivo": "art. 1 rectifica los Decretos 389/76, 542/77 y 1114/79 ('debe entenderse a nombre de Juan Carlos BERENT (M.I. 8.299.404)'); se asigna al decreto de arresto corregido"
+  },
+  {
+   "id": "b_fa3c20c3d87b",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_082c43a95758 (misma rectificación de apellido y documento); B la asigna al decreto rectificador 2095/1979"
+  },
+  {
+   "id": "a_226b8a74b165",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Martina Ermelinda CHAVEZ",
+    "documento": "L.C. 11.093.624",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1393/1975",
+    "fecha": "28/9/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "265",
+    "nota": "fe de erratas (rectificación dispuesta por Decreto 2461/1979): donde dice Martina Ermelinda CHAZEZ debe decir Martina Ermelinda CHAVEZ (L.C. 11.093.624)"
+   },
+   "motivo": "art. 1 rectifica el Decreto 1393/75 ('debe entenderse a nombre de Martina Ermelinda CHAVEZ'); A sigue la regla de fe de erratas"
+  },
+  {
+   "id": "b_cb4d893f7603",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_226b8a74b165 (misma rectificación de apellido sobre el Decreto 1393/75); B la asigna al decreto rectificador"
+  },
+  {
+   "id": "a_92980fb01c36",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Antonio OSORES",
+    "documento": "M.I. 7.850.347",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1812/1974",
+    "fecha": "28/8/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "263",
+    "nota": "fe de erratas (rectificación dispuesta por Decreto 2087/1979): donde dice Juan Antonio OSORES (M.I. 7.850.647) debe decir José Antonio OSORES (M.I. 7.850.347)"
+   },
+   "motivo": "art. 1 rectifica el Decreto 1812/74 ('debe entenderse a nombre de José Antonio OSORES (M.I. 7.850.347)'); A sigue la regla de fe de erratas"
+  },
+  {
+   "id": "b_5de8362ed6a6",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_92980fb01c36 (misma rectificación de nombre y documento sobre el Decreto 1812/74); B la asigna al decreto rectificador"
+  },
+  {
+   "id": "a_fd558e2d4985",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Mario Domingo MARCA",
+    "documento": "M.I. 7.065.796",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1438/1974",
+    "fecha": "28/8/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "263",
+    "nota": "fe de erratas (rectificación dispuesta por Decreto 2088/1979): donde dice Jorge Mario Domingo MARCAS debe decir Jorge Mario Domingo MARCA (M.I. 7.065.796)"
+   },
+   "motivo": "art. 1 rectifica el Decreto 1438/74 ('debe entenderse a nombre de Jorge Mario Domingo MARCA'); A sigue la regla de fe de erratas"
+  },
+  {
+   "id": "b_d3d1f2812feb",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_fd558e2d4985 (misma rectificación de apellido sobre el Decreto 1438/74); B la asigna al decreto rectificador"
+  }
+ ]
+}

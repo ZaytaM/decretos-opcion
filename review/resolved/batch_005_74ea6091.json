@@ -1,0 +1,108 @@
+{
+ "case": "batch_005_74ea6091",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_db1d87723ce8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alejandro Ramón DAUSA",
+    "documento": "DNI 10.894.275",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2463/1976",
+    "fecha": "15/10/1976",
+    "destino": "",
+    "decreto_referido": "1704/1976",
+    "pagina": "19",
+    "nota": ""
+   },
+   "motivo": "el considerando dice que desaparecieron las causas de las medidas del 'Decreto Nº 1704 del 13 de agosto de 1976' respecto de las personas del art. 1; B omitió el decreto referido"
+  },
+  {
+   "id": "c_a3d4b5ad3d2c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Daniel Andrés GARCIA CARRANZA",
+    "documento": "DNI 10.770.894",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2463/1976",
+    "fecha": "15/10/1976",
+    "destino": "",
+    "decreto_referido": "1704/1976",
+    "pagina": "19",
+    "nota": ""
+   },
+   "motivo": "el considerando remite al Decreto 1704/1976; el 'DNI.' del texto es sólo puntuación tipográfica, se escribe 'DNI 10.770.894'"
+  },
+  {
+   "id": "c_481cb2294a21",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jose Luis DESTEFANI",
+    "documento": "DNI 10.123.598",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2463/1976",
+    "fecha": "15/10/1976",
+    "destino": "",
+    "decreto_referido": "1704/1976",
+    "pagina": "19",
+    "nota": ""
+   },
+   "motivo": "el considerando remite al Decreto 1704/1976; documento 'DNI 10.123.598' sin el punto tipográfico"
+  },
+  {
+   "id": "c_d5369829dc7a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alfredo Daniel VELARDE",
+    "documento": "DNI 11.064.440",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2463/1976",
+    "fecha": "15/10/1976",
+    "destino": "",
+    "decreto_referido": "1704/1976",
+    "pagina": "19",
+    "nota": ""
+   },
+   "motivo": "el considerando remite al Decreto 1704/1976; documento 'DNI 11.064.440' sin el punto tipográfico"
+  },
+  {
+   "id": "c_f69f6a951b4d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ana María SANSON",
+    "documento": "LC 10.076.282",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2057/1976",
+    "fecha": "15/9/1976",
+    "destino": "",
+    "decreto_referido": "203/1976",
+    "pagina": "17",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por decretos nº 203 del 23 de abril de 1976, con respecto a una persona comprendida en el mismo', que es la del art. 1; B omitió el decreto referido"
+  },
+  {
+   "id": "c_6e3e6fed1574",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Omar Delio GARCIA",
+    "documento": "CI R.O. del Uruguay 5.812",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1565/1976",
+    "fecha": "30/7/1976",
+    "destino": "",
+    "decreto_referido": "1146/1976",
+    "pagina": "20",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita un solo decreto (1146 del 2/7/1976) y el art. 2 lo asocia expresamente a la persona; 'C.I.' se escribe 'CI'; la nota no corresponde en una liberación"
+  }
+ ]
+}

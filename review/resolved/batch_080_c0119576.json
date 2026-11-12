@@ -1,0 +1,45 @@
+{
+ "case": "batch_080_c0119576",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_c02e16593671",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos ALVAREZ",
+    "documento": "MI 7.982.328",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2107/1980",
+    "fecha": "30/9/1980",
+    "destino": "",
+    "decreto_referido": "1931/1974",
+    "pagina": "300",
+    "nota": "se lo excluye del Decreto 1931/74 por error de inclusión; su detención subsiste por Decreto 1475/74"
+   },
+   "motivo": "el artículo 1 dice 'Exclúyase del Decreto Nº 1931/74'; la medida recae sobre ese decreto, el 1475/74 queda consignado en nota"
+  },
+  {
+   "id": "a_8884a2437d13",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ernesto Vicente PAILLALEF",
+    "documento": "DNI 8.213.511",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "672/1975",
+    "fecha": "14/3/1980",
+    "destino": "",
+    "decreto_referido": "459/1980",
+    "pagina": "298",
+    "nota": "fe de erratas (Decreto 559/80): donde dice Ernesto Vicente PAILLAIEF (L.E. 8.213.511) debe decir Ernesto Vicente PAILLALEF (DNI 8.213.511); rectifica los decretos 672/75 (arresto) y 459/80 (denegación de salida del país)"
+   },
+   "motivo": "el artículo 1 dice que los decretos 672/75 y 459/80 'deben interpretarse a nombre de Ernesto Vicente PAILLALEF (DNI. 8.213.511)'; es fe de erratas, se consigna el decreto corregido principal y el otro en decreto_referido"
+  },
+  {
+   "id": "b_452d710f6511",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_8884a2437d13 (misma persona y misma rectificación); se unificó en un solo evento con el nombre y documento corregidos"
+  }
+ ]
+}

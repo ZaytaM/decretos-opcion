@@ -1,0 +1,28 @@
+{
+ "case": "batch_122_729377dd",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_d52c8524ef53",
+   "veredicto": "descartar",
+   "motivo": "el art. 2 sólo aclara que 'Jorge SOLFER' del decreto 1151/75 debe entenderse como Jorge SOIFER, 'tal como figura en el Artículo 1°'; es la misma persona que la liberacion de Jorge SOIFER (CI 7.003.532) ya confirmada, no un evento distinto"
+  },
+  {
+   "id": "c_2fa35a68a7e7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Alfonso ELISII",
+    "documento": "Prío. A.G.C. nº 754.038",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1712/1975",
+    "fecha": "19/6/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "497",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Prío. A.G.C. nº 754.038' con acento; B omitió la tilde"
+  }
+ ]
+}

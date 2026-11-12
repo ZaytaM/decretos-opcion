@@ -1,0 +1,23 @@
+{
+ "case": "batch_046_9959de56",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_efb3de28d06f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alfredo Mario ANTANUCCI",
+    "documento": "CI PF 7.914.472",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2521/1978",
+    "fecha": "26/10/1978",
+    "destino": "",
+    "decreto_referido": "1393/1975",
+    "pagina": "157",
+    "nota": "rectificación de nombre y documento: donde dice Juan Carlos ANTANUCCI (Prío. S.P. 110.789) debe decir Alfredo Mario ANTANUCCI (CI PF 7.914.472); corrige los Decretos 1393/75 (arresto), 941/77 y 849/78 (denegatorias de salida del país)"
+   },
+   "motivo": "el texto dice 'Alfredo Mario ANTANUCCI (C.I. PF. 7.914.472)' y el único decreto de arresto del VISTO es el 1393/75; se normaliza 'C.I.' a 'CI' y se toma 1393/1975 como decreto_referido"
+  }
+ ]
+}

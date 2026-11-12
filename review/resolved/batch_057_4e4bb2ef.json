@@ -1,0 +1,57 @@
+{
+ "case": "batch_057_4e4bb2ef",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_da42bf8bee2f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Elba Clotilde PERRONE",
+    "documento": "LC 5.255.862",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "3313/1979",
+    "fecha": "21/12/1979",
+    "destino": "",
+    "decreto_referido": "484/1977",
+    "pagina": "204",
+    "nota": "rectificación de documento: los Decretos 484/77 (arresto), 3396/77 y 2518/79 (dos denegatorias de salida del país) deben entenderse a nombre de Elba Clotilde PERRONE (LC 5.255.862); donde dice LC 5.255.882 debe decir 5.255.862"
+   },
+   "motivo": "el art. 1 fija como correcto 'L.C. 5.255.862'; el 484/77 es el decreto de arresto según el texto ('respectivamente'); B dejó el número erróneo"
+  },
+  {
+   "id": "c_95522f89f807",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Susana LOBOSCO",
+    "documento": "CI 6.598.911",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "3368/1979",
+    "fecha": "27/12/1979",
+    "destino": "",
+    "decreto_referido": "1309/1975",
+    "pagina": "207",
+    "nota": "Remedios de Escalada, Provincia de Buenos Aires, dentro de los límites de la localidad; controla la Policía de la Provincia de Buenos Aires; el texto agrega 'Prio. C.F. 4372'"
+   },
+   "motivo": "el texto dice '(Prio. C.F. 4372) (C.I. 6.598.911)'; el prontuario no es documento de identidad, va en nota"
+  },
+  {
+   "id": "c_adb9623d3369",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ana Mirta MARCIALES de D'AGNESE",
+    "documento": "LC 5.955.454",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2897/1979",
+    "fecha": "15/11/1979",
+    "destino": "",
+    "decreto_referido": "2492/1975",
+    "pagina": "207",
+    "nota": "rectificación de apellido y filiación: el Decreto 2492/75 (arresto), dictado a nombre de Ana Mirta MARCIALES (hija de Mariano José y de Irma Carmen RIENNAN), debe entenderse a nombre de Ana Mirta MARCIALES de D'AGNESE (LC 5.955.454)"
+   },
+   "motivo": "el art. 1 dice que el decreto 'debe entenderse a nombre de Ana Mirta MARCIALES de D'AGNESE (L.C. 5.955.454)'; con documento presente la filiación anterior va en nota"
+  }
+ ]
+}

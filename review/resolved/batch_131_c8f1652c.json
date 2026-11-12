@@ -1,0 +1,23 @@
+{
+ "case": "batch_131_c8f1652c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_84f7bd338ca6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto VIGGIANO",
+    "documento": "DNI 5.166.082",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1905/1976",
+    "fecha": "3/9/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "763",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'DNI nro. 5.166.082'; ambos coinciden en dígitos, se omite la partícula 'nro.' como se normalizó 'M.I.' a 'MI' en los demás eventos"
+  }
+ ]
+}

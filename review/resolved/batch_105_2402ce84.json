@@ -1,0 +1,23 @@
+{
+ "case": "batch_105_2402ce84",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_95026a81b54b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "María José YOFRE",
+    "documento": "DNI 6.678.979",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1761/1983",
+    "fecha": "15/7/1983",
+    "destino": "",
+    "decreto_referido": "50/1976",
+    "pagina": "438",
+    "nota": "Art. 2: se la excluye del Decreto 50/76 (que la había arrestado con DNI 6.678.979) por ser la misma persona arrestada por Decreto 4065/75 a nombre de Adriana Silvia MUÑOZ; el art. 1 rectifica esa medida a su nombre"
+   },
+   "motivo": "el texto dice 'por Decreto Nº 50/76 se adoptó idéntica medida en la persona de María José YOFRE' y 'Exclúyase del Decreto Nº 50/76 a la detenida'; ese es el decreto propio de YOFRE, mientras que 4065/75 ya queda referido en el evento confirmado de MUÑOZ"
+  }
+ ]
+}

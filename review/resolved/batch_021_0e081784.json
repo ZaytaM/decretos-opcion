@@ -1,0 +1,74 @@
+{
+ "case": "batch_021_0e081784",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_4e0ce98fcdf6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Elio PELLE",
+    "documento": "MI 4.324.724",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2944/1977",
+    "fecha": "27/9/1977",
+    "destino": "",
+    "decreto_referido": "3092/1976",
+    "pagina": "71",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 3092/976, con respecto a una persona comprendida en el mismo' y el artículo 1 libera a esa única persona; documento normalizado a 'MI'"
+  },
+  {
+   "id": "c_01ca73c1a79d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos BARRECA",
+    "documento": "LE 5.297.027",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2945/1977",
+    "fecha": "27/9/1977",
+    "destino": "",
+    "decreto_referido": "2176/1977",
+    "pagina": "71",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 2176/977, con respecto a alguna persona comprendida en el mismo' y el artículo 1 libera a una sola persona"
+  },
+  {
+   "id": "c_b0de2fe91b68",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Miguel María HALVEY",
+    "documento": "",
+    "filiacion": "hijo de Juan Miguel María y de Beatriz DLLIANO",
+    "tipo": "liberacion",
+    "decreto": "3394/1977",
+    "fecha": "8/11/1977",
+    "destino": "",
+    "decreto_referido": "3443/1975",
+    "pagina": "72",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 3443/975, con respecto a alguna persona comprendida en el mismo' y el artículo 1 libera a una sola persona"
+  },
+  {
+   "id": "c_5ae209193e26",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Marcelo LARRAN",
+    "documento": "CI 5.217.921",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2876/1977",
+    "fecha": "21/9/1977",
+    "destino": "",
+    "decreto_referido": "942/1977",
+    "pagina": "70",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 942/977, con respecto a alguna persona comprendida en el mismo' y el artículo 1 libera a una sola persona"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "case": "batch_041_c3b96557",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_f865a8bf92cc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Rodolfo ENTRAIGAS",
+    "documento": "MI 8.217.419",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2044/1978",
+    "fecha": "31/8/1978",
+    "destino": "Reino de España",
+    "decreto_referido": "",
+    "pagina": "138",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'con destino al Reino de ESPAÑA'; las mayúsculas son tipográficas y el mismo destino figura como 'Reino de España' para SCHATZ; la nota de B ('solicitud conforme Ley 21.650') no corresponde según las reglas de nota"
+  },
+  {
+   "id": "c_7bddd32a5116",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Francisco Alberto LOGUERCIO",
+    "documento": "MI 10.983.681",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "2048/1978",
+    "fecha": "31/8/1978",
+    "destino": "",
+    "decreto_referido": "2561/1976",
+    "pagina": "139",
+    "nota": "Santa Teresita, Partido de General Lavalle, Provincia de Buenos Aires (antes Ciudad de Buenos Aires); puede desplazarse dentro del ejido urbano; control: Policía de la Provincia de Buenos Aires; modifica Decreto 3891/1977"
+   },
+   "motivo": "el VISTO asocia al detenido con un único decreto de arresto ('Decreto nº 2561 del 20 de Octubre de 1976'); el 3891/1977 es el decreto de libertad vigilada que se modifica y queda consignado en la nota"
+  }
+ ]
+}

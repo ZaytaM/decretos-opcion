@@ -1,0 +1,159 @@
+{
+ "case": "batch_038_109c1ae1",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_21270bd97f58",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Emilio Dante BENINCA",
+    "documento": "MI 6.277.947",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "959/1978",
+    "fecha": "28/4/1978",
+    "destino": "",
+    "decreto_referido": "1418/1977",
+    "pagina": "128",
+    "nota": ""
+   },
+   "motivo": "el considerando cita un único decreto ('Decreto número 1418/77, con respecto a una persona') y el artículo nombra a una sola persona; el referido es inequívoco"
+  },
+  {
+   "id": "c_e670333b1243",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Miguel DEANE",
+    "documento": "LE 11.266.874",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "969/1978",
+    "fecha": "2/5/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "128",
+    "nota": ""
+   },
+   "motivo": "el considerando cita dos decretos ('73/978 y 166/978 ... algunas personas comprendidas en los mismos') sin decir cuál corresponde a cada persona; referido ambiguo, va vacío"
+  },
+  {
+   "id": "c_aebaa05714fc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo Alonso ROBIROSA",
+    "documento": "LE 4.385.866",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "969/1978",
+    "fecha": "2/5/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "128",
+    "nota": ""
+   },
+   "motivo": "el considerando cita dos decretos ('73/978 y 166/978') sin asignar persona a cada uno; referido ambiguo, va vacío"
+  },
+  {
+   "id": "c_557d1845db8e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Carlos ABREGU",
+    "documento": "Prio. 847.373",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "971/1978",
+    "fecha": "4/5/1978",
+    "destino": "",
+    "decreto_referido": "1962/1975",
+    "pagina": "129",
+    "nota": ""
+   },
+   "motivo": "el considerando cita un único decreto ('Decreto número 1962/75') y hay una sola persona en el artículo"
+  },
+  {
+   "id": "c_6114ede73127",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Aldo Roberto DUCCI",
+    "documento": "LE 116.024",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "976/1978",
+    "fecha": "4/5/1978",
+    "destino": "",
+    "decreto_referido": "505/1978",
+    "pagina": "129",
+    "nota": ""
+   },
+   "motivo": "el considerando cita un único decreto ('Decreto número 505/978, con respecto a una persona') y hay una sola persona en el artículo"
+  },
+  {
+   "id": "c_c9293d3cd4a7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José MAMUT",
+    "documento": "MI 7.334.592",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "932/1978",
+    "fecha": "20/4/1978",
+    "destino": "",
+    "decreto_referido": "514/1978",
+    "pagina": "127",
+    "nota": ""
+   },
+   "motivo": "el considerando cita un único decreto ('Decreto número 514/78, con respecto a las personas comprendidas en el mismo'); aplica a los tres nombrados"
+  },
+  {
+   "id": "c_26a6c7776721",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alejandro Mariano CIORDIA",
+    "documento": "MI 3.863.025",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "932/1978",
+    "fecha": "20/4/1978",
+    "destino": "",
+    "decreto_referido": "514/1978",
+    "pagina": "127",
+    "nota": ""
+   },
+   "motivo": "el considerando cita un único decreto ('Decreto número 514/78') para las personas comprendidas en el mismo"
+  },
+  {
+   "id": "c_8a91cf9f3ef0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto CIORDIA",
+    "documento": "DNI 12.442.952",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "932/1978",
+    "fecha": "20/4/1978",
+    "destino": "",
+    "decreto_referido": "514/1978",
+    "pagina": "127",
+    "nota": ""
+   },
+   "motivo": "el considerando cita un único decreto ('Decreto número 514/78') para las personas comprendidas en el mismo; apellido cortado por guión ('CIOR-DIA') se une"
+  },
+  {
+   "id": "c_afd0a7a0a67b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Angélica del Carmen FERNANDEZ ORTEGA",
+    "documento": "CI de Chile 181.783",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "933/1978",
+    "fecha": "20/4/1978",
+    "destino": "",
+    "decreto_referido": "710/1975",
+    "pagina": "127",
+    "nota": ""
+   },
+   "motivo": "el considerando cita un único decreto ('Decreto número 710/75') y hay una sola persona en el artículo"
+  }
+ ]
+}

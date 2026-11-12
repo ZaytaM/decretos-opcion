@@ -1,0 +1,193 @@
+{
+ "case": "batch_007_1fb67d47",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_cd98e70e1563",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Angel LEVATO",
+    "documento": "MI 4.431.915",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2325/1976",
+    "fecha": "1/10/1976",
+    "destino": "",
+    "decreto_referido": "2131/1976",
+    "pagina": "25",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto nº 2131 del 20 de septiembre de 1976, con respecto a una persona comprendida en el mismo'; ese es el decreto de arresto asociado"
+  },
+  {
+   "id": "c_5f544716e0d8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos GONZALEZ LUCERO",
+    "documento": "LC 7.944.495",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2328/1976",
+    "fecha": "1/10/1976",
+    "destino": "",
+    "decreto_referido": "998/1976",
+    "pagina": "26",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por decreto nº 998 del 22 de junio de 1976, con respecto a una persona comprendida en el mismo'"
+  },
+  {
+   "id": "c_5f444a2faeba",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Larry Ernesto Valentín BERTONSINI",
+    "documento": "MI 6.220.630",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2590/1976",
+    "fecha": "25/10/1976",
+    "destino": "",
+    "decreto_referido": "2428/1976",
+    "pagina": "26",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto nº 2428 del 8 de octubre de 1976, con respecto a algunas personas comprendidas en el mismo'"
+  },
+  {
+   "id": "c_817f8bae5a1b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Mario DE LA VEGA RODRIGUEZ DE FREITAS",
+    "documento": "",
+    "filiacion": "hijo de Homero Rodriguez de Freitas y Jurema De La Vega",
+    "tipo": "liberacion",
+    "decreto": "2590/1976",
+    "fecha": "25/10/1976",
+    "destino": "",
+    "decreto_referido": "2428/1976",
+    "pagina": "26",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto nº 2428 del 8 de octubre de 1976'; único decreto de arresto asociado a las personas del artículo 1"
+  },
+  {
+   "id": "c_eb6b5ff8f19a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Domingo Antonio SCANDOLARA",
+    "documento": "",
+    "filiacion": "hijo de Enrique y Adelina Stieve",
+    "tipo": "liberacion",
+    "decreto": "2590/1976",
+    "fecha": "25/10/1976",
+    "destino": "",
+    "decreto_referido": "2428/1976",
+    "pagina": "26",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto nº 2428 del 8 de octubre de 1976'; único decreto de arresto asociado a las personas del artículo 1"
+  },
+  {
+   "id": "c_74aaa2d9bf9d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Silvio PEKER",
+    "documento": "MI 4.126.843",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2590/1976",
+    "fecha": "25/10/1976",
+    "destino": "",
+    "decreto_referido": "2428/1976",
+    "pagina": "26",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto nº 2428 del 8 de octubre de 1976'; único decreto de arresto asociado a las personas del artículo 1"
+  },
+  {
+   "id": "c_c02647fb3140",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo Antonio PARETS",
+    "documento": "MI 7.783.917",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2590/1976",
+    "fecha": "25/10/1976",
+    "destino": "",
+    "decreto_referido": "2428/1976",
+    "pagina": "26",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto nº 2428 del 8 de octubre de 1976'; único decreto de arresto asociado a las personas del artículo 1"
+  },
+  {
+   "id": "c_d067b64fe8c0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Atilio Omar VELAZQUEZ",
+    "documento": "MI 7.924.489",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1642/1976",
+    "fecha": "6/8/1976",
+    "destino": "",
+    "decreto_referido": "427/1976",
+    "pagina": "24",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por decreto nº 427 del 14 de mayo de 1976, con respecto a una persona comprendida en el mismo'"
+  },
+  {
+   "id": "c_aaac64236911",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alberto Daniel LIMA",
+    "documento": "CI 99.532",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2267/1976",
+    "fecha": "29/9/1976",
+    "destino": "",
+    "decreto_referido": "2034/1976",
+    "pagina": "24",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por decreto nº 2034 de fecha 13 de septiembre de 1976, para con las personas comprendidas en el mismo'"
+  },
+  {
+   "id": "c_c02cbad54346",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo MAGAN LOPEZ",
+    "documento": "MI 7.482.828",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2267/1976",
+    "fecha": "29/9/1976",
+    "destino": "",
+    "decreto_referido": "2034/1976",
+    "pagina": "24",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por decreto nº 2034 de fecha 13 de septiembre de 1976, para con las personas comprendidas en el mismo'"
+  },
+  {
+   "id": "c_611411593208",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Horacio Nestor PEREYRA",
+    "documento": "MI 5.705.932",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2267/1976",
+    "fecha": "29/9/1976",
+    "destino": "",
+    "decreto_referido": "2034/1976",
+    "pagina": "24",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por decreto nº 2034 de fecha 13 de septiembre de 1976, para con las personas comprendidas en el mismo'"
+  }
+ ]
+}

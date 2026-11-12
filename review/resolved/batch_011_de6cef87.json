@@ -1,0 +1,23 @@
+{
+ "case": "batch_011_de6cef87",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_0271efb1e2fb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Justo NEUSS",
+    "documento": "CI 5.869.301",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "3092/1976",
+    "fecha": "29/11/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "36",
+    "nota": "el texto dice 'Jorge Justo NEUSS (-h- CI 5.869.301)'; '-h-' indica hijo, homónimo del primer arrestado (CI 1.013.918)"
+   },
+   "motivo": "el texto dice 'Jorge Justo NEUSS (-h- CI 5.869.301)'; el '-h-' (hijo) no forma parte del nombre, va en nota como hizo A; B lo incorporó al campo persona"
+  }
+ ]
+}

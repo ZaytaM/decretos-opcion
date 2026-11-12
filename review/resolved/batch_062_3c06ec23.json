@@ -1,0 +1,62 @@
+{
+ "case": "batch_062_3c06ec23",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_1e1bc4f5c035",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "César Augusto GIMENEZ ROA",
+    "documento": "C.I. 339.593 Pol. del Paraguay",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "752/1979",
+    "fecha": "30/3/1979",
+    "destino": "",
+    "decreto_referido": "1931/1974",
+    "pagina": "227",
+    "nota": "deja sin efecto el arresto (Decreto 1931/74) y la expulsión (Decreto 787/76)"
+   },
+   "motivo": "el texto dice 'por Decreto número 1931 ... se ordenó el arresto' de los nombrados; es el decreto de arresto asociado explícitamente a la persona, el 787/76 (expulsión) queda en nota"
+  },
+  {
+   "id": "c_9a6e9db17b8f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eweron Goncalvez VIEIRA ZILHO",
+    "documento": "Pasaporte “A” 016.480",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "752/1979",
+    "fecha": "30/3/1979",
+    "destino": "",
+    "decreto_referido": "1931/1974",
+    "pagina": "227",
+    "nota": "deja sin efecto el arresto (Decreto 1931/74) y la expulsión (Decreto 787/76)"
+   },
+   "motivo": "el texto dice 'por Decreto número 1931 ... se ordenó el arresto' de los nombrados; es el decreto de arresto asociado explícitamente a la persona, el 787/76 (expulsión) queda en nota"
+  },
+  {
+   "id": "a_6b68e8efacb8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Emilio Alberto ABDALA",
+    "documento": "",
+    "filiacion": "hijo de Emilio y de María Francisca HERNANDEZ",
+    "tipo": "otro",
+    "decreto": "758/1979",
+    "fecha": "30/3/1979",
+    "destino": "",
+    "decreto_referido": "3740/1975",
+    "pagina": "227",
+    "nota": "rectificación de apellido: el arresto dispuesto por Decreto 3740/75 a nombre de Emilio Alberto ABDA debe entenderse a nombre de Emilio Alberto ABDALA"
+   },
+   "motivo": "el art. 1 dice que el arresto del Decreto 3740/75 'debe entenderse a nombre de Emilio Alberto ABDALA'; es un decreto propio (758/1979), no una fe de erratas del Boletín, así que 'decreto' lleva 758/1979"
+  },
+  {
+   "id": "b_9e8270f842bb",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_6b68e8efacb8 (misma persona y misma rectificación); además B puso decreto 3740/1975 con fecha 30/3/1979, inconsistente: el evento surge del Decreto 758/1979"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "case": "batch_114_3ec23835",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_4775e26e9c01",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Martin OLIVEIRA",
+    "documento": "DNI 11.266.568",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1390/1974",
+    "fecha": "7/1/1975",
+    "destino": "",
+    "decreto_referido": "1390/1974",
+    "pagina": "474",
+    "nota": "fe de erratas (Decreto 16/1975): donde dice Julio Martin OLIVERA (C.I. 7.200.947) debe decir Julio Martin OLIVEIRA (D.N.I. 11.266.568); arresto dispuesto por Decreto 1390 del 8/11/1974"
+   },
+   "motivo": "art. 1 rectifica el arresto del Decreto 1390/74: 'debe entenderse a nombre de Julio Martin OLIVEIRA (D.N.I. 11.266.568)'; en fe de erratas el campo decreto es el que se corrige"
+  },
+  {
+   "id": "a_f74133abd53f",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_4775e26e9c01 (misma persona y misma rectificación; se conserva el nombre y documento corregidos, el erróneo queda en nota)"
+  },
+  {
+   "id": "b_43fc43adfa79",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Diego BAEZ ROMERO",
+    "documento": "DNI 92.170.760",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1845/1974",
+    "fecha": "7/1/1975",
+    "destino": "",
+    "decreto_referido": "1845/1974",
+    "pagina": "474",
+    "nota": "fe de erratas (Decreto 16/1975): donde dice Digno BAEZ ROMERO (D.N.I. 92.170.778) debe decir Diego BAEZ ROMERO (D.N.I. 92.170.760); arresto dispuesto por Decreto 1845 del 12/11/1974"
+   },
+   "motivo": "art. 1 rectifica el arresto del Decreto 1845/74: 'debe entenderse a nombre de Diego BAEZ ROMERO (D.N.I. 92.170.760)'; en fe de erratas el campo decreto es el que se corrige"
+  },
+  {
+   "id": "a_faf540643a9f",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_43fc43adfa79 (misma persona y misma rectificación; se conserva el nombre y documento corregidos, el erróneo queda en nota)"
+  }
+ ]
+}

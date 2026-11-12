@@ -1,0 +1,50 @@
+{
+ "case": "batch_014_59849fe2",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_c5022d2ed9d1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Néstor Roberto TARANO",
+    "documento": "MI 7.678.024",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "3505/1975",
+    "fecha": "21/11/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "48",
+    "nota": "fe de erratas: donde dice Néstor ROBERTO debe decir Néstor Roberto TARANO (arresto dispuesto por Decreto 3505 del 21/11/1975). Contenido en Decreto 3478/1977, art. 2"
+   },
+   "motivo": "el art. 2 dice que el arresto del Decreto 3505/975 'a nombre de Néstor ROBERTO ... debe entenderse a nombre de Néstor Roberto TARANO'; en fe de erratas el campo decreto es el corregido (3505/1975) y la persona el nombre rectificado"
+  },
+  {
+   "id": "b_b1ef23184b59",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_c5022d2ed9d1 (misma fe de erratas del art. 2); B puso como persona el nombre erróneo 'Néstor ROBERTO' y como decreto el 3478/1977 en lugar del corregido"
+  },
+  {
+   "id": "a_3867a6f9ccd1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Angel RODRIGUEZ PERALTA",
+    "documento": "MI 10.755.532",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "3396/1977",
+    "fecha": "21/11/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "48",
+    "nota": "fe de erratas: donde dice Miguel Angel RODRIGUEZ (hijo de Julio y María Nélida Dieguez) debe decir Miguel Angel RODRIGUEZ PERALTA (M.I. 10.755.532); corrige el Decreto 3396 del 9/11/1977 (denegación de salida del país). Contenido en Decreto 3477/1977"
+   },
+   "motivo": "el art. 1 dice que el Decreto 3396 'debe entenderse a nombre de Miguel Angel RODRIGUEZ PERALTA (M.I. 10.755.532)'; en fe de erratas el campo decreto es el corregido (3396/1977)"
+  },
+  {
+   "id": "b_491ef2fd0a24",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_3867a6f9ccd1 (misma persona y misma rectificación); B puso como decreto el 3477/1977 en lugar del corregido 3396/1977"
+  }
+ ]
+}

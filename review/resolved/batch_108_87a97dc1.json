@@ -1,0 +1,62 @@
+{
+ "case": "batch_108_87a97dc1",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_f164346ed541",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Horacio Luis ROMERO",
+    "documento": "MI 4.688.492",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "33/1982",
+    "fecha": "7/1/1982",
+    "destino": "",
+    "decreto_referido": "1207/1976",
+    "pagina": "455",
+    "nota": "Rectificación de nombre de pila: las medidas de los Decretos 1207/76 (arresto) y 1692/79 (opción diferida) a nombre de Luis Horacio ROMERO deben entenderse a nombre de Horacio Luis ROMERO"
+   },
+   "motivo": "el texto asocia a la persona con ambos decretos del VISTO; se toma el de arresto (1207/76) como referido y la nota conserva el 1692/79"
+  },
+  {
+   "id": "c_49c4a7bbef99",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Marta Elena RIOS BARRERA de LOPEZ",
+    "documento": "LC 6.180.218",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "32/1982",
+    "fecha": "7/1/1982",
+    "destino": "",
+    "decreto_referido": "3317/1975",
+    "pagina": "455",
+    "nota": "Se la excluye del Decreto 3440/75 por hallarse incluida en el Decreto 3317/75 (arresto), cuya medida se rectifica a nombre de LC 6.180.218 (antes LC 6.580.218)"
+   },
+   "motivo": "el artículo 1 la excluye del 3440/75 'por hallarse incluída en el Decreto Nº 3317/75' y rectifica la medida de este último; el arresto vigente es el 3317/75"
+  },
+  {
+   "id": "c_8dd42a61505b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo Enrique KACMAJOR",
+    "documento": "DNI 12.240.492",
+    "filiacion": "hijo de Segismundo y Juana MICUDA",
+    "tipo": "otro",
+    "decreto": "30/1982",
+    "fecha": "7/1/1982",
+    "destino": "",
+    "decreto_referido": "2492/1975",
+    "pagina": "455",
+    "nota": "Rectificación de apellidos: las medidas de los Decretos 2492/75 (arresto) y 3257/79 (opción diferida) a nombre de Ricardo Enrique KASCMAJOR, hijo de Segismundo y Juana KIKUDA, deben entenderse a nombre de Ricardo Enrique KACMAJOR, hijo de Segismundo y Juana MICUDA"
+   },
+   "motivo": "el texto dice que los apellidos correctos son 'KACMAJOR Y MICUDA' y el DNI acompaña al nombre rectificado; se registra la forma corregida (igual criterio que en 33/1982) y la nota conserva la grafía anterior"
+  },
+  {
+   "id": "a_29928838f53a",
+   "veredicto": "dudoso",
+   "motivo": "el texto se corta en los considerandos ('el Poder Ejecutivo Nacional consi-'); no hay parte dispositiva y no se puede saber si la opción fue denegada, diferida o concedida"
+  }
+ ]
+}

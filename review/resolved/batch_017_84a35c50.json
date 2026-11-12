@@ -1,0 +1,40 @@
+{
+ "case": "batch_017_84a35c50",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_79edd4924be5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luciano Humberto ROSALES",
+    "documento": "LE 6.638.770",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2592/1977",
+    "fecha": "2/9/1977",
+    "destino": "",
+    "decreto_referido": "2284/1977",
+    "pagina": "60",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 2284/977, con respecto a alguna persona comprendida en el mismo'; el texto asocia a Rosales con 2284/977 (los decretos del VISTO 1368/74 y 2717/75 son generales de estado de sitio)"
+  },
+  {
+   "id": "c_ff07feedb374",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Eduardo CARVAJAL",
+    "documento": "CI chilena 83.296",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "741/1977",
+    "fecha": "17/3/1977",
+    "destino": "",
+    "decreto_referido": "3094/1976",
+    "pagina": "60",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'ciudadano chileno Carlos Eduardo CARVAJAL (CI chilena Nº 83.296)' sin mencionar país de destino; 'chileno' es nacionalidad, no destino, así que destino queda vacío; el documento se transcribe sin 'Nº' según la regla; el arresto referido es 'Decreto Nº 3094/976'"
+  }
+ ]
+}

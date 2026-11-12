@@ -1,0 +1,57 @@
+{
+ "case": "batch_123_ba47f52c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_7eb2424d881d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Dora MONTI",
+    "documento": "AGC 754.340",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2004/1975",
+    "fecha": "24/7/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "500",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el 1368/74 y los considerandos listan dieciséis decretos sin indicar cuál corresponde a cada persona; el referido es ambiguo y va vacío"
+  },
+  {
+   "id": "c_6960d8324035",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luís Ernesto PEDRERO",
+    "documento": "CI 8.181.995",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2004/1975",
+    "fecha": "24/7/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "500",
+    "nota": ""
+   },
+   "motivo": "el texto no asocia a PEDRERO con ningún decreto; el 1856/75 que puso A ni siquiera figura en los considerandos"
+  },
+  {
+   "id": "c_5ec92428dfcb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Enrique LOCANO",
+    "documento": "CI 7.314.112",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2004/1975",
+    "fecha": "24/7/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "500",
+    "nota": ""
+   },
+   "motivo": "el texto no asocia a LOCANO con ningún decreto; el 1856/75 que puso A no aparece en el texto y la lista de considerandos es ambigua"
+  }
+ ]
+}

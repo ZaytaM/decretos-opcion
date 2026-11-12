@@ -1,0 +1,28 @@
+{
+ "case": "batch_070_c21a065c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_94d7b0cf48e1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Guillermo Daniel MARTINI",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "1927/1979",
+    "fecha": "9/8/1979",
+    "destino": "República de Italia",
+    "decreto_referido": "1535/1979",
+    "pagina": "259",
+    "nota": ""
+   },
+   "motivo": "el texto sólo dice '(arg. nacido el 17/10/52)', que no es tipo ni número de documento; documento vacío como en B, y nota vacía porque no es caso de otro, libertad vigilada ni errata"
+  },
+  {
+   "id": "b_0fc31dbe426c",
+   "veredicto": "descartar",
+   "motivo": "el artículo 1° sólo rectifica el nombre del Decreto 1650/79 a favor de Jorge Angel VETTI (h) (CI 7.287.597), evento ya confirmado; VETTI padre (CI 2.273.147) aparece únicamente como el nombre consignado por error, sin medida propia"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "case": "batch_064_654a40b8",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_014ac6607b8e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Osvaldo Irineo Iberá SOTELO BOADO",
+    "documento": "",
+    "filiacion": "hijo de Onísimo SOTELO y de Isabel BOADO",
+    "tipo": "otro",
+    "decreto": "1047/1979",
+    "fecha": "11/5/1979",
+    "destino": "",
+    "decreto_referido": "984/1976",
+    "pagina": "233",
+    "nota": "Art. 1: se lo excluye del Decreto 984/76 por ser la misma persona que Osvaldo Ireneo IBERA SOTELO (CI 5.578.808), ya incluido en el Decreto 1355/75"
+   },
+   "motivo": "el art. 1 dice 'Exclúyase del Decreto N° 984/76 a Osvaldo Irineo Iberá SOTELO BOADO'; el decreto referido de esta medida es 984/76 (versión de B); la rectificación del 2874/78 es otra medida (art. 2) y va en b_2a3c36c54e1f"
+  },
+  {
+   "id": "b_2a3c36c54e1f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Osvaldo Ireneo IBERA SOTELO",
+    "documento": "CI 5.578.808",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1047/1979",
+    "fecha": "11/5/1979",
+    "destino": "",
+    "decreto_referido": "2874/1978",
+    "pagina": "233",
+    "nota": "Art. 2: el Decreto 2874/78 (denegatoria de salida del país dictada a nombre de Osvaldo Irineo Iberá SOTELO BOADO, hijo de Onísimo SOTELO y de Isabel BOADO) debe entenderse a nombre de Osvaldo Ireneo IBERA SOTELO (CI 5.578.808); el texto del art. 2 escribe 'C.I. 5.578 808', los considerandos '5.578.808'"
+   },
+   "motivo": "el art. 2 dice que el Decreto 2874/78 'debe entenderse a nombre de Osvaldo Ireneo IBERA SOTELO (C.I. 5.578 808)'; la medida es distinta de la del art. 1 y la CI corresponde al nombre IBERA SOTELO, no a SOTELO BOADO como puso B"
+  },
+  {
+   "id": "c_0f40b141f16a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Blas CENZANO",
+    "documento": "",
+    "filiacion": "hijo de Blas Arnoldo y Leonilda Gomez",
+    "tipo": "salida_autorizada",
+    "decreto": "1034/1979",
+    "fecha": "9/5/1979",
+    "destino": "República de Finlandia",
+    "decreto_referido": "",
+    "pagina": "232",
+    "nota": ""
+   },
+   "motivo": "el art. 2 deja sin efecto los Decretos 176/79 y 624/79 'con relación a las personas mencionadas en el Artículo precedente' sin indicar cuál corresponde a cada una; decreto_referido ambiguo, queda vacío (versión de A)"
+  },
+  {
+   "id": "c_48ee96526270",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jesús María BONET",
+    "documento": "",
+    "filiacion": "hijo de Manuel y Loreta Alvarez",
+    "tipo": "salida_autorizada",
+    "decreto": "1034/1979",
+    "fecha": "9/5/1979",
+    "destino": "Reino de España",
+    "decreto_referido": "",
+    "pagina": "232",
+    "nota": ""
+   },
+   "motivo": "el art. 2 deja sin efecto los Decretos 176/79 y 624/79 sin asignar uno a cada persona; B mismo admite en su nota que el texto no lo dice, así que decreto_referido queda vacío"
+  }
+ ]
+}

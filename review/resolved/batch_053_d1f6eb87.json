@@ -1,0 +1,113 @@
+{
+ "case": "batch_053_d1f6eb87",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_1a1a27a84470",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Humberto MASSINI",
+    "documento": "MI 2.953.072",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1261/1978",
+    "fecha": "6/6/1978",
+    "destino": "",
+    "decreto_referido": "500/1978",
+    "pagina": "185",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto Nº 500/78, con respecto a una persona comprendida en el mismo'; es el decreto asociado a la persona (los del VISTO son genéricos)"
+  },
+  {
+   "id": "c_c22412efa1f4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Raúl Alberto VAZQUEZ",
+    "documento": "LE 4.550.953",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1300/1978",
+    "fecha": "9/6/1978",
+    "destino": "",
+    "decreto_referido": "512/1978",
+    "pagina": "186",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 512/78, con respecto a las personas comprendidas en el mismo'"
+  },
+  {
+   "id": "c_8dcb25620d1a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Norberto ABELEDO",
+    "documento": "LE 4.364.420",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1300/1978",
+    "fecha": "9/6/1978",
+    "destino": "",
+    "decreto_referido": "512/1978",
+    "pagina": "186",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 512/78, con respecto a las personas comprendidas en el mismo'"
+  },
+  {
+   "id": "c_7b1f6720304a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Luis MACEIRA ACUÑA",
+    "documento": "CI 4.949.745",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1300/1978",
+    "fecha": "9/6/1978",
+    "destino": "",
+    "decreto_referido": "512/1978",
+    "pagina": "186",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 512/78, con respecto a las personas comprendidas en el mismo'"
+  },
+  {
+   "id": "b_ac8fb813d2c0",
+   "veredicto": "descartar",
+   "motivo": "duplicado del evento ya confirmado (otro | Carlos Adolfo USINGER | MI 8.599.841): misma persona y mismo decreto; corresponde un solo evento por persona y la rectificación del art. 2 va en la nota de ese evento"
+  },
+  {
+   "id": "c_74bf7cc19191",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luisa Amanda SEGURA",
+    "documento": "DNI 10.800.229",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "796/1978",
+    "fecha": "10/4/1978",
+    "destino": "",
+    "decreto_referido": "1478/1974",
+    "pagina": "185",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 1478/74, con respecto a alguna persona comprendida en el mismo'"
+  },
+  {
+   "id": "c_13110ceb32d1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Angel BREX",
+    "documento": "MI 6.030.117",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "797/1978",
+    "fecha": "10/4/1978",
+    "destino": "",
+    "decreto_referido": "2561/1976",
+    "pagina": "186",
+    "nota": "ejido urbano de la Ciudad de Rosario, Provincia de Santa Fé; control: Comando de Zona II (antes Ciudad de Formosa, Policía de Formosa, por Decreto 3891/1977); arresto original por Decreto 2561/76"
+   },
+   "motivo": "el texto dice 'arresto dispuesto para con la persona de Miguel Angel BREX, mediante Decreto Nº 2561/76'; el decreto de arresto es el referido, y la modificación anterior 3891/77 se consigna en la nota"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "case": "batch_085_f7d6ba40",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_1be4e0f86f91",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Pedro Marcos Fernando RAMIREZ",
+    "documento": "CI 138.524 Pol. de Sgo. del Estero",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "84/1980",
+    "fecha": "9/1/1980",
+    "destino": "",
+    "decreto_referido": "262/1975",
+    "pagina": "316",
+    "nota": "rectificación de nombre: donde los Decretos 262/75 (arresto) y 1863/79 (denegación de salida) dicen Pedro Marcos RAMIREZ debe entenderse Pedro Marcos Fernando RAMIREZ; también refiere 1863/1979"
+   },
+   "motivo": "el art. 1 dice que los decretos 'debe entenderse a nombre de Pedro Marcos Fernando RAMIREZ (C.I. 138.524 Pol. de Sgo. del Estero)'; se toma el nombre rectificado, documento normalizado a 'CI', y el decreto de arresto 262/75 como referido con el 1863/79 en nota"
+  },
+  {
+   "id": "c_a499271d83e5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rafael IANOVER",
+    "documento": "LE 2.170.169",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "800/1980",
+    "fecha": "16/4/1980",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "320",
+    "nota": "cumplía bajo libertad vigilada por decretos 1587/77 y 2458/79; también refiere 2458/1979"
+   },
+   "motivo": "el texto dice 'por imperio de los decretos números 1587/77 y 2458/79', ambos aplicados al causante; se toma el primero como referido y se anota el segundo"
+  },
+  {
+   "id": "c_0640b4d1b4be",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Lorenzo Mariano MIGUEL",
+    "documento": "CI 2.949.165",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "798/1980",
+    "fecha": "16/4/1980",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "320",
+    "nota": "el texto cita en conjunto los decretos 1205/76, 2112/78 y 1289/79 'respectivamente' para dos personas, sin indicar cuál corresponde a cada una"
+   },
+   "motivo": "tres decretos ('1205/76, 2112/78 y 1289/79, respectivamente') para dos personas: no se puede asignar uno a MIGUEL sin ambigüedad, por lo que decreto_referido va vacío"
+  },
+  {
+   "id": "c_8f0af87957c7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rogelio PAPAGNO",
+    "documento": "CI 2.393.253",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "798/1980",
+    "fecha": "16/4/1980",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "320",
+    "nota": "el texto cita en conjunto los decretos 1205/76, 2112/78 y 1289/79 'respectivamente' para dos personas, sin indicar cuál corresponde a cada una"
+   },
+   "motivo": "misma ambigüedad: tres decretos para dos personas, no surge del texto cuál corresponde a PAPAGNO; decreto_referido vacío"
+  },
+  {
+   "id": "a_9082ba680ead",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Fernando GONZALEZ PETRAGLIA",
+    "documento": "CI 1.143.795 Policía de la República Oriental del Uruguay",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "813/1980",
+    "fecha": "18/4/1980",
+    "destino": "",
+    "decreto_referido": "1064/1975",
+    "pagina": "317",
+    "nota": "ejecución de la expulsión accesoria dispuesta judicialmente en la Causa Nº 24.839-C; el art. 2 encarga a Migraciones hacer efectivo el extrañamiento por el art. 11 del Decreto Ley 4.805/963"
+   },
+   "motivo": "el art. 2 dice 'El Ministerio del Interior —Dirección Nacional de Migraciones— hará efectivo el extrañamiento', medida distinta de la liberación ya confirmada; filiación vacía porque hay documento; el VISTO cita un único decreto de arresto, 1064/75"
+  }
+ ]
+}

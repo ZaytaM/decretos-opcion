@@ -1,0 +1,40 @@
+{
+ "case": "batch_074_8cef2e61",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_98327e13e44f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Inés AIMONE",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2485/1979",
+    "fecha": "2/10/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "271",
+    "nota": ""
+   },
+   "motivo": "el texto deja sin efecto 'los Decretos nº 3483 y 310 ... respectivamente' respecto de dos personas sin indicar cuál corresponde a cada una; el 'respectivamente' aparea decretos con fechas, no con personas, así que el decreto referido es ambiguo y va vacío (versión de A)"
+  },
+  {
+   "id": "c_0eac8f70e3bc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Silvia Alicia GARDELLA",
+    "documento": "DNI 12.084.731",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2787/1979",
+    "fecha": "5/11/1979",
+    "destino": "",
+    "decreto_referido": "1682/1976",
+    "pagina": "271",
+    "nota": "rectificación de documento: el Decreto 1682/1976 debe entenderse a nombre de Silvia Alicia GARDELLA (DNI 12.084.731), donde figuraba DNI 12.075.731"
+   },
+   "motivo": "el artículo 1 establece que el arresto 'debe entenderse a nombre de Silvia Alicia GARDELLA (DNI. 12.084.731)'; el documento vigente según el decreto es el rectificado (versión de B)"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "case": "batch_020_556b0bec",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_e31dd52d2cf4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Antonio RODRIGUEZ",
+    "documento": "LE 4.673.891",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2826/1977",
+    "fecha": "19/9/1977",
+    "destino": "",
+    "decreto_referido": "2057/1977",
+    "pagina": "69",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 2057/977, con respecto a la persona comprendida en el mismo', que es la única persona del art. 1°; A tiene razón"
+  }
+ ]
+}

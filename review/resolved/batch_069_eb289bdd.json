@@ -1,0 +1,397 @@
+{
+ "case": "batch_069_eb289bdd",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_b43e122c9dcd",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan FERNANDEZ",
+    "documento": "CI 251.000 Pol. Chaco",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1691/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "1321/1979",
+    "pagina": "252",
+    "nota": "se declara la nulidad absoluta del Decreto 1321/79 que autorizaba su salida del país; distinto de la denegatoria del art. 2"
+   },
+   "motivo": "el art. 1 'Declárase de nulidad absoluta el Decreto N° 1321' revoca la salida autorizada: medida distinta de la denegatoria ya confirmada; A la omitió"
+  },
+  {
+   "id": "b_884df27d5797",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Silvia Emilia MARTINEZ",
+    "documento": "DNI 6.660.599",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1691/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "1321/1979",
+    "pagina": "252",
+    "nota": "se declara la nulidad absoluta del Decreto 1321/79 que autorizaba su salida del país; distinto de la denegatoria del art. 2"
+   },
+   "motivo": "el art. 1 anula el Decreto 1321/79 que la autorizaba a salir; medida distinta de la denegatoria ya confirmada; documento normalizado 'DNI 6.660.599'"
+  },
+  {
+   "id": "b_a740122f4713",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Irma Teresa FERNANDEZ",
+    "documento": "LC 12.383.371",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1691/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "1321/1979",
+    "pagina": "252",
+    "nota": "se declara la nulidad absoluta del Decreto 1321/79 que autorizaba su salida del país; distinto de la denegatoria del art. 2"
+   },
+   "motivo": "el art. 1 anula el Decreto 1321/79 que la autorizaba a salir; medida distinta de la denegatoria ya confirmada; documento normalizado 'LC 12.383.371'"
+  },
+  {
+   "id": "c_77d5cdab8470",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Roberto HELIZADA",
+    "documento": "DNI 11.139.906",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1777/1979",
+    "fecha": "24/7/1979",
+    "destino": "",
+    "decreto_referido": "1142/1975",
+    "pagina": "254",
+    "nota": "rectificación de nombre: los Decretos 1142/1975 (arresto), 576/1977 y 1650/1979 (denegaciones de salida) deben entenderse a nombre de Hugo Raúl ELIZAGA (DNI 11.139.906)"
+   },
+   "motivo": "el texto identifica el 1142/75 como el decreto de arresto ('se dispone el arresto... respectivamente'); los otros dos quedan en la nota; documento sin punto"
+  },
+  {
+   "id": "c_22a886756df7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Heber Nazareno TAPPATA",
+    "documento": "MI 7.848.950",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1799/1979",
+    "fecha": "26/7/1979",
+    "destino": "",
+    "decreto_referido": "1681/1976",
+    "pagina": "255",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1681/976, modificado por Decreto 3060/978'; es el único decreto de arresto referido; nota vacía para liberacion"
+  },
+  {
+   "id": "c_60d49e7ec7fc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Anhaía Silvia RODRIGUEZ de TAPPATA",
+    "documento": "DNI 5.763.688",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1799/1979",
+    "fecha": "26/7/1979",
+    "destino": "",
+    "decreto_referido": "1681/1976",
+    "pagina": "255",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1681/976'; es el único decreto de arresto referido; nota vacía para liberacion"
+  },
+  {
+   "id": "c_ab2c01d253e1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Atilio Camilo BOISELLEAU",
+    "documento": "MI 8.508.419",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1694/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "427/1976",
+    "pagina": "253",
+    "nota": "rectificación de apellido: el Decreto 427/1976 (arresto) debe entenderse a nombre de Atilio Camilo BOISSELEAU (MI 8.508.419)"
+   },
+   "motivo": "el texto dice 'BOI-SELLEAU' (corte de línea) y 'BOISELLEAU' en el considerando; A omitió una L"
+  },
+  {
+   "id": "c_e4f2cb2ada0d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Aníbal Harry Puel PACHANO POLO",
+    "documento": "CI 4.170.845",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1695/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "461/1975",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "el encabezado dice 'Bs. As., 17/7/1979'; A puso 19/7; documento normalizado 'CI'"
+  },
+  {
+   "id": "c_4e8467a29f27",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ernesto Rubén DE PRADO",
+    "documento": "",
+    "filiacion": "hijo de Ernesto y Lidia Lopez",
+    "tipo": "otro",
+    "decreto": "1696/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "3742/1975",
+    "pagina": "253",
+    "nota": "excluido del Decreto 3742/1975 por ser la misma persona que Ernesto Rubén DE PRADO (DNI 10.068.527) arrestado por Decreto 1526/1975"
+   },
+   "motivo": "el encabezado dice '17/7/1979'; A puso 19/7; el resto coincide"
+  },
+  {
+   "id": "c_452fc6d3aa12",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Cornelio Armando TORRES",
+    "documento": "MI 6.566.874",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "1697/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "2165/1978",
+    "pagina": "253",
+    "nota": "arresto en Villa María, Provincia de Córdoba, pudiendo desplazarse dentro de los límites de la localidad; controla la Policía de la Provincia de Córdoba"
+   },
+   "motivo": "el encabezado dice '17/7/1979'; A puso 19/7"
+  },
+  {
+   "id": "c_8f0d0fda1c0c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos BEACON",
+    "documento": "LE 5.074.003",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "el encabezado dice '17/7/1979' (A puso 19/7); documento en formato normalizado 'LE'"
+  },
+  {
+   "id": "c_bfc27a55960f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Miguel DEMIRYI",
+    "documento": "DNI 10.065.953",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento sin punto"
+  },
+  {
+   "id": "c_108853e09439",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eduardo Enrique GONZALEZ",
+    "documento": "MI 5.388.950",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento 'MI' sin puntos"
+  },
+  {
+   "id": "c_7cf41064d2e1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Adrian Gustavo LANFRIT",
+    "documento": "DNI 11.786.570",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento sin punto"
+  },
+  {
+   "id": "c_ed48bb2adfd7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Alberto MESSA",
+    "documento": "MI 7.638.022",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento 'MI' sin puntos"
+  },
+  {
+   "id": "c_165fd5cb0e3d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Celia Adriana MARINO",
+    "documento": "LC 11.895.866",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento 'LC' sin puntos"
+  },
+  {
+   "id": "c_d3992011d637",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hilda Noemí MIGUELES de MILLAN",
+    "documento": "LC 5.804.075",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento 'LC' sin puntos"
+  },
+  {
+   "id": "c_6badd9a6b3e8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos RICHTER",
+    "documento": "MI 5.512.076",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; el texto dice 'M.l.' (OCR), corresponde 'MI'"
+  },
+  {
+   "id": "c_b90ea7142380",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Clelia Albina STIRNEMANN Vda. de BERLINGIERI",
+    "documento": "LC 1.833.065",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento 'LC' sin puntos"
+  },
+  {
+   "id": "c_216b9e263cb6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Patricio Emilio TORNE",
+    "documento": "DNI 12.047.237",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; el texto dice 'D.N.I.', normalizado 'DNI'"
+  },
+  {
+   "id": "c_74a3916e6d16",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Gustavo WESTERKAMP",
+    "documento": "Prío D.E. 221.908",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": "el texto dice 'Prío D.E. Nº 221.908'; tipo de documento inusual, posible errata u OCR"
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento transcripto como está, sin 'Nº', con nota de posible errata"
+  },
+  {
+   "id": "c_058e796139a0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Néstor Manuel FANTINI AYBAR",
+    "documento": "DNI 11.052.379",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1698/1979",
+    "fecha": "17/7/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "253",
+    "nota": ""
+   },
+   "motivo": "fecha del encabezado 17/7/1979; documento sin punto"
+  },
+  {
+   "id": "c_96d7a2f31572",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Francisco MADERA",
+    "documento": "CI 2.443.535",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1714/1979",
+    "fecha": "19/7/1979",
+    "destino": "",
+    "decreto_referido": "425/1977",
+    "pagina": "253",
+    "nota": "ciudadano italiano; la solicitud había sido diferida por Decreto 2296/1978"
+   },
+   "motivo": "el texto dice 'el arresto impuesto mediante Decreto N° 425/977'; es el decreto de arresto, coherente con los otros eventos de la persona; el 2296/78 (diferimiento) va en la nota"
+  }
+ ]
+}

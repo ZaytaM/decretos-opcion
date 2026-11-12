@@ -1,0 +1,164 @@
+{
+ "case": "batch_016_c1757d71",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_9bcb3da2e1f8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eduardo Héctor FERRO",
+    "documento": "M.I. 4.060.936",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3814/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2176/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto a 'las medidas adoptadas por Decreto número 2176/977'; corresponde decreto_referido 2176/1977"
+  },
+  {
+   "id": "c_0be4636b2ac7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto ALLEN",
+    "documento": "MI. 4.423.383",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3814/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2176/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto a 'las medidas adoptadas por Decreto número 2176/977'; corresponde decreto_referido 2176/1977"
+  },
+  {
+   "id": "c_535a81b0a662",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Eduardo VILLARINO",
+    "documento": "M.I. 4.627.866",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3814/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2176/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto a 'las medidas adoptadas por Decreto número 2176/977'; corresponde decreto_referido 2176/1977"
+  },
+  {
+   "id": "c_2f1a5bf77921",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Dante Roberto FRELLI",
+    "documento": "M.I. 4.146.130",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3814/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2176/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto a 'las medidas adoptadas por Decreto número 2176/977'; corresponde decreto_referido 2176/1977"
+  },
+  {
+   "id": "c_191d4ff8df33",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Octavio CORTEZ APARICIO",
+    "documento": "LE 6.776.200",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3813/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2949/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto a 'las medidas adoptadas por Decreto número 2949/977'; corresponde decreto_referido 2949/1977"
+  },
+  {
+   "id": "c_1dd60a0cd12e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rodolfo Raúl MORENO",
+    "documento": "LE 6.867.721",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3813/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2949/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto a 'las medidas adoptadas por Decreto número 2949/977'; corresponde decreto_referido 2949/1977"
+  },
+  {
+   "id": "c_83a20562171a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Rolando COTDILLO",
+    "documento": "LE 6.887.316",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3813/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2949/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'COTDILLO' y asocia el arresto al Decreto 2949/977; se transcribe el apellido tal cual, sin errata evidente que justifique nota"
+  },
+  {
+   "id": "c_645a533c44b5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Agustín OJEDA",
+    "documento": "LE 3.220.046",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3813/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2949/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto a 'las medidas adoptadas por Decreto número 2949/977'; corresponde decreto_referido 2949/1977"
+  },
+  {
+   "id": "c_d62797a33c12",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ubaldo MONTERROSA",
+    "documento": "LE 6.780.999",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3813/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "2949/1977",
+    "pagina": "57",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto a 'las medidas adoptadas por Decreto número 2949/977'; corresponde decreto_referido 2949/1977"
+  },
+  {
+   "id": "b_5869f5e70f86",
+   "veredicto": "descartar",
+   "motivo": "el art. 2 sólo dice que 'continuará arrestada' en cumplimiento del Decreto 1310/976; no es un arresto nuevo sino parte de la misma medida ya registrada como 'otro' para Kiril CHAKAROFF NICOLOF"
+  }
+ ]
+}

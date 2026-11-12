@@ -1,0 +1,91 @@
+{
+ "case": "batch_116_49bf933d",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_d6d28ffd8c15",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Martín OLIVEIRA",
+    "documento": "CI 7.200.947",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "272/1975",
+    "fecha": "5/2/1975",
+    "destino": "",
+    "decreto_referido": "1390/1974",
+    "pagina": "479",
+    "nota": "rectificación de nombre: el arresto dispuesto por Decreto 1390/1974 a nombre de Julio Martín OLIVERA debe entenderse a nombre de Julio Martín OLIVEIRA"
+   },
+   "motivo": "el art. 1 establece que el arresto 'debe entenderse a nombre de Julio Martín OLIVEIRA'; el nombre corregido es el que identifica a la persona, y la grafía OLIVERA queda en la nota; documento normalizado a 'CI 7.200.947'"
+  },
+  {
+   "id": "c_aba135f519a4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Martín OLIVEIRA",
+    "documento": "CI 7.200.947",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "272/1975",
+    "fecha": "5/2/1975",
+    "destino": "Estados Unidos de Méjico",
+    "decreto_referido": "1390/1974",
+    "pagina": "479",
+    "nota": ""
+   },
+   "motivo": "el art. 2 autoriza la salida 'con destino a los Estados Unidos de MEJICO'; sólo difieren el formato del documento (regla: 'CI 7.200.947') y la grafía del destino"
+  },
+  {
+   "id": "c_cf05ce4b8ff4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Francisco Héctor MORALES",
+    "documento": "MI 7.236.099",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "273/1975",
+    "fecha": "5/2/1975",
+    "destino": "Perú",
+    "decreto_referido": "1659/1974",
+    "pagina": "479",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(M.I. 7.236.099), con destino a la República de Perú'; documento en formato 'MI …' y destino reducido al país"
+  },
+  {
+   "id": "c_d2e658e9b879",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rene IRURZUM",
+    "documento": "MI 8.126.101",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "2622/1975",
+    "fecha": "24/9/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "478",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Rene IRURZUM (M.I. nro. 8.126.101)'; sólo difiere el formato del documento, que según las reglas va como 'MI 8.126.101'"
+  },
+  {
+   "id": "c_ae5cad39efa7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Vicente Jacinto ROVETTA PEDRONCINO",
+    "documento": "CI uruguaya 1.326.703",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "271/1975",
+    "fecha": "5/2/1975",
+    "destino": "Perú",
+    "decreto_referido": "1508/1974",
+    "pagina": "479",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(C.I. Nº 1.326.703 de la República Oriental del Uruguay) con destino a la República de PERU'; documento en el formato de las reglas ('CI chilena …' → 'CI uruguaya …') y destino reducido al país"
+  }
+ ]
+}

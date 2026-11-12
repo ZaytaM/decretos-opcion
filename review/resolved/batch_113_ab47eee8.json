@@ -1,0 +1,57 @@
+{
+ "case": "batch_113_ab47eee8",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_a806d6f27d0c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Patricia Alonso de RUIZ",
+    "documento": "Prio. A.G.C. 732",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1960/1974",
+    "fecha": "20/12/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "469",
+    "nota": "ciudadana mejicana; el texto dice 'Prio. A.G.C. 732' (posible errata por 'Ppte.')"
+   },
+   "motivo": "el texto dice '(ciudadana mejicana Prio. A.G.C. 732)'; se transcribe tal cual, B normalizó a 'Ppte.' sin respaldo en el texto"
+  },
+  {
+   "id": "c_f1c9137c4d6b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Gustavo Alonso BARRAZA",
+    "documento": "MI 8.122.378",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "807/1976",
+    "fecha": "26/2/1976",
+    "destino": "",
+    "decreto_referido": "3505/1975",
+    "pagina": "469",
+    "nota": ""
+   },
+   "motivo": "el considerando dice que cesaron las causas de 'las medidas adoptadas por decreto nº 3505 del 21 de noviembre de 1975' para las personas comprendidas; es el único decreto de arresto asociado a ellas"
+  },
+  {
+   "id": "c_26d29b7b9ce1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Noemí Raquel MORENO de BARRAZA",
+    "documento": "LC 6.498.754",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "807/1976",
+    "fecha": "26/2/1976",
+    "destino": "",
+    "decreto_referido": "3505/1975",
+    "pagina": "469",
+    "nota": ""
+   },
+   "motivo": "el considerando dice que cesaron las causas de 'las medidas adoptadas por decreto nº 3505 del 21 de noviembre de 1975' para las personas comprendidas; es el único decreto de arresto asociado a ellas"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "case": "batch_042_d98ea1a9",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_51f46f780295",
+   "veredicto": "descartar",
+   "motivo": "duplicado del evento ya confirmado (expulsion de José María COMPANY CESPEDES): el Art. 2 ('dejar sin efecto el arresto ... en el momento que la misma haga abandono del país') es consecuencia de la expulsión y no una medida independiente; corresponde un solo evento por persona en el decreto"
+  },
+  {
+   "id": "c_6c11955749fb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Milton Gabriel MARINELLI SEQUEIRA",
+    "documento": "Ppte. 3.922.699 de Venezuela",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "1797/1978",
+    "fecha": "7/8/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "141",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pasaporte Nº 3.922.699 de la República de Venezuela'; se adopta la forma abreviada convencional 'Ppte.' y la nota va vacía porque en expulsion no corresponde; el Art. 2 (detención hasta hacer efectiva la medida) es accesorio de la expulsión"
+  }
+ ]
+}

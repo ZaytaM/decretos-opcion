@@ -1,0 +1,142 @@
+{
+ "case": "batch_112_d8702b2d",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_5862cc4ea073",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Conrado Héctor MARZOCCA",
+    "documento": "MI 4.412.783",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "647/1976",
+    "fecha": "18/2/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "466",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'MI nro. 4.412.783'; se normaliza a 'MI 4.412.783' sin 'nro.', como en el resto de los eventos confirmados"
+  },
+  {
+   "id": "c_a61294c8c0b0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Judit SCHUGUR ENSKY",
+    "documento": "MI 10.463.713",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1785/1974",
+    "fecha": "7/12/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "467",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. nro. 10.463.713'; se normaliza a 'MI 10.463.713' como los demás M.I. del decreto (cf. SALVATIERRA 'M.I. nº' → 'MI')"
+  },
+  {
+   "id": "c_8b4d8783c78f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Alejandro MOSCA BELTRAME",
+    "documento": "DN para extranjeros 92.094.117",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1814/1974",
+    "fecha": "11/12/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "467",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'D.N. para extranjeros 92.094.117'; se quitan los puntos de la sigla como en 'M.I.' → 'MI'"
+  },
+  {
+   "id": "c_ffa9cf90a885",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Delia AVILES de ELIZALDE",
+    "documento": "LC 3.587.557",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1845/1974",
+    "fecha": "12/12/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "468",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.C. nro. 3.587.557'; se normaliza a 'LC 3.587.557' como los demás L.C. confirmados"
+  },
+  {
+   "id": "c_649541dd0cc6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Pablo VENTURA",
+    "documento": "CI PF 6.248.323",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1845/1974",
+    "fecha": "12/12/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "468",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. P.F. nro. 6.248.323'; se normaliza a 'CI PF 6.248.323' como ECHAVARRIA y FRAGALE en el mismo decreto"
+  },
+  {
+   "id": "c_615250a3d11d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Demetrio MARTINEZ",
+    "documento": "CI 220.020 Policia del Chaco",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1845/1974",
+    "fecha": "12/12/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "468",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. 220.020 Policia del Chaco' (sin tilde); sigla normalizada a 'CI', resto transcripto tal cual"
+  },
+  {
+   "id": "c_74d123c42c74",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Olga Carmen PLAZA",
+    "documento": "LC 8.933.490",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1929/1974",
+    "fecha": "18/12/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "468",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.C. n°: 8.933.490'; se normaliza a 'LC 8.933.490' sin el 'n°:'"
+  },
+  {
+   "id": "c_b90bbd8ff3c0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Arturo Alberto LESCANO",
+    "documento": "CI 147.285 de la Pcia. de Santiago del Estero",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1726/1974",
+    "fecha": "4/12/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "466",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. 147.285 de la Pcia. de Santiago del Estero'; sigla normalizada a 'CI' y calificador transcripto completo, como en PAYASLIAN"
+  }
+ ]
+}

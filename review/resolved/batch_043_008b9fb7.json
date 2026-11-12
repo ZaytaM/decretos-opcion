@@ -1,0 +1,28 @@
+{
+ "case": "batch_043_008b9fb7",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_cdfdf9c8c6f4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Lorenzo Mariano MIGUEL",
+    "documento": "CI 2.949.165",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "2112/1978",
+    "fecha": "8/9/1978",
+    "destino": "",
+    "decreto_referido": "1205/1976",
+    "pagina": "144",
+    "nota": "Arresto domiciliario: la internación impuesta por la Resolución Nº 2 de la Junta Militar (18/6/1976) se cumple en su propio domicilio, calle Murgiondo nº 3.550, Capital Federal; control Policía Federal Argentina"
+   },
+   "motivo": "art. 2 dispone que la internación 'sea cumplida en el propio domicilio' y el art. 3 llama 'arresto' a la medida: es una modificación de la forma de cumplimiento del arresto con lugar fijado, que encaja en libertad_vigilada ('Modifícase la forma de aplicación'), no en otro"
+  },
+  {
+   "id": "b_0c3199adc435",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_cdfdf9c8c6f4 (misma persona, mismo hecho del art. 2); se confirma con tipo libertad_vigilada en lugar de otro"
+  }
+ ]
+}

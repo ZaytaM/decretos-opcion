@@ -1,0 +1,138 @@
+{
+ "case": "batch_100_8c42ab61",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_e8fc632beec7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Isabelino GUILLAN",
+    "documento": "MI 4.140.045",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "20/1981",
+    "fecha": "22/12/1981",
+    "destino": "",
+    "decreto_referido": "202/1976",
+    "pagina": "402",
+    "nota": "Modifícase la forma de cumplimiento de la internación: arresto domiciliario en su propio domicilio, calle Obispo San Alberto N° 3464, Ciudad de Buenos Aires; visitas según Decreto 929/80; controla la Policía Federal Argentina"
+   },
+   "motivo": "el texto dice 'Modifícase la forma de cumplimiento de la internación... la cumplirán en su propio domicilio'; cambio de modalidad de arresto es libertad_vigilada según la tabla, no otro"
+  },
+  {
+   "id": "a_e33a4a34bc95",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge CEPERNIC",
+    "documento": "CI 1.836.430",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "20/1981",
+    "fecha": "22/12/1981",
+    "destino": "",
+    "decreto_referido": "1205/1976",
+    "pagina": "402",
+    "nota": "Modifícase la forma de cumplimiento de la internación: arresto domiciliario en la 'Estancia Josefina', Lago Argentino, Provincia de Santa Cruz; visitas según Decreto 929/80; controla la Policía de la Provincia de Santa Cruz"
+   },
+   "motivo": "el texto dice 'Modifícase la forma de cumplimiento de la internación... en la Estancia Josefina... para el segundo'; es libertad_vigilada"
+  },
+  {
+   "id": "b_2219141de942",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_e8fc632beec7 (misma persona y medida); el tipo correcto es libertad_vigilada, no otro"
+  },
+  {
+   "id": "b_555a47a6b762",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_e33a4a34bc95 (misma persona y medida); el tipo correcto es libertad_vigilada, no otro"
+  },
+  {
+   "id": "a_a7483c0c150c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto Rubén SANCHEZ CASAÑA",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "227/1981",
+    "fecha": "18/12/1981",
+    "destino": "",
+    "decreto_referido": "14/1976",
+    "pagina": "401",
+    "nota": "Modifica el Art. 2° del Decreto 2189/80 (régimen Art. 2° inc. d del Acta Institucional): el arresto se cumple en su domicilio, casa 89 calle Chacabuco 104 esquina Chubut, Barrio Policial, Ciudad de San Luis, Provincia de San Luis; controla la Policía de la Provincia de San Luis"
+   },
+   "motivo": "el texto dice 'Dispónese que el arresto se cumpla en el domicilio del detenido... Controlará el arresto la Policía de la Provincia de San Luis'; cambio de lugar de arresto domiciliario es libertad_vigilada"
+  },
+  {
+   "id": "b_a2784d9c0b03",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_a7483c0c150c (misma persona y medida); el tipo correcto es libertad_vigilada, no otro"
+  },
+  {
+   "id": "a_400137fed275",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto FELICITTI",
+    "documento": "DNI 10.591.182",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "833/1975",
+    "fecha": "18/12/1981",
+    "destino": "",
+    "decreto_referido": "833/1975",
+    "pagina": "401",
+    "nota": "fe de erratas: donde dice Roberto FELICITTI debe decir Roberto FELICETTI (corregido por Decreto 2228/1981)"
+   },
+   "motivo": "el texto dice 'la medida adoptada mediante Decreto N° 833/75... debe entenderse a nombre de Roberto FELICETTI'; en fe de erratas el campo decreto es el que se corrige (833/1975)"
+  },
+  {
+   "id": "b_515fecf41d59",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_400137fed275; B puso como decreto el 2228/1981 cuando la regla indica el decreto corregido (833/1975)"
+  },
+  {
+   "id": "a_172e63fb566e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Percy BENEGAS PICOLLER",
+    "documento": "CI 7.146.788",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "192/1975",
+    "fecha": "18/12/1981",
+    "destino": "",
+    "decreto_referido": "192/1975",
+    "pagina": "401",
+    "nota": "fe de erratas: donde dice Percy BENEGAS PICOLLER debe decir Percy VENEGAS PICOLLER (corregido por Decreto 2229/1981; alcanza también a los Decretos 2557/78 y 1970/80)"
+   },
+   "motivo": "el texto dice 'las medidas adoptadas mediante Decretos Nºs. 192/75, 2557/78 y 1970/80... deben entenderse a nombre de Percy VENEGAS PICOLLER'; se asienta sobre el decreto de arresto 192/75 y se anotan los otros dos"
+  },
+  {
+   "id": "b_d6fe00ecd2d5",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_172e63fb566e; B puso como decreto el 2229/1981 cuando la regla indica el decreto corregido"
+  },
+  {
+   "id": "a_1206849c2ff3",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Inocencio Marcelino PISTAN",
+    "documento": "MI 8.093.794",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1781/1974",
+    "fecha": "18/12/1981",
+    "destino": "",
+    "decreto_referido": "1781/1974",
+    "pagina": "402",
+    "nota": "fe de erratas: donde dice Inocencio Marcelino PISTAN debe decir Inocencio Marcelo PISTAN (corregido por Decreto 2230/1981; alcanza también a los Decretos 1391/80 y 503/81)"
+   },
+   "motivo": "el texto dice 'las medidas adoptadas por Decretos Nºs. 1781/74, 1391/80 y 503/81... deben entenderse a nombre de Inocencio Marcelo PISTAN'; se asienta sobre el decreto de arresto 1781/74 y se anotan los otros dos"
+  },
+  {
+   "id": "b_8f54ebb903a7",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_1206849c2ff3; B puso como decreto el 2230/1981 cuando la regla indica el decreto corregido"
+  }
+ ]
+}

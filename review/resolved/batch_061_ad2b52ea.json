@@ -1,0 +1,57 @@
+{
+ "case": "batch_061_ad2b52ea",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_b6e134dca455",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Lidia Raquel ECHEVERRI",
+    "documento": "CI 7.980.317",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "615/1979",
+    "fecha": "16/3/1979",
+    "destino": "Panamá",
+    "decreto_referido": "478/1979",
+    "pagina": "224",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. 7.980.317' (normalizado a 'CI') y 'con destino a la República de Panamá'; la nota de B es redundante con decreto_referido"
+  },
+  {
+   "id": "c_819d47e04793",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Germán Carlos OJEDA",
+    "documento": "LE 7.646.714",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "620/1979",
+    "fecha": "16/3/1979",
+    "destino": "España",
+    "decreto_referido": "176/1979",
+    "pagina": "225",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.E. 7.646.714' (normalizado a 'LE') y 'con destino al Reino de España'; la nota de B es redundante con decreto_referido"
+  },
+  {
+   "id": "c_129ff03274cd",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rubén Rafael DI SIERVO",
+    "documento": "MI 5.505.941",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "534/1979",
+    "fecha": "6/3/1979",
+    "destino": "Italia",
+    "decreto_referido": "",
+    "pagina": "222",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 5.505.941' (normalizado a 'MI') y 'con destino a la República de Italia'; no se cita decreto anterior"
+  }
+ ]
+}

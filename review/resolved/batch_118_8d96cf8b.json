@@ -1,0 +1,40 @@
+{
+ "case": "batch_118_8d96cf8b",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_13827963010c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alberto Luis PILATO",
+    "documento": "MI 5.518.812",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "297/1975",
+    "fecha": "17/2/1975",
+    "destino": "Italia",
+    "decreto_referido": "1566/1974",
+    "pagina": "486",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. Nº 5.518.812' con destino a 'la República de ITALIA'; documento normalizado a 'MI' y destino al país"
+  },
+  {
+   "id": "c_911b54e7315b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Gustavo WESTERKAMP",
+    "documento": "Prío. D.E. 221.908",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "3076/1975",
+    "fecha": "23/10/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "484",
+    "nota": "el texto dice 'Prío. D.E. nro. 221.908'; tipo de documento no identificado (posible errata de 'Prontuario')"
+   },
+   "motivo": "el texto dice 'Gustavo WESTERKAMP (Prío. D.E. nro. 221.908)'; se transcribe el tipo tal como aparece y se aclara en nota"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "case": "batch_128_6ff3471b",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_7b92948edcdd",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos CONDORl",
+    "documento": "DNI 10.473.097",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "3740/1975",
+    "fecha": "5/12/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "511",
+    "nota": "el texto dice 'CONDORl' (ele minúscula en lugar de I); probable errata/OCR por CONDORI"
+   },
+   "motivo": "el texto dice 'Juan Carlos CONDORl (DNI 10.473.097)'; se transcribe tal cual y se aclara la errata en nota, como pide la regla"
+  },
+  {
+   "id": "c_9dc58e337734",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel AngeI VICARIO",
+    "documento": "MI 5.075.215",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "3972/1975",
+    "fecha": "18/12/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "513",
+    "nota": "el texto dice 'AngeI' (I mayúscula en lugar de l); probable errata/OCR por Angel"
+   },
+   "motivo": "el texto dice 'Miguel AngeI VICARIO (MI 5.075.215)'; se transcribe tal cual y se aclara la errata en nota"
+  }
+ ]
+}

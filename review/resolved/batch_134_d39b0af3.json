@@ -1,0 +1,74 @@
+{
+ "case": "batch_134_d39b0af3",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_7c70c7d72b8d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Oscar SUAREZ",
+    "documento": "MI 4.272.000",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "5957/1969",
+    "fecha": "29/9/1969",
+    "destino": "Lima, Perú",
+    "decreto_referido": "",
+    "pagina": "927",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'con destino a la ciudad de Lima, Perú'; el destino se registra como ciudad y país, sin la palabra 'ciudad de'"
+  },
+  {
+   "id": "c_91fe1f88507c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José René GUTIERREZ",
+    "documento": "CI chilena 7.769.381",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "6087/1969",
+    "fecha": "3/10/1969",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "927",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'de nacionalidad chileno (C.I. n° 7.769.381)'; la cédula extranjera se registra como 'CI chilena', sin nota"
+  },
+  {
+   "id": "c_7bc2e29abb55",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Manuel Antonio MORALES URBINA",
+    "documento": "CI chilena 6.421.190",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "6087/1969",
+    "fecha": "3/10/1969",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "927",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'de nacionalidad chileno (C.I. número 6.421.190)'; la cédula extranjera se registra como 'CI chilena', sin nota"
+  },
+  {
+   "id": "c_47e0be331c92",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Margarita Rosa SOTOMAYOR REALINI",
+    "documento": "CI chilena 7.185.364",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "5671/1969",
+    "fecha": "24/9/1969",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "926",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(chilena, C.I. n° 7.185.364)'; la cédula extranjera se registra como 'CI chilena', sin nota"
+  }
+ ]
+}

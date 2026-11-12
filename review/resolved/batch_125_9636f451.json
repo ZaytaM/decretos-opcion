@@ -1,0 +1,312 @@
+{
+ "case": "batch_125_9636f451",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_07004129502e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Olga Carmen PLAZA",
+    "documento": "LC 8.933.490",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2360/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "1929/1974",
+    "pagina": "504",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.C. 8.933.490' y 'República de Perú'; se normaliza el tipo de documento sin puntos y el destino al país, como piden las reglas"
+  },
+  {
+   "id": "c_dc830610e116",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Diego BAEZ ROMERO",
+    "documento": "DNI 92.170.778",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2364/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "1845/1974",
+    "pagina": "504",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'D.N.I. 92.170.778', destino 'República de Perú'; formato de documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_75e11f319e66",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Humberto Eduardo PAZ",
+    "documento": "",
+    "filiacion": "hijo de Santiago y de Rómula OSUNA",
+    "tipo": "salida_autorizada",
+    "decreto": "2365/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "909/1975",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "única diferencia es el destino; el texto dice 'República de Perú', se registra el país"
+  },
+  {
+   "id": "c_41f03e6a7317",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Agustín Ricardo MUÑOZ VERGARA",
+    "documento": "DNI 92.102.251",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2366/1975",
+    "fecha": "29/8/1975",
+    "destino": "Francia",
+    "decreto_referido": "1551/1975",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'D.N.I. 92.102.251' y 'República de Francia'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_35105798efe8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Pastor Francisco LENCINA",
+    "documento": "CI 8.743.887",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2367/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "341/1975",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. 8.743.887' y 'República de Perú'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_5bb1800d8164",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José María BUSCAGLIA",
+    "documento": "LE 4.733.709",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2368/1975",
+    "fecha": "29/8/1975",
+    "destino": "Venezuela",
+    "decreto_referido": "767/1975",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.E. 4.733.709' y 'República de Venezuela'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_40465f6778b0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luz del Socorro MOREIRA",
+    "documento": "DNI 11.944.598",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2369/1975",
+    "fecha": "29/8/1975",
+    "destino": "Venezuela",
+    "decreto_referido": "1929/1974",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'D.N.I. 11.944.598' y 'República de Venezuela'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_f8eb8b814d81",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo ECHALAR SILVA",
+    "documento": "CI 31.902 Policía Córdoba",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2370/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "1475/1974",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. 31.902 Policía Córdoba' y 'República de Perú'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_742abdb6bc85",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Omar Francisco LERDA",
+    "documento": "MI 6.608.984",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2352/1975",
+    "fecha": "29/8/1975",
+    "destino": "Italia",
+    "decreto_referido": "657/1975",
+    "pagina": "504",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 6.608.984' y 'República de Italia'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_6e677b3486c4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Cipriano Manuel FERNANDEZ",
+    "documento": "MI 10.045.032",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2371/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "233/1975",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 10.045.032' y 'República de Perú'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_5480941d1776",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Teresa Nélida CHEMEZ de PIROLO",
+    "documento": "",
+    "filiacion": "hija de Julio y de Elvira OLIVERA",
+    "tipo": "salida_autorizada",
+    "decreto": "2372/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "1239/1975",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "única diferencia es el destino; el texto dice 'República de Perú', se registra el país"
+  },
+  {
+   "id": "c_fc52b244ea8b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jacobo BARROSO",
+    "documento": "",
+    "filiacion": "hijo de Indalecio y de Irma ROMERO",
+    "tipo": "salida_autorizada",
+    "decreto": "2374/1975",
+    "fecha": "29/8/1975",
+    "destino": "Venezuela",
+    "decreto_referido": "729/1975",
+    "pagina": "505",
+    "nota": ""
+   },
+   "motivo": "única diferencia es el destino; el texto dice 'República de Venezuela', se registra el país"
+  },
+  {
+   "id": "c_729705d9f8ec",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Manuel Bernardo VALENZUELA BEJAS",
+    "documento": "DNI 92.104.335",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2354/1975",
+    "fecha": "29/8/1975",
+    "destino": "Francia",
+    "decreto_referido": "1551/1975",
+    "pagina": "504",
+    "nota": "el texto dice 'Decreto Nº 1551 del 5 de junio de 1985'; errata evidente por 1975 (el Decreto 2366/1975 de la misma fecha cita 'Decreto Nº 1551 del 5 de junio de 1975')"
+   },
+   "motivo": "el texto dice 'D.N.I. 92.104.335' y 'República de Francia'; el año 1985 del decreto referido es una errata imposible en un decreto de 1975, se corrige a 1551/1975 y se deja constancia en nota"
+  },
+  {
+   "id": "c_33dca9e7ec2b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Mauro BRUSA NIETO",
+    "documento": "DNI 92.081.723",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2355/1975",
+    "fecha": "29/8/1975",
+    "destino": "Venezuela",
+    "decreto_referido": "1647/1975",
+    "pagina": "504",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'D.N.I. 92.081.723' y 'República de Venezuela'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_f93aa8406917",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alicia Florinda RISSO de RODRIGUEZ",
+    "documento": "LC 5.431.127",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2356/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "944/1975",
+    "pagina": "504",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.C. 5.431.127' y 'República de Perú'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_73fa871fa6d9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Celedonio CARRIZO",
+    "documento": "MI 8.302.056",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2357/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "1479/1974",
+    "pagina": "504",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 8.302.056' y 'República de Perú'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_19d25a772787",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos CABRAL",
+    "documento": "MI 7.838.825",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2358/1975",
+    "fecha": "29/8/1975",
+    "destino": "Perú",
+    "decreto_referido": "1928/1974",
+    "pagina": "504",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 7.838.825' y 'República de Perú'; documento sin puntos y destino como país"
+  },
+  {
+   "id": "c_88e845dac6fa",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Raúl Elías CURI",
+    "documento": "MI 6.026.114",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2359/1975",
+    "fecha": "29/8/1975",
+    "destino": "Venezuela",
+    "decreto_referido": "1931/1974",
+    "pagina": "504",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 6.026.114' y 'República de Venezuela'; documento sin puntos y destino como país"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "case": "batch_068_77a0ce02",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_0be452e309c5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Nanci Carmen BASILIO",
+    "documento": "DNI 11.278.159",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1646/1979",
+    "fecha": "11/7/1979",
+    "destino": "",
+    "decreto_referido": "427/1976",
+    "pagina": "250",
+    "nota": "rectificación de nombre: los Decretos 427/76 (arresto) y 1092/77 (denegación de salida) deben entenderse a nombre de Nanci Teresita BASILIO (DNI 11.278.159)"
+   },
+   "motivo": "el texto dice 'DNI. 11.278.159' (se normaliza a 'DNI'); el decreto de arresto que el texto asocia a la persona es el 427/76, el 1092/77 queda en nota"
+  },
+  {
+   "id": "c_b052a2a9e2bc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Urbano CIVAGLIA",
+    "documento": "MI 8.353.739",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1652/1979",
+    "fecha": "11/7/1979",
+    "destino": "",
+    "decreto_referido": "2051/1975",
+    "pagina": "251",
+    "nota": "rectificación de apellido: los Decretos 2051/75 (arresto), 3251/75 y 176/79 (denegación de salida) deben entenderse a nombre de Urbano CIAVAGLIA (MI 8.353.739)"
+   },
+   "motivo": "el texto dice 'M.I. 8.353.739' (se normaliza a 'MI'); el considerando asocia el arresto al Decreto 2051/75, los otros dos quedan en nota"
+  }
+ ]
+}

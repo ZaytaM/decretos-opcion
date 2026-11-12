@@ -1,0 +1,23 @@
+{
+ "case": "batch_049_42f99ef7",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_b7ab3cd69320",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alejandro Alberto SAENZ",
+    "documento": "MI 8.186.372",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1150/1978",
+    "fecha": "24/5/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "170",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 8.186.372' (formato normalizado 'MI'); los considerandos citan 'Decretos números 656/78 y 687/78' sin indicar cuál corresponde a SAENZ, por lo que decreto_referido queda vacío por ambigüedad"
+  }
+ ]
+}

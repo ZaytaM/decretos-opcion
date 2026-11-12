@@ -1,0 +1,40 @@
+{
+ "case": "batch_096_0a377ab9",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_c25fd9c2ec36",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Ubaldo GONZALEZ LOPEZ",
+    "documento": "DNI 11.348.604",
+    "filiacion": "hijo de Rafael Hugo y Beatriz LOPEZ",
+    "tipo": "otro",
+    "decreto": "1379/1982",
+    "fecha": "1/12/1982",
+    "destino": "",
+    "decreto_referido": "972/1976",
+    "pagina": "379",
+    "nota": "rectificación de nombre en los Decretos 972/76 (arresto) y 3810/77 (sin efecto): donde dice Luis Alberto GONZALEZ LOPEZ debe decir Luis Ubaldo GONZALEZ LOPEZ"
+   },
+   "motivo": "el texto asocia explícitamente a la persona con los Decretos 972/76 (arresto) y 3810/77; no es ambiguo, se toma el decreto de arresto de origen como referido y la nota conserva ambos"
+  },
+  {
+   "id": "c_70bff9fa22d5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto Gabriel VARAS",
+    "documento": "LE 7.998.505",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1700/1981",
+    "fecha": "22/10/1981",
+    "destino": "",
+    "decreto_referido": "1785/1974",
+    "pagina": "380",
+    "nota": "rectificación de identidad en los Decretos 1785/74 (arresto), 1369/80 (opción denegada) y 49/81 (libertad vigilada): donde dice Gabriel VARA (MI 7.998.505) debe decir Roberto Gabriel VARAS (LE 7.998.505)"
+   },
+   "motivo": "el texto dice que por los Decretos 1785/74, 1369/80 y 49/81 se ordenó el arresto, se denegó la salida y se dispuso libertad vigilada de la persona; se toma el decreto de arresto 1785/74 como referido y la nota conserva los tres"
+  }
+ ]
+}

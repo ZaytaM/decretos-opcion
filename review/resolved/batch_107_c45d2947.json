@@ -1,0 +1,298 @@
+{
+ "case": "batch_107_c45d2947",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_9d30f248d480",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eugenio COMARK",
+    "documento": "LE 8.522.278",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1589/1976",
+    "fecha": "15/3/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "443",
+    "nota": "fe de erratas: donde dice Eugenio COMARK (LE 8.522.278) debe decir Tomás Eugenio CORMACK (LE 8.522.278); rectifica Decretos 1589/76, 3257/79 y 256/83; decreto 586/1983"
+   },
+   "motivo": "el art. 1 rectifica el nombre en los Decretos 1589/76, 3257/79 y 256/83; según la regla, en fe de erratas `decreto` es el decreto corregido (A); varios decretos corregidos, decreto_referido vacío"
+  },
+  {
+   "id": "b_2ad1052c31df",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_9d30f248d480 (misma persona y misma rectificación; B puso el decreto rectificador en `decreto` en vez del corregido)"
+  },
+  {
+   "id": "c_0f36a36b8a21",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Walberto BELTRAN",
+    "documento": "LE 4.728.195",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. DE. 119.081"
+   },
+   "motivo": "el texto dice 'Carlos Walberto BELTRAN (Prio. DE. 119.081) —LE. 4.728.195—'; el documento es la LE y el prontuario va en nota (versión B)"
+  },
+  {
+   "id": "c_122d7c5a7905",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Tomás BORIS",
+    "documento": "LE 6.434.933",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. CF. 4.339"
+   },
+   "motivo": "el texto dice 'José Tomás BORIS (Prio. CF. 4.339) —LE. 6.434.933—'; documento LE, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_a3ad0abf81d3",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alejandro Enrique FERREYRA",
+    "documento": "LE 5.411.123",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. CF. 4309"
+   },
+   "motivo": "el texto dice 'Alejandro Enrique FERREYRA (Prio. CF. 4309) —LE. 5.411.123—'; documento LE, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_70c9980c5a08",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Arturo LEA PLACE",
+    "documento": "DNI 8.446.842",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. CF. 2452"
+   },
+   "motivo": "el texto dice 'Luis Arturo LEA PLACE (Prio. CF. 2452) —DNI. 8.446.842—'; documento DNI, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_8c6ea8d85e38",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Adán Eduardo SAMOJEDNY",
+    "documento": "LE 7.799.657",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. CF. 4337"
+   },
+   "motivo": "el texto dice 'Adán Eduardo SAMOJEDNY (Prio. CF. 4337) —LE. 7.799.657—'; documento LE, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_32e59ad6d3af",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rubén Oscar SUAREZ",
+    "documento": "DNI 6.073.393",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "prio. SF. 2.522"
+   },
+   "motivo": "el texto dice 'Rubén Oscar SUAREZ (prio. SF. 2.522) —DNI. 6.073.393—'; documento DNI, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_b7a647f1fb3f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ana Inés GONZALEZ",
+    "documento": "DNI 5.589.336",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. CF. 4.774"
+   },
+   "motivo": "el texto dice 'Ana Inés GONZALEZ (Prio. CF. 4.774) —DNI. 5.589.336—'; documento DNI, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_148890e53bd1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Norberto PASTORINO",
+    "documento": "MI 8.575.890",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. AGC. 761.582"
+   },
+   "motivo": "el texto dice 'Norberto PASTORINO (Prio. AGC. 761.582) —MI. 8.575.890—'; documento MI, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_da9a3f57bf2e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Daniel PEDRAZA",
+    "documento": "DNI 11.085.734",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "CI Pol. Santa Fe 329.613"
+   },
+   "motivo": "el texto dice 'Jorge Daniel PEDRAZA (CI. Pol. Santa Fe 329.613) —DNI. 11.085.734—'; documento principal DNI, la cédula policial en nota (versión B)"
+  },
+  {
+   "id": "c_d21fc1811ce4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Enrique ROMERO",
+    "documento": "DNI 14.930.970",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. 844.368"
+   },
+   "motivo": "el texto dice 'Héctor Enrique ROMERO (Prio. 844.368) —DNI. 14.930.970—'; documento DNI, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_209cf22a1211",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Manuel ROMERO",
+    "documento": "DNI 16.788.622",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. 839.133"
+   },
+   "motivo": "el texto dice 'José Manuel ROMERO (Prio. 839.133) —DNI. 16.788.622—'; documento DNI, prontuario en nota (versión B)"
+  },
+  {
+   "id": "c_e497a02c7133",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Nicolás SANTELLA",
+    "documento": "CI 1.778.813",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2714/1983",
+    "fecha": "18/10/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "448",
+    "nota": "Prio. CF. 4.409"
+   },
+   "motivo": "el texto dice 'Hugo Nicolás SANTELLA (Prio. CF. 4.409) —CI. 1.778.813—'; documento CI, prontuario en nota (versión B)"
+  },
+  {
+   "id": "a_2d12bc4c4c93",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Silvia DICOLA",
+    "documento": "MI 11.268.669",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2902/1976",
+    "fecha": "20/1/1982",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "444",
+    "nota": "fe de erratas: donde dice Silvia DICOLA (MI 11.268.669) debe decir Silvia DI COLA (DNI 13.268.669); rectifica Decretos 2902/76, 3128/77, 2371/80 y 28/82; decreto 132/1982"
+   },
+   "motivo": "el art. 1 rectifica apellido y documento en los Decretos 2902/76, 3128/77, 2371/80 y 28/82; en fe de erratas `decreto` es el decreto corregido (A); varios decretos, decreto_referido vacío"
+  },
+  {
+   "id": "b_550cec8a600d",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_2d12bc4c4c93 (misma persona y misma rectificación; B puso el decreto rectificador 132/1982 en `decreto`)"
+  },
+  {
+   "id": "b_44dddb01d3b1",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_0b1935d19841 (misma rectificación de Marcelo Silvano CASTRO; B puso el decreto rectificador 131/1982 en `decreto` en vez del corregido 1761/74)"
+  },
+  {
+   "id": "a_0b1935d19841",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Marcelo Silvano CASTRO",
+    "documento": "MI 7.042.792",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1761/1974",
+    "fecha": "20/1/1982",
+    "destino": "",
+    "decreto_referido": "1761/1974",
+    "pagina": "445",
+    "nota": "fe de erratas: donde dice Marcelo Silvano CASTRO (MI 7.042.792) debe decir Silvano Marcelo CASTRO (LE 7.042.792); decreto 131/1982"
+   },
+   "motivo": "el art. 1 del Decreto 131/82 dice que la medida del Decreto 1761/74 'debe entenderse a nombre de Silvano Marcelo CASTRO (LE. 7.042.792)'; `decreto` es el corregido, único en el VISTO"
+  },
+  {
+   "id": "a_47442faca278",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Pascual Adolfo SEYDELL",
+    "documento": "MI 2.903.085",
+    "filiacion": "hijo de Carlos Augusto y Antonia Julia GINO",
+    "tipo": "otro",
+    "decreto": "1585/1977",
+    "fecha": "20/1/1982",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "445",
+    "nota": "fe de erratas: donde dice Pascual Adolfo SEYDELL (hijo de Carlos Augusto y Antonia Julia GINO, MI 2.903.085) debe decir Pascual Emilio Adolfo SEYDELL (hijo de Carlos Augusto y Antonia Julia GUALTIERI, DNI 10.171.635); rectifica Decretos 1585/77, 1391/80, 1186/81 y 28/82; decreto 130/1982"
+   },
+   "motivo": "el art. 1 rectifica nombre, filiación y documento en los Decretos 1585/77, 1391/80, 1186/81 y 28/82; en fe de erratas `decreto` es el decreto corregido (A); varios decretos, decreto_referido vacío"
+  },
+  {
+   "id": "b_76a1f3ca4d94",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_47442faca278 (misma persona y misma rectificación; B puso el decreto rectificador 130/1982 en `decreto`)"
+  }
+ ]
+}

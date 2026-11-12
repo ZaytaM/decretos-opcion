@@ -1,0 +1,74 @@
+{
+ "case": "batch_050_150ceb8f",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_4b02c91d2162",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Enrique BROSDKY",
+    "documento": "CI 1.586.210",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1520/1978",
+    "fecha": "12/7/1978",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "172",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 1587/977' y el artículo 1 deja sin efecto ese arresto; 'C.I.' se escribe 'CI'"
+  },
+  {
+   "id": "c_c18e29b352ad",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto Juan MUÑOZ",
+    "documento": "LE 8.345.454",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1156/1978",
+    "fecha": "24/5/1978",
+    "destino": "",
+    "decreto_referido": "1310/1976",
+    "pagina": "172",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto Nº 1310/76, con respecto a una persona comprendida en el mismo', única persona del artículo 1"
+  },
+  {
+   "id": "c_3805529ac4d9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Antonio SOFIA",
+    "documento": "CIPF 673.220",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1197/1978",
+    "fecha": "31/5/1978",
+    "destino": "",
+    "decreto_referido": "1145/1978",
+    "pagina": "175",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 1145/978, con respecto a la persona comprendida en el mismo'"
+  },
+  {
+   "id": "c_6957f25b5dcd",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Bernardo Martín RODRIGUEZ",
+    "documento": "LE 8.382.403",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1198/1978",
+    "fecha": "31/5/1978",
+    "destino": "",
+    "decreto_referido": "3791/1977",
+    "pagina": "175",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 3791/77, con respecto a la persona comprendida en el mismo'"
+  }
+ ]
+}

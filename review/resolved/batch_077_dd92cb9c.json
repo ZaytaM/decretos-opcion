@@ -1,0 +1,23 @@
+{
+ "case": "batch_077_dd92cb9c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_f5735a9b851a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Angel FIGUEROA",
+    "documento": "CI 8.161.369",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "2447/1980",
+    "fecha": "19/11/1980",
+    "destino": "",
+    "decreto_referido": "3278/1975",
+    "pagina": "286",
+    "nota": "el texto agrega 'PRIO. CF 4910' (prontuario Capital Federal); arresto en Localidad de José C. Paz, Provincia de Buenos Aires; control: Policía de la Provincia de Buenos Aires"
+   },
+   "motivo": "el texto dice 'Miguel Angel FIGUEROA (PRIO. CF 4910) —CI 8.161.369—'; el documento de identidad es la CI, el prontuario va en nota, como en el caso análogo de RIVAS y ORTIGOZA donde la lista confirmada toma sólo la CI/LE"
+  }
+ ]
+}

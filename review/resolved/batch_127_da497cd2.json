@@ -1,0 +1,210 @@
+{
+ "case": "batch_127_da497cd2",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_1de1cd03ff2e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Silvia Irene CASIRO de UHALDE",
+    "documento": "",
+    "filiacion": "hija de Benito y de Sara POPRUNSKY",
+    "tipo": "salida_autorizada",
+    "decreto": "3576/1975",
+    "fecha": "26/11/1975",
+    "destino": "Perú",
+    "decreto_referido": "759/1975",
+    "pagina": "509",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'con destino a la República de Perú'; destino es el país, se registra 'Perú'"
+  },
+  {
+   "id": "c_910e0113a498",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Oscar ROUQUETTE",
+    "documento": "MI 6.150.825",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3578/1975",
+    "fecha": "26/11/1975",
+    "destino": "México",
+    "decreto_referido": "12/1975",
+    "pagina": "509",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 6.150.825' (formato normalizado 'MI') y 'Estados Unidos de México'; destino es el país"
+  },
+  {
+   "id": "c_514139fc0c82",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Daniel Eduardo ESTARLI",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3577/1975",
+    "fecha": "26/11/1975",
+    "destino": "México",
+    "decreto_referido": "1151/1975",
+    "pagina": "509",
+    "nota": "el texto identifica con 'Nacido el 27-04-954' en lugar de documento"
+   },
+   "motivo": "'Nacido el 27-04-954' no es filiación ni documento; va en nota; destino 'Estados Unidos de México' se registra como 'México'"
+  },
+  {
+   "id": "c_e0d5bec08481",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Osvaldo VILLAFLOR",
+    "documento": "",
+    "filiacion": "hijo de Valentín y de Trinidad LEON",
+    "tipo": "salida_autorizada",
+    "decreto": "3579/1975",
+    "fecha": "26/11/1975",
+    "destino": "Venezuela",
+    "decreto_referido": "396/1975",
+    "pagina": "509",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'con destino a la República de Venezuela'; destino es el país"
+  },
+  {
+   "id": "c_6f9f34e45c53",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Enrique SANCHEZ HERRERA",
+    "documento": "Prio. A.G.C. 751.472",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3582/1975",
+    "fecha": "26/11/1975",
+    "destino": "Perú",
+    "decreto_referido": "1392/1975",
+    "pagina": "509",
+    "nota": "el texto dice 'Prío A.G.C. 751.472' (errata por 'Prio.')"
+   },
+   "motivo": "el texto dice 'Prío A.G.C. 751.472', errata evidente por 'Prio.' como en el decreto 3575/1975; destino 'República de Perú' se registra como 'Perú'"
+  },
+  {
+   "id": "c_632248cc3101",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alfredo Argentino CESAR",
+    "documento": "MI 5.954.656",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3583/1975",
+    "fecha": "26/11/1975",
+    "destino": "México",
+    "decreto_referido": "2191/1975",
+    "pagina": "509",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 5.954.656' (normalizado 'MI') y 'Estados Unidos de México'; destino es el país"
+  },
+  {
+   "id": "c_a50b725d847a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Bernardo María Cayetano LLORENS",
+    "documento": "MI 11.558.153",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3584/1975",
+    "fecha": "26/11/1975",
+    "destino": "Perú",
+    "decreto_referido": "1308/1975",
+    "pagina": "510",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'M.I. 11.558.153' (normalizado 'MI') y 'República de Perú'; destino es el país"
+  },
+  {
+   "id": "c_fa2f6694cd20",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "María Alejandra RIVIERI",
+    "documento": "CI 11.692.993 del Reg. Prov. de las Personas",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "3621/1975",
+    "fecha": "28/11/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "510",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. 11.692.993 del Reg. Prov. de las Personas'; se normaliza 'CI' y se conserva el resto tal como aparece"
+  },
+  {
+   "id": "c_5ae5119a23b0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "María Segunda CASADO",
+    "documento": "DNI 10.860.253",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3572/1975",
+    "fecha": "26/11/1975",
+    "destino": "Venezuela",
+    "decreto_referido": "2163/1975",
+    "pagina": "508",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'D.N.I. 10.860.253' (normalizado 'DNI') y 'República de Venezuela'; destino es el país"
+  },
+  {
+   "id": "c_5ae08c1fcc96",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Francisco Javier Pedro ROBATTI",
+    "documento": "LE 8.313.556",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3573/1975",
+    "fecha": "26/11/1975",
+    "destino": "México",
+    "decreto_referido": "262/1975",
+    "pagina": "508",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.E. 8.313.556' (normalizado 'LE') y 'Estados Unidos de México'; destino es el país; página inicial del rango 508-509"
+  },
+  {
+   "id": "c_5c4852ab64ff",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo CHIGUAY",
+    "documento": "",
+    "filiacion": "hijo de José Luis y de Natividad RAMIREZ",
+    "tipo": "salida_autorizada",
+    "decreto": "3574/1975",
+    "fecha": "26/11/1975",
+    "destino": "Venezuela",
+    "decreto_referido": "396/1975",
+    "pagina": "509",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'con destino a la República de Venezuela'; destino es el país"
+  },
+  {
+   "id": "c_fbe35cecf70a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Herald Hugo Raúl RODRIGUEZ ARENAS",
+    "documento": "Prio. A.G.C. 751.470",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3575/1975",
+    "fecha": "26/11/1975",
+    "destino": "Perú",
+    "decreto_referido": "1392/1975",
+    "pagina": "509",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Prio. A.G.C. 751.470' y 'República de Perú'; destino es el país"
+  }
+ ]
+}

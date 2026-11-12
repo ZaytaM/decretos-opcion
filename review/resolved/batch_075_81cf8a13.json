@@ -1,0 +1,94 @@
+{
+ "case": "batch_075_81cf8a13",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_7e56a3dbe168",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge CEPERNIC",
+    "documento": "CI 1.836.430 Policía Federal",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "3009/1979",
+    "fecha": "28/11/1979",
+    "destino": "",
+    "decreto_referido": "1205/1976",
+    "pagina": "274",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Arréstese ... Jorge CEPERNIC (C.I. N° 1.836.430 de la Policía Federal'; se normaliza 'C.I. N°' a 'CI' y la nota va vacía porque el tipo es arresto"
+  },
+  {
+   "id": "c_76fa6d016e6b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José HADDAD",
+    "documento": "MI 8.049.913",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "2531/1979",
+    "fecha": "15/10/1979",
+    "destino": "",
+    "decreto_referido": "1429/1974",
+    "pagina": "275",
+    "nota": "Ciudad de Rosario de Lerma, Provincia de Salta; control: Policía de la Provincia de Salta; también identificado como Prio. A.G.C. 473.923"
+   },
+   "motivo": "el texto dice 'MI 8.049.913'; el 'Prio. A.G.C. 473.923' es un número de prontuario, no un documento de identidad, y queda en nota"
+  },
+  {
+   "id": "a_9ee342876c42",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Olga Susana LLANAOS de JAUREGUI",
+    "documento": "DNI 10.802.018",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2088/1976",
+    "fecha": "19/10/1979",
+    "destino": "",
+    "decreto_referido": "2088/1976",
+    "pagina": "276",
+    "nota": "fe de erratas: donde dice Olga Susana LLANAOS de JAUREGUI debe decir Olga Susana LLANOS de JAUREGUILORDA (Decreto 2599/1979 rectifica el nombre en el Decreto 2088/1976)"
+   },
+   "motivo": "el art. 1° rectifica el Decreto 2088 del 17/9/1976; en fe de erratas el campo decreto es el que se corrige (2088/1976)"
+  },
+  {
+   "id": "b_a69166ae2010",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_9ee342876c42 (misma rectificación); además pone 2599/1979 como decreto cuando en fe de erratas debe ir el decreto corregido"
+  },
+  {
+   "id": "b_042e8bf87f28",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_9ee342876c42: es la misma persona con el nombre rectificado, no un evento distinto"
+  },
+  {
+   "id": "a_322b282f4109",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Emilio Alejandro MASSON",
+    "documento": "CI 4.821.687",
+    "filiacion": "hijo de Alejandro y de Benicia Vargas",
+    "tipo": "otro",
+    "decreto": "202/1976",
+    "fecha": "28/11/1979",
+    "destino": "",
+    "decreto_referido": "765/1977",
+    "pagina": "276",
+    "nota": "fe de erratas: donde dice Emilio Alejandro MASSON (hijo de Alejandro y de Benicia Vargas) debe decir Emilio Alejandro MANSSOR (C.I. 4.821.687); rectifica los Decretos 202/1976 (arresto) y 765/1977 (denegación de salida del país) por Decreto 3020/1979"
+   },
+   "motivo": "el art. 1° dice que los Decretos 202/76 y 765/77 'deben entenderse a nombre de Emilio Alejandro MANSSOR (C.I. Nº 4.821.687)'; se corrigen dos decretos, se toma 202/1976 como decreto y 765/1977 como referido"
+  },
+  {
+   "id": "b_29f4cb59f758",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_322b282f4109 (misma rectificación); omite la CI 4.821.687 que el texto asigna y pone 3020/1979 como decreto en vez del corregido"
+  },
+  {
+   "id": "b_699abef4fc31",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_322b282f4109: misma persona con el nombre rectificado, no un evento distinto"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "case": "batch_048_4ce7289f",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_49fd2b83cbe3",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Enrique PASCUAL",
+    "documento": "LE 6.876.119",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1453/1978",
+    "fecha": "6/7/1978",
+    "destino": "",
+    "decreto_referido": "3112/1977",
+    "pagina": "163",
+    "nota": ""
+   },
+   "motivo": "el considerando dice que cesaron las causas de 'las medidas adoptadas por Decreto número 3112/77, con respecto a algunas personas comprendido en el mismo' y el art. 1 deja sin efecto ese arresto; el único decreto que el texto asocia a estas personas es 3112/77 (los del VISTO son los generales 1368/74 y 2717/75)"
+  },
+  {
+   "id": "c_97825bfe8557",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "David Enrique KOKOTOFF",
+    "documento": "LE 6.884.935",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1453/1978",
+    "fecha": "6/7/1978",
+    "destino": "",
+    "decreto_referido": "3112/1977",
+    "pagina": "163",
+    "nota": ""
+   },
+   "motivo": "el considerando vincula a las personas liberadas con las 'medidas adoptadas por Decreto número 3112/77'"
+  },
+  {
+   "id": "c_baf7fa6cc8a9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Dora Cecilia HOLZER",
+    "documento": "LC 1.365.635",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1453/1978",
+    "fecha": "6/7/1978",
+    "destino": "",
+    "decreto_referido": "3112/1977",
+    "pagina": "163",
+    "nota": ""
+   },
+   "motivo": "el considerando vincula a las personas liberadas con las 'medidas adoptadas por Decreto número 3112/77'"
+  },
+  {
+   "id": "c_a91dde6b1cba",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Rafael RENNELLA",
+    "documento": "LE 6.498.924",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1453/1978",
+    "fecha": "6/7/1978",
+    "destino": "",
+    "decreto_referido": "3112/1977",
+    "pagina": "163",
+    "nota": ""
+   },
+   "motivo": "el considerando vincula a las personas liberadas con las 'medidas adoptadas por Decreto número 3112/77'; apellido unido por corte de línea 'RENNE-LLA'"
+  },
+  {
+   "id": "c_72f05555e321",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Bentolila Isaac COHEN",
+    "documento": "LE 5.631.116",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1453/1978",
+    "fecha": "6/7/1978",
+    "destino": "",
+    "decreto_referido": "3112/1977",
+    "pagina": "163",
+    "nota": ""
+   },
+   "motivo": "el considerando vincula a las personas liberadas con las 'medidas adoptadas por Decreto número 3112/77'"
+  },
+  {
+   "id": "c_92671ddebf23",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Augusto MARANDIHO",
+    "documento": "LE 4.223.754",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1453/1978",
+    "fecha": "6/7/1978",
+    "destino": "",
+    "decreto_referido": "3112/1977",
+    "pagina": "163",
+    "nota": ""
+   },
+   "motivo": "el considerando vincula a las personas liberadas con las 'medidas adoptadas por Decreto número 3112/77'"
+  }
+ ]
+}

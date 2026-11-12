@@ -1,0 +1,260 @@
+{
+ "case": "batch_104_6b02dda0",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_e6ccd1da93de",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_b5a1b6769849: misma rectificación; el evento pertenece al Decreto 190/1982 (línea de encabezado), no al 3384/1975, y se registra con el nombre corregido 'Norberto REY (LE. 4.887.264)'"
+  },
+  {
+   "id": "b_b5a1b6769849",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Norberto REY",
+    "documento": "LE 4.887.264",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "190/1982",
+    "fecha": "27/1/1982",
+    "destino": "",
+    "decreto_referido": "3384/1975",
+    "pagina": "429",
+    "nota": "fe de erratas: donde dice Roberto REY (CI. 5.078.780) debe decir Norberto REY (LE. 4.887.264)"
+   },
+   "motivo": "el art. 1° dice 'deben entenderse a nombre de Norberto REY (LE. 4.887.264)'; el VISTO asocia el arresto al 3384/75 ('respectivamente')"
+  },
+  {
+   "id": "a_8f290c2e2266",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_d39ed73b6045: misma rectificación del Decreto 138/1982, mal asignada al decreto 1238/1975 y al bloque de 2175/1983"
+  },
+  {
+   "id": "b_d39ed73b6045",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Benigno Alberto PEREYRA",
+    "documento": "DNI 12.188.632",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "138/1982",
+    "fecha": "20/1/1982",
+    "destino": "",
+    "decreto_referido": "1238/1975",
+    "pagina": "430",
+    "nota": "fe de erratas: donde dice Benigno Alberto PEREYRA (DNI. 12.188.620) debe decir Benigno Alberto PEREYRA (DNI. 12.188.632)"
+   },
+   "motivo": "el art. 1° dice 'deben entenderse a nombre de Benigno Alberto PEREYRA (DNI. 12.188.632)'; el VISTO asocia el arresto al 1238/75"
+  },
+  {
+   "id": "a_779902703642",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_cc13d7a9b375: misma rectificación; se registra bajo el Decreto 1512/1983 con el nombre corregido"
+  },
+  {
+   "id": "b_cc13d7a9b375",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Lidia Isabel ESPINOLA de ANGELACCIO",
+    "documento": "CI 7.484.290",
+    "filiacion": "hija de Crescencio y Amalia DAVALOS",
+    "tipo": "otro",
+    "decreto": "1512/1983",
+    "fecha": "17/6/1983",
+    "destino": "",
+    "decreto_referido": "3505/1975",
+    "pagina": "425",
+    "nota": "fe de erratas: donde dice Liccia ANGELACCIO de ESPINOLA (Hija de Crescencio y Amalia DAVALOS) debe decir Lidia Isabel ESPINOLA de ANGELACCIO (Hija de Crescencio y Amalia DAVALOS) —CI. Nº 7.484.290—"
+   },
+   "motivo": "el art. 1° dice 'deben entenderse a nombre de Lidia Isabel ESPINOLA de ANGELACCIO ... —CI. Nº 7.484.290—'; el texto dice 'Hija', corregido el 'hijo' de B; arresto por 3505/75 según 'respectivamente'"
+  },
+  {
+   "id": "c_295266c22731",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Marta Cristina CANDIA de PASTORINO",
+    "documento": "AGC 761.582; DNI 10.353.173",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2308/1983",
+    "fecha": "8/9/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "429",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(AGC. 761.582) —DNI. 10.353.173—'; se mantienen ambos documentos en el orden del texto; nota vacía porque es liberacion"
+  },
+  {
+   "id": "c_a6dbd955d188",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto CORBALAN",
+    "documento": "Prio. AP 48.831; LE 6.612.497",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2308/1983",
+    "fecha": "8/9/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "429",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(Prio. AP 48.831) —LE. 6.612.497—'; ambos documentos en el orden del texto; nota vacía porque es liberacion"
+  },
+  {
+   "id": "b_51cfb8565c24",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alejandro RODRIGUES",
+    "documento": "CI Pol. Misiones 180.199",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "137/1982",
+    "fecha": "20/1/1982",
+    "destino": "",
+    "decreto_referido": "1595/1977",
+    "pagina": "430",
+    "nota": "fe de erratas: donde dice Alejandro RODRIGUEZ (CI. Pol. Misiones 180.199) debe decir Alejandro RODRIGUES (CI. Pol. Misiones 180.199)"
+   },
+   "motivo": "el art. 1° dice 'deben entenderse a nombre de Alejandro RODRIGUES'; el VISTO asocia el arresto al 1595/77 ('respectivamente')"
+  },
+  {
+   "id": "a_ddfb2af2057d",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_51cfb8565c24: misma rectificación del Decreto 137/1982, mal asignada al decreto 1595/1977 y al bloque de 2175/1983"
+  },
+  {
+   "id": "a_8273ea56bb55",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_01b57c1fc81c: misma rectificación; se registra bajo el Decreto 136/1982 con el apellido corregido CANNIZZO"
+  },
+  {
+   "id": "a_8e4d6acbd26f",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_ac5ed0d38dbf: misma rectificación; se registra bajo el Decreto 136/1982 con el apellido corregido CANNIZZO"
+  },
+  {
+   "id": "b_01b57c1fc81c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Luis CANNIZZO",
+    "documento": "DNI 11.974.737",
+    "filiacion": "hijo de Salvador Jaime y Teresa RAMALLO",
+    "tipo": "otro",
+    "decreto": "136/1982",
+    "fecha": "20/1/1982",
+    "destino": "",
+    "decreto_referido": "3668/1975",
+    "pagina": "431",
+    "nota": "fe de erratas: donde dice José Luis CANNIZO (Hijo de Salvador Jaime y Teresa de Jesús RAMALLO) debe decir José Luis CANNIZZO (Hijo de Salvador Jaime y Teresa RAMALLO) —DNI. 11.974.737—"
+   },
+   "motivo": "el art. 1° dice 'deben entenderse a nombre de José Luis CANNIZZO (Hijo de Salvador Jaime y Teresa RAMALLO) —DNI. 11.974.737—'; arresto por 3668/75 según 'respectivamente'"
+  },
+  {
+   "id": "b_ac5ed0d38dbf",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sebastián CANNIZZO",
+    "documento": "DNI 7.993.098",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "136/1982",
+    "fecha": "20/1/1982",
+    "destino": "",
+    "decreto_referido": "3668/1975",
+    "pagina": "431",
+    "nota": "fe de erratas: donde dice Sebastián CANNIZO (MI. 7.993.098) debe decir Sebastián CANNIZZO (DNI. 7.993.098)"
+   },
+   "motivo": "el art. 1° dice 'y de Sebastián CANNIZZO (DNI. 7.993.098)'; arresto por 3668/75 según 'respectivamente'"
+  },
+  {
+   "id": "a_e5d0c5e9be22",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_a9fe4f0c65de: misma rectificación; se registra bajo el Decreto 135/1982 con el apellido corregido TARTABINI"
+  },
+  {
+   "id": "b_a9fe4f0c65de",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rubén Luis TARTABINI",
+    "documento": "DNI 10.833.969",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "135/1982",
+    "fecha": "20/1/1982",
+    "destino": "",
+    "decreto_referido": "1712/1975",
+    "pagina": "431",
+    "nota": "fe de erratas: donde dice Rubén Luis TARTARINI (DNI. 10.833.969) debe decir Rubén Luis TARTABINI (DNI. 10.833.969)"
+   },
+   "motivo": "el art. 1° dice 'deben entenderse a nombre de Rubén Luis TARTABINI (DNI. 10.833.969)'; el VISTO asocia el arresto al 1712/75 ('respectivamente')"
+  },
+  {
+   "id": "a_c2bb60e4716c",
+   "veredicto": "dudoso",
+   "motivo": "el texto está truncado en los considerandos y no trae la parte dispositiva; sólo consta la solicitud de opción de Vicente Jorge PETRIZANI PARRA, sin saber si se denegó, difirió o concedió"
+  },
+  {
+   "id": "c_3691a03c6131",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto ALVAREZ",
+    "documento": "Prio. R.H. 174.620; DNI 10.163.686",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2417/1983",
+    "fecha": "15/9/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "428",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(Prio. R.H. 174.620) —DNI. 10.163.686—'; ambos documentos en el orden del texto; nota vacía porque es liberacion"
+  },
+  {
+   "id": "b_71bb869b9e94",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto CORBALAN",
+    "documento": "Prio. AP 48.831; LE 6.612.497",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "223/1982",
+    "fecha": "29/1/1982",
+    "destino": "",
+    "decreto_referido": "2492/1975",
+    "pagina": "428",
+    "nota": "fe de erratas: donde dice Carlos Alberto CORVALAN (Prio. AP 48.831) debe decir Carlos Alberto CORBALAN (Prio. AP 48.831) —LE. 6.612.497—"
+   },
+   "motivo": "el art. 1° dice 'deben entenderse a nombre de Carlos Alberto CORBALAN (Prio. AP 48.831) —LE. 6.612.497—'; el VISTO asocia el arresto al 2492/75 ('respectivamente')"
+  },
+  {
+   "id": "a_4a9d23340130",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_71bb869b9e94: misma rectificación del Decreto 223/1982, mal asignada al decreto 2492/1975 y al bloque de 2308/1983"
+  },
+  {
+   "id": "a_2087b6892b2d",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_16a7d36f57e0: misma rectificación; se registra bajo el Decreto 191/1982 con el nombre corregido Ramón"
+  },
+  {
+   "id": "b_16a7d36f57e0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ramón TORRES MOLINA",
+    "documento": "DNI 5.176.035",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "191/1982",
+    "fecha": "27/1/1982",
+    "destino": "",
+    "decreto_referido": "425/1976",
+    "pagina": "428",
+    "nota": "fe de erratas: donde dice Horacio TORRES MOLINA (MI. 5.176.035) debe decir Ramón TORRES MOLINA (DNI. 5.176.035)"
+   },
+   "motivo": "el art. 1° dice 'deben entenderse a nombre de Ramón TORRES MOLINA (DNI. 5.176.035)'; el VISTO asocia el arresto al 425/76 ('respectivamente'); página 428 por ser la primera del rango"
+  }
+ ]
+}

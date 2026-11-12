@@ -1,0 +1,108 @@
+{
+ "case": "batch_013_ad18e99a",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_f630dee67dba",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Nelson HERNANDEZ SILVA",
+    "documento": "",
+    "filiacion": "hijo de Pastor Hernandez y Celia Silva",
+    "tipo": "expulsion",
+    "decreto": "3401/1976",
+    "fecha": "23/12/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "43",
+    "nota": "uruguayo"
+   },
+   "motivo": "el Art. 2 cita dos decretos (1158/75 y 1309/75) para tres personas sin indicar cuál corresponde a cada una; decreto_referido ambiguo, queda vacío"
+  },
+  {
+   "id": "c_9e6883d6bd80",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "María Regina Jacob PILLA",
+    "documento": "",
+    "filiacion": "hija de Ello y Clara Jacob",
+    "tipo": "expulsion",
+    "decreto": "3401/1976",
+    "fecha": "23/12/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "43",
+    "nota": "brasileña"
+   },
+   "motivo": "el Art. 2 cita dos decretos (1158/75 y 1309/75) para tres personas sin indicar cuál corresponde a cada una; decreto_referido ambiguo, queda vacío"
+  },
+  {
+   "id": "c_dda0dd550a6f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Paulo Antonio PARANAGUA",
+    "documento": "Prío, CF 4882",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "3401/1976",
+    "fecha": "23/12/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "43",
+    "nota": "brasileño; el texto dice 'Prío, CF 4882', probable errata en el tipo de documento"
+   },
+   "motivo": "el texto dice '(brasileño - Prío, CF 4882)'; la lectura de B coincide con el texto; el Art. 2 no asigna los decretos 1158/75 y 1309/75 a personas concretas, decreto_referido vacío"
+  },
+  {
+   "id": "c_83c41c1ed724",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mateo JUAREZ",
+    "documento": "CI 8.135.982",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3402/1976",
+    "fecha": "23/12/1976",
+    "destino": "México",
+    "decreto_referido": "509/1975",
+    "pagina": "43",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Mateo JUAREZ (CI 8.135.982) con destino a MEXICO' y el VISTO lo asocia al Decreto 509/75; la diferencia en destino es sólo de formato y la nota de B no corresponde a los casos previstos"
+  },
+  {
+   "id": "c_ef607b90211c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Pablo Antonio PICARDI",
+    "documento": "MI 8.065.061",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3402/1976",
+    "fecha": "23/12/1976",
+    "destino": "Perú",
+    "decreto_referido": "1238/1975",
+    "pagina": "43",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pablo Antonio PICARDI (MI 8.065.061) con destino a PERU' y el VISTO lo asocia al Decreto 1238/75; la diferencia en destino es sólo de formato"
+  },
+  {
+   "id": "c_078c3449d9fb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eduardo Humberto ARDILES",
+    "documento": "MI 8.285.969",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3402/1976",
+    "fecha": "23/12/1976",
+    "destino": "Perú",
+    "decreto_referido": "1455/1975",
+    "pagina": "43",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Eduardo Humberto ARDILES (MI 8.285.969) con destino PERU' y el VISTO lo asocia al Decreto 1455/75; la diferencia en destino es sólo de formato"
+  }
+ ]
+}

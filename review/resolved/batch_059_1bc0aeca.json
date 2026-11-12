@@ -1,0 +1,329 @@
+{
+ "case": "batch_059_1bc0aeca",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_1904b33500f2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Aurelio CID",
+    "documento": "MI 4.037.476",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_1f372b6a6c14",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Arnoldo GRASSI",
+    "documento": "CI 5.881.644",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_24f460ff3600",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Enrique Lucio GARCIA MANSILLA",
+    "documento": "CI 5.604.999",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_3f3fa281b23c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Jabid Salvador BULLERAICH",
+    "documento": "CI 5.435.283",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_d69f223087f3",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alejandro Augusto PINEDO",
+    "documento": "MI 4.161.179",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_eae6f2319e87",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Edgardo Humberto CARDONA",
+    "documento": "MI 6.056.521",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_7c190d2396d6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Aristodemo Raúl ALBERICI",
+    "documento": "MI 2.367.348",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_df52415defed",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Constanzo PIGNATARO",
+    "documento": "DNI 6.003.151",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_a7605ad97031",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "René Carlos Alberto GRASSI",
+    "documento": "MI 5.990.749",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_aa3a77a8c3a6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Claudio CHAVANNE",
+    "documento": "MI 4.513.445",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "207/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "3077/1978",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto N° 3077/78'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_ca7515da6f00",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Raúl Tomás GIMENES",
+    "documento": "MI 12.360.507",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "3852/1975",
+    "fecha": "2/2/1979",
+    "destino": "",
+    "decreto_referido": "3852/1975",
+    "pagina": "217",
+    "nota": "fe de erratas: donde dice Raúl Tomás GIMENES (M.I. 12.360.507) debe decir Raúl Tomás GIMENEZ (M.I. 12.360.507); arresto dispuesto por Decreto 3852 del 11/12/1975"
+   },
+   "motivo": "el art. 1 rectifica el 'arresto dispuesto por Decreto número 3852 del 11 de diciembre de 1975'; ese es el decreto asociado a la persona"
+  },
+  {
+   "id": "c_f040250f6cd4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto José FIGUEREDO",
+    "documento": "DNI 8.356.308",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "355/1979",
+    "fecha": "7/2/1979",
+    "destino": "",
+    "decreto_referido": "2038/1978",
+    "pagina": "217",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 2038/978'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_8b69311e1615",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rolando Martín ACUÑA",
+    "documento": "DNI 10.156.344",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "355/1979",
+    "fecha": "7/2/1979",
+    "destino": "",
+    "decreto_referido": "2038/1978",
+    "pagina": "217",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 2038/978'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_17d55176ef70",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Guindolfo SEOLIN",
+    "documento": "",
+    "filiacion": "hijo de Enrique y Petrona LORAY",
+    "tipo": "liberacion",
+    "decreto": "355/1979",
+    "fecha": "7/2/1979",
+    "destino": "",
+    "decreto_referido": "2038/1978",
+    "pagina": "217",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 2038/978'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_3cecf5eb7cf8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Tomás GIMENEZ",
+    "documento": "MI 12.360.507",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "164/1976",
+    "fecha": "2/2/1979",
+    "destino": "",
+    "decreto_referido": "164/1976",
+    "pagina": "217",
+    "nota": "excluido del Decreto 164 del 14/1/1976 por ser la misma persona que Raúl Tomás GIMENEZ, ya incluido en el Decreto 3852/1975"
+   },
+   "motivo": "el art. 2 dice 'Exclúyase del Decreto N° 164 del 14 de enero de 1976, a Tomás GIMENEZ'; el decreto asociado a este nombre es el 164/76, el 3852/75 queda en nota"
+  },
+  {
+   "id": "c_c383244eab6b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto MARIN",
+    "documento": "DNI 5.068.113",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "178/1979",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "2849/1976",
+    "pagina": "215",
+    "nota": "fe de erratas: donde dice Carlos Alberto MARIN (DNI. 5.068.113) debe decir Carlos Ernesto Eduardo MARIN (L.E. 5.068.113); corrige la autorización de salida del Decreto 178 del 24/1/1979; el mismo Decreto 210/1979 corrige también el arresto del Decreto 2849 del 15/11/1976"
+   },
+   "motivo": "el Decreto 210/79 rectifica 'el arresto y autorización de salida del país, dispuestas por Decretos números 2849 del 15 de noviembre de 1976 y 178 del 24 de enero de 1979'; el arresto 2849/76 es el decreto anterior asociado a la persona"
+  },
+  {
+   "id": "b_654f3f9c46b8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto MARIN",
+    "documento": "DNI 5.068.113",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2849/1976",
+    "fecha": "26/1/1979",
+    "destino": "",
+    "decreto_referido": "2849/1976",
+    "pagina": "215",
+    "nota": "fe de erratas: donde dice Carlos Alberto MARIN (DNI. 5.068.113) debe decir Carlos Ernesto Eduardo MARIN (L.E. 5.068.113); corrige el arresto del Decreto 2849 del 15/11/1976"
+   },
+   "motivo": "el art. 1 del Decreto 210/79 corrige también el 'arresto... dispuesto por Decreto número 2849 del 15 de noviembre de 1976'; es un decreto corregido distinto del 178/79, no duplica a c_c383244eab6b"
+  },
+  {
+   "id": "c_e67d1bc6fe92",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Lidia Catalina GESUALDI",
+    "documento": "CI 4.285.187",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "192/1979",
+    "fecha": "25/1/1979",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 1587/77'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_d9ba2c130b3b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Silvia Cristina FANJUL",
+    "documento": "",
+    "filiacion": "hija de Diego y de Nélida Josefina CARVA",
+    "tipo": "liberacion",
+    "decreto": "192/1979",
+    "fecha": "25/1/1979",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "215",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 1587/77'; único decreto de arresto referido"
+  }
+ ]
+}

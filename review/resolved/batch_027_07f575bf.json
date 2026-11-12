@@ -1,0 +1,74 @@
+{
+ "case": "batch_027_07f575bf",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_d49096ba0e66",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Horacio Marcos MIEREZ",
+    "documento": "DNI. 12.756.798",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1736/1977",
+    "fecha": "14/6/1977",
+    "destino": "",
+    "decreto_referido": "1349/1977",
+    "pagina": "90",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'las medidas adoptadas por Decreto número 1349/77, con respecto a algunas personas comprendidas en el mismo'; es el único decreto de arresto asociado a las personas (los del VISTO son los generales 1368/74 y 2717/75)"
+  },
+  {
+   "id": "c_c8d690a46d1a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Raquél Regina COSTA ETALA",
+    "documento": "L.C. 5.634.347",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1736/1977",
+    "fecha": "14/6/1977",
+    "destino": "",
+    "decreto_referido": "1349/1977",
+    "pagina": "90",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto al 'Decreto número 1349/77'; B omitió el decreto referido"
+  },
+  {
+   "id": "c_91b60c55d189",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Nilda Angela GONZALEZ de COGNO",
+    "documento": "L.C. 4.275.436",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1736/1977",
+    "fecha": "14/6/1977",
+    "destino": "",
+    "decreto_referido": "1349/1977",
+    "pagina": "90",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto al 'Decreto número 1349/77'; B omitió el decreto referido"
+  },
+  {
+   "id": "c_aeb13d991472",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carmen Yolanda GARCIA de COSTA ETALA",
+    "documento": "L.C. 6.727.133",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1736/1977",
+    "fecha": "14/6/1977",
+    "destino": "",
+    "decreto_referido": "1349/1977",
+    "pagina": "90",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia el arresto al 'Decreto número 1349/77'; B omitió el decreto referido"
+  }
+ ]
+}

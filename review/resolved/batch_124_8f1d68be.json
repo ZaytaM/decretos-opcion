@@ -1,0 +1,45 @@
+{
+ "case": "batch_124_8f1d68be",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_0ef24a733480",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hector Alejandro MOSCA BELTRAME",
+    "documento": "DN para extranjeros 92.094.117",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2076/1975",
+    "fecha": "2/8/1975",
+    "destino": "República de Venezuela",
+    "decreto_referido": "1814/1974",
+    "pagina": "501",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'D.N. para extranjeros Nº 92.094.117'; única diferencia es el formato de la sigla, y la convención del campo es sin puntos (DNI, MI, CI), por lo que vale la versión de A"
+  },
+  {
+   "id": "a_000a812f5769",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Rodolfo MESA",
+    "documento": "DNI 12.195.747",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2106/1975",
+    "fecha": "27/8/1975",
+    "destino": "",
+    "decreto_referido": "2106/1975",
+    "pagina": "501",
+    "nota": "fe de erratas: donde dice Jorge Cecilio MESA debe decir Jorge Rodolfo MESA (rectificación dispuesta por Decreto 2285/1975 del 27/8/1975)"
+   },
+   "motivo": "el Decreto 2285/1975 dispone que el arresto del Decreto 2106 'a nombre de Jorge Cecilio MESA (D.N.I. 12.195.747), debe entenderse a nombre de Jorge Rodolfo MESA'; por regla, en fe de erratas el campo decreto es el que se corrige (2106/1975), con fecha y página del decreto rectificatorio"
+  },
+  {
+   "id": "b_f1f9ebeced6b",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_000a812f5769 (misma persona y misma rectificación); B puso como decreto el rectificatorio 2285/1975 en vez del corregido 2106/1975 como exige la regla para fe de erratas"
+  }
+ ]
+}

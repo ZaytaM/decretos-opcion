@@ -1,0 +1,57 @@
+{
+ "case": "batch_024_c3652da3",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_57205f7cf275",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eliseo Edesio RUBIO",
+    "documento": "LE 6.114.485",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2376/1977",
+    "fecha": "12/8/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "80",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.E. 6.114.485' y se normaliza a 'LE'; el VISTO cita 1368/74 y 2717/75 y el considerando 825/977 sin indicar cuál corresponde a cada persona, por lo que decreto_referido queda vacío"
+  },
+  {
+   "id": "c_c8b5398d9a25",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Dionisio RUBIO",
+    "documento": "LE 6.116.958",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2376/1977",
+    "fecha": "12/8/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "80",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.E. 6.116.958' y se normaliza a 'LE'; tres decretos citados (1368/74, 2717/75, 825/977) sin asignación por persona, decreto_referido ambiguo"
+  },
+  {
+   "id": "c_d96f0f8e0e36",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José SCARDULLA",
+    "documento": "LE 6.117.031",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2376/1977",
+    "fecha": "12/8/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "80",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.E. 6.117.031' y se normaliza a 'LE'; tres decretos citados sin que el texto diga cuál corresponde a la persona, decreto_referido ambiguo"
+  }
+ ]
+}

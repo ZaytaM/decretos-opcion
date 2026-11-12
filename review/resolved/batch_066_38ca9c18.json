@@ -1,0 +1,135 @@
+{
+ "case": "batch_066_38ca9c18",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_95efdbeab2db",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Víctor ARDILES",
+    "documento": "MI 6.258.053",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1297/1979",
+    "fecha": "1/6/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "241",
+    "nota": ""
+   },
+   "motivo": "los considerandos citan 'Decretos números 1812/974 y 1813/974, respectivamente' para tres personas y el VISTO cita 1368/74 y 2717/75; no se puede asignar un decreto a cada persona, por lo que decreto_referido va vacío; nota no corresponde en liberacion"
+  },
+  {
+   "id": "c_4e6a70c199e9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Horacio ARDILES",
+    "documento": "MI 5.071.759",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1297/1979",
+    "fecha": "1/6/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "241",
+    "nota": ""
+   },
+   "motivo": "dos decretos (1812/974 y 1813/974) para tres personas sin indicar cuál corresponde a cada una; decreto_referido ambiguo, va vacío"
+  },
+  {
+   "id": "c_04f59d5fbdb3",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rito Martiniano AGUERO",
+    "documento": "MI 7.799.980",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1297/1979",
+    "fecha": "1/6/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "241",
+    "nota": ""
+   },
+   "motivo": "el texto no permite saber si AGUERO fue arrestado por 1812/974 o 1813/974; decreto_referido ambiguo, va vacío"
+  },
+  {
+   "id": "c_546cb5640db9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto GENOVES",
+    "documento": "MI 5.089.828",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "1323/1979",
+    "fecha": "7/6/1979",
+    "destino": "Reino de España",
+    "decreto_referido": "624/1979",
+    "pagina": "242",
+    "nota": ""
+   },
+   "motivo": "el Art. 2 deja sin efecto 'Decretos N°s 624 ... y 1114 ..., respectivamente, con relación a las personas mencionadas en el Artículo anterior'; GENOVES es el primero nombrado, le corresponde 624/79; nota vacía por no ser caso previsto"
+  },
+  {
+   "id": "c_6e703137066a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Teresita María GAUNA",
+    "documento": "LC 6.507.772",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "1323/1979",
+    "fecha": "7/6/1979",
+    "destino": "República de Italia",
+    "decreto_referido": "1114/1979",
+    "pagina": "242",
+    "nota": ""
+   },
+   "motivo": "por el 'respectivamente' del Art. 2, a GAUNA (segunda nombrada) le corresponde el Decreto 1114/79, no el 624/79 que puso B"
+  },
+  {
+   "id": "a_054834ea46f3",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_2b02713b83b8 (misma persona y misma rectificación); en fe de erratas el campo decreto es el decreto que se corrige"
+  },
+  {
+   "id": "b_2b02713b83b8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto CACERES",
+    "documento": "MI 7.208.374",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "3505/1975",
+    "fecha": "12/6/1979",
+    "destino": "",
+    "decreto_referido": "3505/1975",
+    "pagina": "243",
+    "nota": "fe de erratas: donde dice Carlos Alberto CACERES debe decir Carlos Alberto CASARES (MI 7.208.374); rige para los Decretos 3505/75 (arresto) y 1113/79 (libertad vigilada); rectificado por Decreto 1403/1979"
+   },
+   "motivo": "el Art. 1 dice que los Decretos 3505/75 y 1113/79 'debe entenderse a nombre de Carlos Alberto CASARES'; es fe de erratas, el campo decreto lleva el decreto corregido (3505/75, el de arresto)"
+  },
+  {
+   "id": "a_6760b42fb475",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_6c7eee1c81fa (misma persona y misma rectificación); en fe de erratas el campo decreto es el decreto que se corrige"
+  },
+  {
+   "id": "b_6c7eee1c81fa",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Cecilia Adriana MARINO",
+    "documento": "LC 11.895.866",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2040/1978",
+    "fecha": "1/6/1979",
+    "destino": "",
+    "decreto_referido": "2040/1978",
+    "pagina": "241",
+    "nota": "fe de erratas: donde dice Cecilia Adriana MARINO debe decir Celia Adriana MARINO (LC 11.895.866); el Decreto 2040/78 denegó la salida del país; rectificado por Decreto 1295/1979"
+   },
+   "motivo": "el Art. 1 dice que el Decreto 2040/78 'debe entenderse a nombre de Celia Adriana MARINO'; es fe de erratas, el campo decreto lleva el decreto corregido"
+  }
+ ]
+}

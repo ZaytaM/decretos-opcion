@@ -1,0 +1,198 @@
+{
+ "case": "batch_035_82c4169c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_7cf088de9383",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos ORTEGA",
+    "documento": "DNI 12.358.208",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2228/1977",
+    "fecha": "29/7/1977",
+    "destino": "",
+    "decreto_referido": "1357/1977",
+    "pagina": "114",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto 1357/977'; los decretos del VISTO (1368/74, 2717/75) son genéricos"
+  },
+  {
+   "id": "c_fea1a5bfab1c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Arturo Oscar VILLALBA",
+    "documento": "LE 6.259.405",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2228/1977",
+    "fecha": "29/7/1977",
+    "destino": "",
+    "decreto_referido": "1357/1977",
+    "pagina": "114",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto 1357/977'; los decretos del VISTO son genéricos"
+  },
+  {
+   "id": "c_cf0e355d590e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Anibal Lucas GARAY",
+    "documento": "MI 8.195.865",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2299/1978",
+    "fecha": "28/9/1978",
+    "destino": "",
+    "decreto_referido": "1586/1974",
+    "pagina": "117",
+    "nota": "rectificación de nombre: el Decreto 1586/974 que ordenó el arresto de Anibal Lucas GODOY (MI 8.195.865) debe entenderse a nombre de Anibal Lucas GARAY (MI 8.195.865)"
+   },
+   "motivo": "el art. 1 dice que el Decreto 1586/974 'debe entenderse a nombre de Anibal Lucas GARAY'; GARAY es el apellido correcto según el decreto, GODOY queda en la nota"
+  },
+  {
+   "id": "a_6236ddcbff47",
+   "veredicto": "descartar",
+   "motivo": "el art. 2 ('dejar sin efecto el arresto por Decreto 3505/75... en el momento que haga abandono del país') es cláusula accesoria de la expulsión ya confirmada para la misma persona; un solo evento por persona"
+  },
+  {
+   "id": "c_cc90a520f326",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar MARASTONI",
+    "documento": "LE 1.125.376",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3817/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "118",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1587/977'"
+  },
+  {
+   "id": "c_f8441dc71630",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio DAICH",
+    "documento": "LE 4.307.333",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3817/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "118",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1587/977'"
+  },
+  {
+   "id": "c_5635f3741767",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Flora DYBNER de RAVEL",
+    "documento": "LC 3.167.619",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3817/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "118",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1587/977'"
+  },
+  {
+   "id": "c_41e167674e23",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo Jorge BERTOLDI",
+    "documento": "LE 7.728.229",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3817/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "118",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1587/977'"
+  },
+  {
+   "id": "c_4126bd99281f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Francisco FERNANDEZ BERNARDES",
+    "documento": "LE 2.577.509",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3817/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "118",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1587/977'"
+  },
+  {
+   "id": "c_87de2c06d81a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Dante MARRA",
+    "documento": "LE 5.117.452",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3817/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "118",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1587/977'"
+  },
+  {
+   "id": "c_bcb370b251d7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ernesto María DE ESTRADA",
+    "documento": "CI 2.800.213",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3817/1977",
+    "fecha": "22/12/1977",
+    "destino": "",
+    "decreto_referido": "1587/1977",
+    "pagina": "118",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia las medidas con 'Decreto número 1587/977'"
+  },
+  {
+   "id": "c_16b7a4ee2362",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mauricio SARUDIANSKY",
+    "documento": "DNI 6.254.983",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2115/1977",
+    "fecha": "20/7/1977",
+    "destino": "",
+    "decreto_referido": "1594/1977",
+    "pagina": "115",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia la medida con 'Decreto número 1594/977'; 'D.N.I.' se normaliza a 'DNI'"
+  }
+ ]
+}

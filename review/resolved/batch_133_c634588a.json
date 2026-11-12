@@ -1,0 +1,91 @@
+{
+ "case": "batch_133_c634588a",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_b350d159016c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Vicente Ernesto FUNES",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "4843/1969",
+    "fecha": "27/8/1969",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "923",
+    "nota": "sin documento; el texto dice 'Argentino 27 años'"
+   },
+   "motivo": "el texto dice '(Argentino 27 años)', que es nacionalidad y edad, no un documento; va vacío y se aclara en nota (versión de A)"
+  },
+  {
+   "id": "c_6bf46253300b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Victor Manuel SAN CRUZ",
+    "documento": "MI 7.636.196",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "5506/1969",
+    "fecha": "18/9/1969",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "925",
+    "nota": "boliviano naturalizado"
+   },
+   "motivo": "el texto dice '(M.I. 7.636.196 boliviano naturalizado)'; el documento es sólo 'MI 7.636.196', la nacionalidad va en nota (versión de A)"
+  },
+  {
+   "id": "c_ddc5e7ff6af2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Angel Gustavo CEJAS REBOLLO",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "5506/1969",
+    "fecha": "18/9/1969",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "925",
+    "nota": "sin documento; el texto dice 'boliviano'"
+   },
+   "motivo": "el texto dice '(boliviano)', que es nacionalidad, no documento; va vacío (versión de A)"
+  },
+  {
+   "id": "c_4e6dbff6f54b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sixto José ALMADA",
+    "documento": "MI 6.016.555",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "5515/1969",
+    "fecha": "19/9/1969",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "926",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(M.I. número 6.016.555)'; se normaliza a 'MI 6.016.555' sin la palabra 'número', como en los demás eventos del decreto (versión de A)"
+  },
+  {
+   "id": "c_1479f876d088",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José René GUTIERREZ",
+    "documento": "CI 7.769.381",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "4594/1969",
+    "fecha": "20/8/1969",
+    "destino": "",
+    "decreto_referido": "3834/1969",
+    "pagina": "923",
+    "nota": "se deja sin efecto la expulsión del país (chileno) dispuesta por decreto 3834/69; continúa detenido a disposición del PEN"
+   },
+   "motivo": "el texto dice 'chileno (C.I. 7.769.381)': 'chileno' califica a la persona, no al documento, por lo que es 'CI 7.769.381' y no 'CI chilena'; se normaliza 'C.I.' a 'CI'"
+  }
+ ]
+}

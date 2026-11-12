@@ -1,0 +1,40 @@
+{
+ "case": "batch_119_82ce4dc0",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_1859d5031238",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos PAYASLIAN",
+    "documento": "CI 1.842.852",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "298/1975",
+    "fecha": "17/2/1975",
+    "destino": "Perú",
+    "decreto_referido": "1726/1974",
+    "pagina": "486",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. Nº 1.842.852' con destino 'República de PERU'; la mención al Registro Provincial no forma parte del número de documento, y el destino se escribe normalizado como país"
+  },
+  {
+   "id": "c_8f3316107bd0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Lucía DEON",
+    "documento": "LC 6.062.597",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "299/1975",
+    "fecha": "17/2/1975",
+    "destino": "Perú",
+    "decreto_referido": "1726/1974",
+    "pagina": "486",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.C. Nº 6.062.597' con destino 'República de PERU'; única diferencia es la grafía del destino, se adopta 'Perú' como nombre de país"
+  }
+ ]
+}

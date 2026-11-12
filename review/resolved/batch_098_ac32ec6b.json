@@ -1,0 +1,194 @@
+{
+ "case": "batch_098_ac32ec6b",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_bfcbdfdc3d93",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar Antonio PORCARO",
+    "documento": "DNI 10.159.416",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "879/1982",
+    "fecha": "14/10/1982",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "392",
+    "nota": "el texto agrega 'Prio. AP. 308.336' (prontuario), no es documento de identidad"
+   },
+   "motivo": "el texto dice 'Oscar Antonio PORCARO (Prio. AP. 308.336) —DNI. 10.159.416—'; el documento de identidad es el DNI y el prontuario va en nota (versión B)"
+  },
+  {
+   "id": "c_e86d59465772",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar Antonio PORCARO",
+    "documento": "DNI 10.159.416",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "878/1982",
+    "fecha": "14/10/1982",
+    "destino": "",
+    "decreto_referido": "2492/1975",
+    "pagina": "392",
+    "nota": "Ciudad de Bolívar, Provincia de Buenos Aires; controla Policía de la Provincia de Buenos Aires; el texto agrega 'Prio. AP. 308.336' (prontuario)"
+   },
+   "motivo": "el texto dice '(Prio. AP. 308.336) —DNI. 10.159.416), detenido por Decreto N° 2492/75, cumplirá arresto en la Ciudad de Bolívar'; documento es el DNI, prontuario en nota (versión B)"
+  },
+  {
+   "id": "a_84a41d0c6011",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_7b3359e5335f; la medida mantiene el régimen de libertad vigilada ('Amplíase el ámbito geográfico ... pudiendo desplazarse dentro de su ejido urbano. Controlará el arresto la Policía'), corresponde tipo libertad_vigilada"
+  },
+  {
+   "id": "b_7b3359e5335f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Pedro ROMERO",
+    "documento": "DNI 8.361.270",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "875/1982",
+    "fecha": "14/10/1982",
+    "destino": "",
+    "decreto_referido": "1622/1975",
+    "pagina": "393",
+    "nota": "amplía el ámbito geográfico (fijado en Ciudad de Merlo por Decreto 1172/82) a la Ciudad de Castelar, Partido de Morón, Provincia de Buenos Aires; controla Policía de la Provincia de Buenos Aires"
+   },
+   "motivo": "el texto dice 'Amplíase el ámbito geográfico asignado a Juan Pedro ROMERO (DNI. 8.361.270) a la Ciudad de Castelar'; arrestado por Decreto 1622/75 según el VISTO"
+  },
+  {
+   "id": "a_afd94f213d83",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_a17c0d44fe96; la ampliación del ámbito geográfico es una modificación del régimen de libertad vigilada, tipo libertad_vigilada"
+  },
+  {
+   "id": "b_a17c0d44fe96",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Delia Lucía PEROT",
+    "documento": "LC 6.706.270",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "803/1982",
+    "fecha": "4/10/1982",
+    "destino": "",
+    "decreto_referido": "3970/1975",
+    "pagina": "394",
+    "nota": "amplía el ámbito geográfico (fijado en San Antonio de Padua, Partido de Merlo, por Decreto 531/82) a la Ciudad de Merlo, Provincia de Buenos Aires; controla Policía de la Provincia de Buenos Aires"
+   },
+   "motivo": "el texto dice 'Amplíase el ámbito geográfico asignado a Delia Lucía PEROT (LC. 6.706.270) a la Ciudad de Merlo'; arrestada por Decreto 3970/75 según el VISTO"
+  },
+  {
+   "id": "a_bb154b12c710",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_5b2944059e5f; el texto redacta de nuevo el apartado 'cumplirá arresto en la Localidad de Berisso', fórmula propia de libertad_vigilada"
+  },
+  {
+   "id": "b_5b2944059e5f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo José REYNOSO",
+    "documento": "MI 7.618.005",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "2016/1981",
+    "fecha": "20/11/1981",
+    "destino": "",
+    "decreto_referido": "571/1976",
+    "pagina": "394",
+    "nota": "modifica el ámbito geográfico fijado por Decreto 1821/81 (art. 1° ap. 4): Localidad de Berisso, Provincia de Buenos Aires; controla Policía de la Provincia de Buenos Aires"
+   },
+   "motivo": "el texto dice 'Ricardo José REYNOSO (MI. 7.618.005), detenido por Decreto N° 571/76, cumplirá arresto en la Localidad de Berisso'"
+  },
+  {
+   "id": "a_c5a9a69f13cb",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_1ff0caa97711; la ampliación del ámbito geográfico mantiene el régimen de libertad vigilada, tipo libertad_vigilada"
+  },
+  {
+   "id": "b_1ff0caa97711",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Noemí Mabel DI GIANNI",
+    "documento": "LC 11.340.998",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "802/1982",
+    "fecha": "4/10/1982",
+    "destino": "",
+    "decreto_referido": "203/1975",
+    "pagina": "394",
+    "nota": "amplía el ámbito geográfico (fijado en Témperley, Partido de Lomas de Zamora, por Decreto 1169/82) a la Ciudad de Lomas de Zamora, Provincia de Buenos Aires; controla Policía de la Provincia de Buenos Aires"
+   },
+   "motivo": "el texto dice 'Amplíase el ámbito geográfico asignado a Noemí Mabel DI GIANNI (LC. 11.340.998) a la Ciudad de Lomas de Zamora'; arrestada por Decreto 203/75 según el VISTO"
+  },
+  {
+   "id": "a_850a2128900a",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_8d5484a9ea31; el texto redacta de nuevo el apartado 'cumplirá arresto en la Ciudad de Resistencia', fórmula de libertad_vigilada"
+  },
+  {
+   "id": "a_12505a36d2e9",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_fbe2f97dad4d; el texto redacta de nuevo el apartado 'cumplirá arresto en la Localidad de Barranqueras', fórmula de libertad_vigilada"
+  },
+  {
+   "id": "b_8d5484a9ea31",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Luis ALMIRON",
+    "documento": "MI 7.623.463",
+    "filiacion": "hijo de Lino y de Ignacia SANCHEZ",
+    "tipo": "libertad_vigilada",
+    "decreto": "2017/1981",
+    "fecha": "20/11/1981",
+    "destino": "",
+    "decreto_referido": "427/1976",
+    "pagina": "394",
+    "nota": "modifica el ámbito geográfico fijado por Decreto 1485/81 (art. 1° ap. 1): Ciudad de Resistencia y Localidad de Barranqueras, Partido de San Fernando, Provincia del Chaco; controla Policía de la Provincia del Chaco"
+   },
+   "motivo": "el texto dice 'Carlos Luis ALMIRON (Hijo de Lino y de Ignacia SANCHEZ) —MI. 7.623.463— detenido por Decreto N° 427/76, cumplirá arresto en la Ciudad de Resistencia'"
+  },
+  {
+   "id": "b_fbe2f97dad4d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Demetrio MARTINEZ",
+    "documento": "CI Pol. Chaco 220.020",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "2017/1981",
+    "fecha": "20/11/1981",
+    "destino": "",
+    "decreto_referido": "1845/1974",
+    "pagina": "394",
+    "nota": "modifica el ámbito geográfico fijado por Decreto 802/81 (art. 1° ap. 2): Localidad de Barranqueras, Partido de San Fernando, y Ciudad de Resistencia sólo para tareas laborales, Provincia del Chaco; controla Policía de la Provincia del Chaco"
+   },
+   "motivo": "el texto dice 'Luis Demetrio MARTINEZ (CI. Pol. Chaco 220.020), detenido por Decreto N° 1845/74, cumplirá arresto en la Localidad de Barranqueras'"
+  },
+  {
+   "id": "a_38c123bb727f",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_f2f4fbaf9255; el texto redacta de nuevo el apartado 'cumplirá arresto en la Localidad de Centenario', fórmula de libertad_vigilada"
+  },
+  {
+   "id": "b_f2f4fbaf9255",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Antonio GIMENEZ",
+    "documento": "MI 6.472.449",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "1997/1981",
+    "fecha": "17/11/1981",
+    "destino": "",
+    "decreto_referido": "575/1977",
+    "pagina": "392",
+    "nota": "modifica el ámbito geográfico fijado por Decreto 594/81 (art. 1° ap. 4): Localidad de Centenario, Departamento de Confluencia, Provincia del Neuquén, y Ciudad de Neuquén sólo para tareas laborales; controla Policía de la Provincia del Neuquén"
+   },
+   "motivo": "el texto dice 'José Antonio GIMENEZ (MI. 6.472.449), detenido por Decreto N° 575/77, cumplirá arresto en la Localidad de Centenario'"
+  }
+ ]
+}

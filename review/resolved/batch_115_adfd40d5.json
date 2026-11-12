@@ -1,0 +1,62 @@
+{
+ "case": "batch_115_adfd40d5",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_71f9e225c60b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Alejandro BARRY",
+    "documento": "CI 5.665.474 PF",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "96/1975",
+    "fecha": "13/1/1975",
+    "destino": "República de PERU",
+    "decreto_referido": "1726/1974",
+    "pagina": "476",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. 5.665.474 PF', que se normaliza a 'CI'; el destino se transcribe tal como figura: 'República de PERU'"
+  },
+  {
+   "id": "c_175516c5390b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Horacio Duilio ZAMBONI",
+    "documento": "",
+    "filiacion": "hijo de Rogelio Duilio y de Manuela PARODI",
+    "tipo": "salida_autorizada",
+    "decreto": "97/1975",
+    "fecha": "13/1/1975",
+    "destino": "República de PERU",
+    "decreto_referido": "1404/1974",
+    "pagina": "476",
+    "nota": ""
+   },
+   "motivo": "única diferencia es el destino; el texto dice 'República de PERU' y se transcribe tal cual"
+  },
+  {
+   "id": "b_c5a3bfc61101",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_530b9424c21d: misma persona y mismo decreto; la orden de 'continuar arrestado' del art. 2 es parte de la medida única del decreto (otro), no un arresto nuevo"
+  },
+  {
+   "id": "c_530b9424c21d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Everardo FACCHINI",
+    "documento": "LE 5.470.370",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "100/1975",
+    "fecha": "14/1/1975",
+    "destino": "",
+    "decreto_referido": "1403/1974",
+    "pagina": "476",
+    "nota": "se deja sin efecto el Decreto 89/1975 que autorizaba su salida del país, por causa penal en trámite ante el Juez Federal de Bahía Blanca; deberá continuar arrestado a disposición del PEN según el Decreto 1403/1974"
+   },
+   "motivo": "el texto dice 'L.E. 5.470.370' (normalizado a 'LE') y 'arrestado a disposición del Poder Ejecutivo Nacional por Decreto 1403/74'; el decreto de arresto es el referido, y la revocación del 89/1975 queda en la nota"
+  }
+ ]
+}

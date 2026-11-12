@@ -1,0 +1,11 @@
+{
+ "case": "batch_015_6a52cec8",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_3be9299b9159",
+   "veredicto": "descartar",
+   "motivo": "duplicado del evento ya confirmado 'arresto | Norma Susana SAAD | MI 6.545.578': el decreto dispone un solo hecho sobre la persona ('Arréstese a disposición del Poder Ejecutivo Nacional a Norma Susana SAAD') y el Art. 2º sólo fija la modalidad de cumplimiento (Rosario, libertad vigilada); corresponde un único evento por persona"
+  }
+ ]
+}

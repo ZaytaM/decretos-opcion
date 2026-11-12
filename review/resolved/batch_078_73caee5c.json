@@ -1,0 +1,40 @@
+{
+ "case": "batch_078_73caee5c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_ad160c4bf2b5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rubén Darlo BLANCO",
+    "documento": "MI 4.494.143",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1673/1980",
+    "fecha": "15/8/1980",
+    "destino": "",
+    "decreto_referido": "791/1978",
+    "pagina": "288",
+    "nota": "el texto dice 'Darlo' (errata evidente por 'Darío')"
+   },
+   "motivo": "el texto dice 'Rubén Darlo BLANCO'; se transcribe tal cual con nota de errata, A corrigió el nombre y B omitió la nota"
+  },
+  {
+   "id": "c_c38c3b926098",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo Alberto BARRIENTOS",
+    "documento": "MI 8.478.307",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1663/1980",
+    "fecha": "14/8/1980",
+    "destino": "",
+    "decreto_referido": "191/1975",
+    "pagina": "290",
+    "nota": "se lo excluye del Decreto 191 del 26 de enero de 1975, en el que había sido incluido por error; arrestado originalmente por Decreto 1407 del 11 de noviembre de 1974"
+   },
+   "motivo": "el artículo 1 dice 'Exclúyase del Decreto Nº 191 del 26 de enero de 1975', ese es el decreto sobre el que opera la medida; el documento se normaliza a 'MI' según la regla de formato"
+  }
+ ]
+}

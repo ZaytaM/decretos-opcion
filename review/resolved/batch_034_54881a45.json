@@ -1,0 +1,40 @@
+{
+ "case": "batch_034_54881a45",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_6ae99987e781",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Alberto BUSTAMANTE ROSA MEDINA",
+    "documento": "Pasaporte Nº 8.418 de Perú",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "1902/1977",
+    "fecha": "30/6/1977",
+    "destino": "",
+    "decreto_referido": "552/1975",
+    "pagina": "113",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(Pasaporte Nº 8.418 de Perú)'; se transcribe tal como aparece; la nota de B es contexto innecesario fuera de los casos previstos"
+  },
+  {
+   "id": "c_2db76d73df54",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Domingo JARAMILLO LABRA",
+    "documento": "CI 109.442 Policía Jujuy",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1924/1977",
+    "fecha": "5/7/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "112",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Cl 109.442 Policía Jujuy'; por regla 'Cl' se escribe 'CI'; sin nota porque la regla lo prevé y varios decretos del VISTO impiden fijar decreto_referido"
+  }
+ ]
+}

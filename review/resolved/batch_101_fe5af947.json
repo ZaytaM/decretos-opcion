@@ -1,0 +1,57 @@
+{
+ "case": "batch_101_fe5af947",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_f47ba7ad0905",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Enrique ROMERO",
+    "documento": "DNI 14.930.970",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "1131/1982",
+    "fecha": "9/6/1982",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "411",
+    "nota": "figura además Prio. 844.368"
+   },
+   "motivo": "el texto dice 'Héctor Enrique ROMERO (Prio. 844.368) —DNI. 14.930.970—'; el DNI es el documento de identidad y el prontuario va en nota, igual criterio que en el ítem de BRIZUELA"
+  },
+  {
+   "id": "c_59c9fb0b4599",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Evaristo Carlos Eleuterio BRIZUELA",
+    "documento": "CI 8.016.638",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "1172/1982",
+    "fecha": "18/6/1982",
+    "destino": "",
+    "decreto_referido": "909/1975",
+    "pagina": "411",
+    "nota": "Departamento de San Blas de Los Sauces, La Rioja; figura también CI Pol. La Rioja 53.872"
+   },
+   "motivo": "el texto dice '(CI. Pol. La Rioja 53.872) —CI. 8.016.638—'; se toma la CI nacional como documento y la policial provincial en nota"
+  },
+  {
+   "id": "c_c5098988c984",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mary Isabel DEL VALLE ACOSTA de RUIZ",
+    "documento": "LC 11.241.742",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "116/1982",
+    "fecha": "16/7/1982",
+    "destino": "",
+    "decreto_referido": "262/1975",
+    "pagina": "406",
+    "nota": "rectificación de nombre y documento en Decretos 262/75 (arresto) y 1012/77 (opción denegada): donde dice Mary Isabel DEL VALLE ACOSTA de RUIZ (LC. 11.241.742) debe decir Mary Isabel del Valle ACOSTA de RUIZ (DNI. 11.241.742)"
+   },
+   "motivo": "el texto asocia a la persona con los Decretos 262/75 y 1012/77; se consigna el de arresto (262/75) como referido y ambos quedan explicados en la nota"
+  }
+ ]
+}

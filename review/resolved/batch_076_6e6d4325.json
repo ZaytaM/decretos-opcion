@@ -1,0 +1,89 @@
+{
+ "case": "batch_076_6e6d4325",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_09b652ebe66d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Marta QUIROGA de CARDOZO",
+    "documento": "DNI 11.153.047",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2246/1979",
+    "fecha": "10/9/1979",
+    "destino": "Reino de Suecia",
+    "decreto_referido": "1975/1979",
+    "pagina": "277",
+    "nota": ""
+   },
+   "motivo": "art. 1 'Autorízase la salida del país ... (D.N.I. 11.153.047), con destino al Reino de Suecia'; el VISTO y el art. 2 asocian a la persona con el Decreto 1975/79, por lo que corresponde decreto_referido 1975/1979 (versión A)"
+  },
+  {
+   "id": "b_d01b88df6130",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_09b652ebe66d: el art. 2 ('Déjase sin efecto lo resuelto mediante Decreto N° 1975/79') es accesorio de la autorización de salida de la misma persona y queda reflejado en decreto_referido"
+  },
+  {
+   "id": "c_4c86fc6750f5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mario Raúl BELSUZARI",
+    "documento": "MI 8.128.843",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "2799/1979",
+    "fecha": "5/11/1979",
+    "destino": "Reino de Suecia",
+    "decreto_referido": "",
+    "pagina": "278",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Mario Raúl BELSUZARI (M.I. 8.128.843), con destino al Reino de Suecia'; el decreto no menciona ningún decreto anterior, el '1876/1975' de A no surge del texto"
+  },
+  {
+   "id": "c_c5e3d9347132",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luís Angel CAJTANEIRA",
+    "documento": "DNI 12.804.507",
+    "filiacion": "hijo de Enso Fausto y de Magdalena Mmerise",
+    "tipo": "otro",
+    "decreto": "3023/1979",
+    "fecha": "28/11/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "279",
+    "nota": "rectificación de nombre y filiación en los decretos 3004/75 (arresto) y 1650/79 (denegación de salida del país): debe entenderse a nombre de Luís Alberto CASTAÑEIRA (DNI 12.804.507)"
+   },
+   "motivo": "art. 1 'los decretos Nºs 3004/75 y 1650/79 ... de Luís Angel CAJTANEIRA ... debe entenderse a nombre de Luís Alberto CASTAÑEIRA (D.N.I. Nº 12.804.507)'; es una sola medida sobre una persona que remite a dos decretos, por eso decreto_referido vacío y ambos en nota; el DNI identifica al mismo detenido según los considerandos"
+  },
+  {
+   "id": "b_819f3bb1d52b",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_c5e3d9347132: misma persona y misma rectificación, B la desdobló por decreto referido (1650/79 vs 3004/75)"
+  },
+  {
+   "id": "c_d76097fbd232",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Alberto LINDER",
+    "documento": "DNI 10.483.610",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2249/1979",
+    "fecha": "10/9/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "277",
+    "nota": "rectificación de nombre y documento en los decretos 558/76 (arresto) y 2081/79 (opción diferida): debe entenderse a nombre de Jorge Adolfo LINDER (DNI 10.483.619); los considerandos consignan 10.843.619, el art. 1 dice 10.483.619"
+   },
+   "motivo": "art. 1 'los Decretos números 558 del 9 de febrero de 1976 y 2081 del 28 de agosto de 1979 ... de Jorge Alberto LINDER (DNI. 10.483.610), debe entenderse a nombre de Jorge Adolfo LINDER (DNI. 10.483.619)'; una sola medida que remite a dos decretos, decreto_referido vacío y ambos en nota"
+  },
+  {
+   "id": "b_bb95e54bb6f6",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_d76097fbd232: misma persona y misma rectificación, B la desdobló por decreto referido (2081/79 vs 558/76)"
+  }
+ ]
+}

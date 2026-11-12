@@ -1,0 +1,23 @@
+{
+ "case": "batch_073_dd6642f6",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_44d64469c451",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos PERE",
+    "documento": "CI uruguaya 1.477.351",
+    "filiacion": "hijo de Juan Carlos y Luisa Barbier",
+    "tipo": "liberacion",
+    "decreto": "2480/1979",
+    "fecha": "2/10/1979",
+    "destino": "",
+    "decreto_referido": "1064/1975",
+    "pagina": "267",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. República Oriental del Uruguay N° 1.477.351'; se abrevia como en la convención 'CI chilena …' y la nota de B sobra porque el tipo liberacion no la requiere"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "case": "batch_058_beb4c5a6",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_0e1b61778fa3",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar Omar OCHI",
+    "documento": "CI Pol. Formosa 236.824",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "130/1979",
+    "fecha": "17/1/1979",
+    "destino": "",
+    "decreto_referido": "3226/1975",
+    "pagina": "213",
+    "nota": "se ratifica la libertad personal a partir del 3/11/1975, dejando sin efecto el Decreto 3226/1975"
+   },
+   "motivo": "el texto dice 'CI Nº 236.824 Pol. Formosa'; mismo tipo y número en ambas lecturas; se adopta la forma sin 'Nº', consistente con el evento ya confirmado de BUZZATO ('CI Pol. Formosa 210.859')"
+  },
+  {
+   "id": "c_5acc69770fbd",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Manuel CENA",
+    "documento": "DNI 11.723.019",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "18/1979",
+    "fecha": "3/1/1979",
+    "destino": "",
+    "decreto_referido": "1207/1976",
+    "pagina": "211",
+    "nota": "rectificación de nombre: donde dice Héctor Manuel CENA debe decir Néstor Manuel CENA (DNI 11.723.019) en el arresto (Decreto 1207/1976) y las denegatorias de salida del país (Decretos 530/1977 y 972/1978)"
+   },
+   "motivo": "el texto asocia expresamente a la persona los tres decretos; se toma el de arresto 1207 del 5/7/1976 como decreto_referido y los otros dos se consignan en nota"
+  },
+  {
+   "id": "c_789ddeff799c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Heber Nazareno TAPPATA",
+    "documento": "MI 7.848.950",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "30/1979",
+    "fecha": "4/1/1979",
+    "destino": "",
+    "decreto_referido": "1681/1976",
+    "pagina": "211",
+    "nota": "arresto domiciliario en calle Alsina N° 445, General Roca, Provincia de Río Negro (modifica Decreto 3060/1978, que fijaba calle Zapiola 1017, Bahía Blanca); controla la Policía de la Provincia de Río Negro"
+   },
+   "motivo": "el VISTO identifica un único decreto de arresto (1681 del 13/8/1976); el 3060/1978 es el decreto modificado y queda en nota"
+  },
+  {
+   "id": "c_8ac5ba2e9c16",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Anahia Silvia RODRIGUEZ de TAPPATA",
+    "documento": "DNI 5.763.688",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "30/1979",
+    "fecha": "4/1/1979",
+    "destino": "",
+    "decreto_referido": "1681/1976",
+    "pagina": "211",
+    "nota": "arresto domiciliario en calle Alsina N° 445, General Roca, Provincia de Río Negro (modifica Decreto 3060/1978, que fijaba calle Zapiola 1017, Bahía Blanca); controla la Policía de la Provincia de Río Negro"
+   },
+   "motivo": "el VISTO identifica un único decreto de arresto (1681 del 13/8/1976); el 3060/1978 es el decreto modificado y queda en nota"
+  }
+ ]
+}

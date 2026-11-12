@@ -1,0 +1,99 @@
+{
+ "case": "batch_117_e6f64153",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_722a013f36fd",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rosa Mercedes GONZALEZ",
+    "documento": "Prío. 707.584",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2880/1975",
+    "fecha": "13/10/1975",
+    "destino": "",
+    "decreto_referido": "728/1975",
+    "pagina": "481",
+    "nota": "rectificación de nombre: el arresto dispuesto por Decreto 728/1975 a nombre de Rosa Mercedes GONBCLEZ (Prío. 707.584) debe entenderse a nombre de Rosa Mercedes GONZALEZ"
+   },
+   "motivo": "art. 1 del Decreto 2880/1975 rectifica el nombre del arresto del Decreto 728; el evento lo contiene el 2880/1975 (línea de encabezado), con 728/1975 como decreto_referido"
+  },
+  {
+   "id": "b_50f11968d2f2",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_722a013f36fd (misma persona y misma rectificación); además B asigna decreto 728/1975 con fecha 13/10/1975, que es la del 2880/1975, y lo ubica bajo el Decreto 2964/1975 donde no aparece"
+  },
+  {
+   "id": "c_3cf84c552376",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Moisés LINTRIDIS",
+    "documento": "MI 701.179",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "769/1975",
+    "fecha": "26/3/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "483",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Moisés LINTRIDIS (M.I. nro. 701.179)'; mismo número en A y B, se usa el formato normalizado 'MI 701.179' como en el resto de los eventos confirmados"
+  },
+  {
+   "id": "a_8ad9cd7f2fb2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eduardo FOTI",
+    "documento": "",
+    "filiacion": "hijo de Alberto y Elena Ramona Trevisonno",
+    "tipo": "otro",
+    "decreto": "2878/1975",
+    "fecha": "13/10/1975",
+    "destino": "",
+    "decreto_referido": "2253/1975",
+    "pagina": "481",
+    "nota": "rectificación de nombre: el arresto dispuesto por Decreto 2253/1975 a nombre de Gregorio PEREZ (MI 5.656.329) debe entenderse a nombre de Eduardo FOTI"
+   },
+   "motivo": "art. 1: 'el arresto dispuesto por Decreto 2253 ... a nombre de Gregorio PEREZ ... debe entenderse a nombre de Eduardo FOTI (hijo de Alberto y Elena Ramona Trevisonno)'; el evento lo contiene el 2878/1975"
+  },
+  {
+   "id": "b_397d5c9867ab",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_8ad9cd7f2fb2 (misma persona y misma rectificación); B asigna decreto 2253/1975 con la fecha del 2878/1975"
+  },
+  {
+   "id": "b_fe21d0abd542",
+   "veredicto": "descartar",
+   "motivo": "'Gregorio PEREZ' es el nombre erróneo que el decreto reemplaza por Eduardo FOTI; es la misma persona y el mismo hecho que a_8ad9cd7f2fb2, cuya nota ya registra el nombre y documento erróneos"
+  },
+  {
+   "id": "a_f273a96538d9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alberto Angel CORREA",
+    "documento": "CI Policía Federal 5.137.145",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2879/1975",
+    "fecha": "13/10/1975",
+    "destino": "",
+    "decreto_referido": "1037/1975",
+    "pagina": "481",
+    "nota": "rectificación de nombre: el arresto dispuesto por Decreto 1037/1975 a nombre de Alberto ACHAVAL VILARO (hijo de Joaquín y María del Carmen Vilaro) debe entenderse a nombre de Alberto Angel CORREA"
+   },
+   "motivo": "art. 1: 'el arresto dispuesto por Decreto 1037 ... a nombre de Alberto ACHAVAL VILARO ... debe entenderse a nombre de Alberto Angel CORREA (C.I.P.F. 5.137.145)'; el considerando expande C.I.P.F. como 'C.I. Policía Federal'"
+  },
+  {
+   "id": "b_7a801b8ad0aa",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_f273a96538d9 (misma persona y misma rectificación); B asigna decreto 1037/1975 con la fecha del 2879/1975"
+  },
+  {
+   "id": "b_50e011e5fafb",
+   "veredicto": "descartar",
+   "motivo": "'Alberto ACHAVAL VILARO' es el nombre erróneo que el decreto reemplaza por Alberto Angel CORREA; es la misma persona y el mismo hecho que a_f273a96538d9, cuya nota ya registra el nombre y filiación erróneos"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "case": "batch_071_6ee68f37",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_9a7aeac6b193",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Ricardo HEREDIA",
+    "documento": "CI 7.884.000",
+    "filiacion": "hijo de Ricardo y de María Benita Oronado",
+    "tipo": "libertad_vigilada",
+    "decreto": "2426/1979",
+    "fecha": "26/9/1979",
+    "destino": "",
+    "decreto_referido": "2131/1979",
+    "pagina": "262",
+    "nota": "el art. 1° dispone que la libertad vigilada del Decreto 2131/79 debe entenderse a su nombre y no al de Enrique HEREDIA, incluido por error; lugar de cumplimiento no indicado"
+   },
+   "motivo": "el art. 1° dice que el Decreto 2131/79 'debe entenderse a nombre de Carlos Ricardo HEREDIA (hijo de Ricardo y de María Benita Oronado) —C.I. 7.884.000'; A lo omitió; se normaliza 'C.I.' a 'CI'"
+  }
+ ]
+}

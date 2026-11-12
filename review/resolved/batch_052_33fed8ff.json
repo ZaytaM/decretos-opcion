@@ -1,0 +1,33 @@
+{
+ "case": "batch_052_33fed8ff",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_fb9968e34c32",
+   "veredicto": "descartar",
+   "motivo": "el Art. 2 ('Dejar sin efecto el arresto dispuesto por Decreto número 1064/975 ... en el momento que la misma haga abandono del país') es el corolario de la expulsión del Art. 1, ya confirmada para la misma persona; no es una medida independiente sino la condición accesoria del extrañamiento"
+  },
+  {
+   "id": "a_c2ed5612b0fc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Esteban RIVAS",
+    "documento": "DNI 4.750.313",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1223/1978",
+    "fecha": "2/6/1978",
+    "destino": "",
+    "decreto_referido": "1526/1975",
+    "pagina": "182",
+    "nota": "rectificación de nombre: el arresto dispuesto por Decreto 1526/1975 a nombre de Carlos Esteban RIVAS debe entenderse a nombre de Esteban RODI (DNI 4.750.313)"
+   },
+   "motivo": "el Art. 1 dice 'el Decreto Nº 1526/975 ... de Carlos Esteban RIVAS (D.N.I. 4.750.313), debe entenderse a nombre de Esteban RODI'; es una medida del Decreto 1223/1978, por lo que ese es el campo decreto"
+  },
+  {
+   "id": "b_f151b069fd11",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_c2ed5612b0fc (misma persona y mismo hecho); además B puso decreto '1526/1975' pero la rectificación la dispone el Decreto 1223/1978, y no es una fe de erratas del Boletín sino un decreto rectificatorio"
+  }
+ ]
+}

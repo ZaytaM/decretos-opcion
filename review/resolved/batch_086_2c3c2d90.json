@@ -1,0 +1,74 @@
+{
+ "case": "batch_086_2c3c2d90",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_3336b0d5e16f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Nicolás Elias ADRE",
+    "documento": "MI 3.219.576",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "799/1980",
+    "fecha": "16/4/1980",
+    "destino": "",
+    "decreto_referido": "1205/1976",
+    "pagina": "320",
+    "nota": "cumplía arresto domiciliario por decretos 1205/76 y 379/79; continúan sanciones del Acta Institucional del 18/6/1976 (art. 2 incisos a, d, e) impuestas por Resolución 2/76 de la Junta Militar"
+   },
+   "motivo": "el texto dice 'por imperio de los decretos 1205/76 y 379/79': 1205/76 es el decreto de arresto original asociado a la persona; 379/79 sólo modificó la forma de cumplimiento, por lo que no es ambiguo y corresponde consignar 1205/1976"
+  },
+  {
+   "id": "c_0bfb0aaa9483",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Silvia Irene GONZALEZ",
+    "documento": "DNI 14.406.926",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "682/1980",
+    "fecha": "1/4/1980",
+    "destino": "República Federal de Alemania",
+    "decreto_referido": "",
+    "pagina": "322",
+    "nota": "el texto trae además '(Prío. 788.245)', probablemente número de prontuario; lectura dudosa de la sigla"
+   },
+   "motivo": "el texto dice 'Silvia Irene GONZALEZ (Prío. 788.245) —DNI. 14.406.926—'; el documento de identidad es el DNI y la otra referencia va en nota, 'Prío.' no es pasaporte sino verosímilmente prontuario"
+  },
+  {
+   "id": "c_9744fd22f5fb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Graciela SUAREZ",
+    "documento": "CI 7.174.352",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "223/1980",
+    "fecha": "30/1/1980",
+    "destino": "",
+    "decreto_referido": "2088/1976",
+    "pagina": "322",
+    "nota": "se la excluye del Decreto 2088/76 por inclusión errónea; su arresto rige por el Decreto 1568/74"
+   },
+   "motivo": "el artículo 1 dice 'Exclúyase del Decreto Nº 2088/76 a Graciela SUAREZ (C.I. 7.174.352)': el decreto sobre el que opera la medida es 2088/76; el 1568/74 queda en nota; 'C.I.' se normaliza a 'CI'"
+  },
+  {
+   "id": "c_aabc4ad8a902",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José María CARDIZO",
+    "documento": "MI 11.190.838",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "605/1980",
+    "fecha": "24/3/1980",
+    "destino": "",
+    "decreto_referido": "3972/1975",
+    "pagina": "324",
+    "nota": "se lo excluye del Decreto 3972/75 por ser la misma persona que José María CARDOZO (DNI 11.190.838), ya incluido con filiación correcta en el Decreto 3208/75"
+   },
+   "motivo": "el artículo 1 dice 'Exclúyase del Decreto Nº 3972/75 a José María CARDIZO (M.I. 11.190.838)': el decreto sobre el que opera la medida es 3972/75; 'M.I.' se normaliza a 'MI'"
+  }
+ ]
+}

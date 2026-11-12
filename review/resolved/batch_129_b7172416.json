@@ -1,0 +1,278 @@
+{
+ "case": "batch_129_b7172416",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_6467cc0988bf",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Romualdo Luis TESTA",
+    "documento": "CI Pol. Bs.As. 2.321.513",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "3973/1975",
+    "fecha": "19/12/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "513",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'CI Pol. Bs.As. nro. 2.321.513'; 'nro.' es rótulo del número, no parte del tipo ni del número, se omite como se omite 'Nº'"
+  },
+  {
+   "id": "c_33f7d3e886c1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge BORN",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4114/1975",
+    "fecha": "26/12/1975",
+    "destino": "",
+    "decreto_referido": "1747/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia a los liberados con 'el Decreto nro. 1747 del 24 de junio de 1975'; único decreto de arresto referido"
+  },
+  {
+   "id": "c_15ce765ef54b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mario HIRSCH",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4114/1975",
+    "fecha": "26/12/1975",
+    "destino": "",
+    "decreto_referido": "1747/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia a los liberados con 'el Decreto nro. 1747 del 24 de junio de 1975'"
+  },
+  {
+   "id": "c_b3d64b2970cb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge BORN (h)",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4114/1975",
+    "fecha": "26/12/1975",
+    "destino": "",
+    "decreto_referido": "1747/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia a los liberados con 'el Decreto nro. 1747 del 24 de junio de 1975'"
+  },
+  {
+   "id": "c_e9b0fda07134",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel ROIG",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4114/1975",
+    "fecha": "26/12/1975",
+    "destino": "",
+    "decreto_referido": "1747/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia a los liberados con 'el Decreto nro. 1747 del 24 de junio de 1975'"
+  },
+  {
+   "id": "c_ed6bdd106adb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José María VIDELA ARANGUREN",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4114/1975",
+    "fecha": "26/12/1975",
+    "destino": "",
+    "decreto_referido": "1747/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia a los liberados con 'el Decreto nro. 1747 del 24 de junio de 1975'"
+  },
+  {
+   "id": "c_403a9d06d99f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alberto Gabriel PADILLA",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4114/1975",
+    "fecha": "26/12/1975",
+    "destino": "",
+    "decreto_referido": "1747/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando asocia a los liberados con 'el Decreto nro. 1747 del 24 de junio de 1975'"
+  },
+  {
+   "id": "c_ef1065d185fb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sara Etelvina NAVARRO de RENTA",
+    "documento": "DNI 6.364.169",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4140/1975",
+    "fecha": "30/12/1975",
+    "destino": "",
+    "decreto_referido": "3558/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas dispuestas por Decreto nº 3558 de fecha 25 de noviembre de 1975' para las personas liberadas"
+  },
+  {
+   "id": "c_da7e6a50f38f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Stella Maris DOMINGUEZ",
+    "documento": "DNI 11.490.829",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4140/1975",
+    "fecha": "30/12/1975",
+    "destino": "",
+    "decreto_referido": "3558/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando refiere las medidas al 'Decreto nº 3558 de fecha 25 de noviembre de 1975'"
+  },
+  {
+   "id": "c_43442bc92f2f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Francisco AMADO",
+    "documento": "",
+    "filiacion": "hijo de Juan y Yolanda Moreno",
+    "tipo": "liberacion",
+    "decreto": "4140/1975",
+    "fecha": "30/12/1975",
+    "destino": "",
+    "decreto_referido": "3558/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando refiere las medidas al 'Decreto nº 3558 de fecha 25 de noviembre de 1975'"
+  },
+  {
+   "id": "c_489911704960",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Daniel BENAVIDEZ",
+    "documento": "",
+    "filiacion": "hijo de Carlos Caín Guillermo y Alicia Ruth Loiza",
+    "tipo": "liberacion",
+    "decreto": "4140/1975",
+    "fecha": "30/12/1975",
+    "destino": "",
+    "decreto_referido": "3558/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando refiere las medidas al 'Decreto nº 3558 de fecha 25 de noviembre de 1975'"
+  },
+  {
+   "id": "c_109d78bef199",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Domingo Solis MARTINEZ",
+    "documento": "",
+    "filiacion": "hijo de Juan Andrés y Balvina Martínez",
+    "tipo": "liberacion",
+    "decreto": "4140/1975",
+    "fecha": "30/12/1975",
+    "destino": "",
+    "decreto_referido": "3558/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando refiere las medidas al 'Decreto nº 3558 de fecha 25 de noviembre de 1975'"
+  },
+  {
+   "id": "c_1ca2d1d9526f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos MARX RAMIS",
+    "documento": "CI 5.418.684",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "4140/1975",
+    "fecha": "30/12/1975",
+    "destino": "",
+    "decreto_referido": "3558/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando refiere las medidas al 'Decreto nº 3558 de fecha 25 de noviembre de 1975'"
+  },
+  {
+   "id": "c_ebdb876c802f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "María Rosa ACTIS de RAMIS",
+    "documento": "",
+    "filiacion": "hija de Alejandro Celestino y María Murcia",
+    "tipo": "liberacion",
+    "decreto": "4140/1975",
+    "fecha": "30/12/1975",
+    "destino": "",
+    "decreto_referido": "3558/1975",
+    "pagina": "515",
+    "nota": ""
+   },
+   "motivo": "el considerando refiere las medidas al 'Decreto nº 3558 de fecha 25 de noviembre de 1975'"
+  },
+  {
+   "id": "c_6785c84ebdc6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alejandro SKALATICH",
+    "documento": "MI 7.449.148",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3983/1975",
+    "fecha": "22/12/1975",
+    "destino": "",
+    "decreto_referido": "3740/1975",
+    "pagina": "514",
+    "nota": ""
+   },
+   "motivo": "el considerando dice que los liberados estaban 'comprendidas en el decreto 3740 del 5 de diciembre de 1975'"
+  },
+  {
+   "id": "c_bd9140a3f8de",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Rogelio BOCOUBER",
+    "documento": "MI 7.390.470",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3983/1975",
+    "fecha": "22/12/1975",
+    "destino": "",
+    "decreto_referido": "3740/1975",
+    "pagina": "514",
+    "nota": ""
+   },
+   "motivo": "el considerando dice que los liberados estaban 'comprendidas en el decreto 3740 del 5 de diciembre de 1975'"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "case": "batch_004_32c9e7b9",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_f4b34ee25988",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Felix CHOQUE PEÑAFIEL",
+    "documento": "CI 670.835",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "3473/1976",
+    "fecha": "29/12/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "14",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(boliviano - CI 670.835)': 'boliviano' es la nacionalidad, no califica al documento; se transcribe 'CI 670.835' y la nota queda vacía"
+  },
+  {
+   "id": "c_dcee695545b5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio ROMERO",
+    "documento": "MI 1.643.886",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2055/1976",
+    "fecha": "15/9/1976",
+    "destino": "",
+    "decreto_referido": "958/1976",
+    "pagina": "16",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'las medidas adoptadas por decreto 958 del 16 de junio de 1976, con respecto a una persona comprendida en el mismo', vinculando ese decreto a la única persona del Art. 1°; los del VISTO no se asocian a ella"
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "case": "batch_109_771712d2",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_9dbf2ffa0ef9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Rene MALDONADO GONZALEZ",
+    "documento": "CI chilena 6.347.916",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. República de Chile Nº 6.347.916'; mismo número en ambos, se aplica la forma abreviada 'CI chilena' de las reglas"
+  },
+  {
+   "id": "c_64b524144a6f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hernan Mauricio FERNANDEZ FLORES",
+    "documento": "Ppte. chileno 15.428",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pasaporte de la República de Chile Nº 15.428'; mismo número, se abrevia 'Ppte. chileno'"
+  },
+  {
+   "id": "c_f30ddadede1f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Adalberto VILLALTA SERRANO",
+    "documento": "Ppte. peruano 415.290",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pasaporte de la República del Perú Nº 415.290'; mismo número, se abrevia 'Ppte. peruano'"
+  },
+  {
+   "id": "c_2366235d5dbc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Francisco Alfonso MARTINEZ LARA",
+    "documento": "CI chilena 168.907",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. de la República de Chile Nº 168.907'; coincide con el ejemplo 'CI chilena 168.907' de las reglas"
+  },
+  {
+   "id": "c_b6d39087956b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Lucia LOURDES DE MARTINEZ IBARRA RODRIGUEZ",
+    "documento": "Ppte. chileno 30.250",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pasaporte de la República de Chile Nº 30.250'; mismo número, forma abreviada"
+  },
+  {
+   "id": "c_f5e984b4476f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Napoleon BAUTISTA GUERRERO",
+    "documento": "Ppte. peruano 425.631",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pasaporte de la República de Perú Nº 425.631'; mismo número, forma abreviada"
+  },
+  {
+   "id": "c_ad91badc26cc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Felix Armando GONZALEZ SAMANIEGO",
+    "documento": "Ppte. peruano 425464",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pasaporte de la República del Perú Nº 425464' sin puntos; se respeta el número tal como aparece, forma abreviada"
+  },
+  {
+   "id": "c_b0dc6cf1e078",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Luis CORNEJO BARRIOS",
+    "documento": "CI chilena 7.749.417",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. de la República de Chile Nº 7.749.417'; mismo número, forma abreviada"
+  },
+  {
+   "id": "c_0db23459805d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Benilda Eliana BARRIOS GODOY DE CORNEJO",
+    "documento": "Ppte. chileno 50.776",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pasaporte de la República de Chile Nº 50.776'; mismo número, forma abreviada"
+  },
+  {
+   "id": "c_19c4c4ee9761",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Isabel María de los Angeles CORNEJO BARRIOS",
+    "documento": "CI chilena 54.603",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "190/1976",
+    "fecha": "16/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. de la República de Chile Nº 54.603'; mismo número, forma abreviada"
+  },
+  {
+   "id": "c_0a46b2b97ebe",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Basilio SGROI",
+    "documento": "CI Mendoza 196.318",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "214/1976",
+    "fecha": "19/1/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "459",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. de Mendoza Nº 196.318'; mismo número, forma abreviada coherente con 'CI Tucumán 524.327' ya confirmado"
+  },
+  {
+   "id": "c_1e54bcd515d9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Gerardo Claudio Enrique GUILLEMOT",
+    "documento": "Ppte. francés 04928",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1405/1974",
+    "fecha": "9/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pasaporte francés nº 04928'; mismo número, forma abreviada 'Ppte.'"
+  },
+  {
+   "id": "c_58c35c276cad",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar de la GARZA Y BECERRA",
+    "documento": "Ppte. mexicano 118.160",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "241/1976",
+    "fecha": "21/1/1976",
+    "destino": "Estados Unidos de México",
+    "decreto_referido": "3136/1975",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Pas. de México Nº 118.160' y 'arrestada en virtud del Decreto Nº 3136 del 27 de octubre de 1975'; mismo número, forma abreviada coherente con 'Ppte. chileno/peruano'"
+  },
+  {
+   "id": "c_d31610445b96",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Leandro MANZO",
+    "documento": "LE 5.404.445",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1391/1974",
+    "fecha": "8/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "458",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'L.E. nro. 5.404.445'; mismo número, forma 'LE' como el resto de los confirmados del decreto"
+  },
+  {
+   "id": "c_ec96778ab604",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Alberto PRESNO GENONI",
+    "documento": "CI uruguaya 963.689",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1400/1974",
+    "fecha": "9/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "458",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. 963.689 de la R.O. del Uruguay'; mismo número, forma abreviada análoga a 'CI chilena'"
+  }
+ ]
+}

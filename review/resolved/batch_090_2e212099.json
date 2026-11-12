@@ -1,0 +1,113 @@
+{
+ "case": "batch_090_2e212099",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_5df0b40b3bae",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Oscar FUENTES",
+    "documento": "DNI 10.959.584",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "930/1977",
+    "fecha": "23/3/1981",
+    "destino": "",
+    "decreto_referido": "930/1977",
+    "pagina": "348",
+    "nota": "fe de erratas (Decreto 511/1981): donde dice Jorge Oscar FUENTES debe decir Jorge Oscar FUENTE"
+   },
+   "motivo": "el VISTO trae un único decreto (930/77) y el art. 1 lo asocia expresamente a la persona; corresponde decreto_referido 930/1977, como A"
+  },
+  {
+   "id": "b_1fd09632a41f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rosa Mery RIVEROS",
+    "documento": "DNI 92.064.373",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "566/1981",
+    "fecha": "24/3/1981",
+    "destino": "",
+    "decreto_referido": "3/1976",
+    "pagina": "349",
+    "nota": "art. 2: se deja sin efecto el arresto del Decreto 3/76 en el momento en que haga abandono del país"
+   },
+   "motivo": "el art. 2 dispone 'Dejar sin efecto el arresto dispuesto por Decreto número 3/76'; es una medida distinta de la expulsión ya confirmada"
+  },
+  {
+   "id": "c_d8e5aeb1d536",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Milcíades ZALDIVAR AVILA",
+    "documento": "DNI 92.115.056",
+    "filiacion": "",
+    "tipo": "expulsion",
+    "decreto": "451/1981",
+    "fecha": "15/6/1981",
+    "destino": "",
+    "decreto_referido": "1038/1979",
+    "pagina": "349",
+    "nota": "ratifica el Art. 1 del Decreto 1038/79 (expulsión una vez que deje de interesar a la justicia); cumple condena judicial"
+   },
+   "motivo": "el art. 1 dice 'Ratifícase lo dispuesto en el Artículo 1º del Decreto Nº 1038/79'; el decreto asociado a la expulsión es 1038/79, no el de arresto 3590/77"
+  },
+  {
+   "id": "b_e67a36f15132",
+   "veredicto": "descartar",
+   "motivo": "el art. 2 ('Déjase sin efecto lo resuelto mediante Decreto Nº 304/81') es consecuencia accesoria de la salida autorizada del art. 1, ya confirmada para la misma persona; no es un evento aparte"
+  },
+  {
+   "id": "c_4fe21bf30b35",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Eulogio ALARCON",
+    "documento": "CI 149.089",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1829/1976",
+    "fecha": "5/6/1981",
+    "destino": "",
+    "decreto_referido": "1829/1976",
+    "pagina": "346",
+    "nota": "fe de erratas (Decreto 383/1981): donde dice Luis Eulogio ALARCON debe decir Luis Eugenio ALARCON; el Decreto 1829/76 ordenó el arresto"
+   },
+   "motivo": "el art. 1 rectifica el nombre en el Decreto 1829/76, que 'ordena el arresto'; el decreto asociado es el que se corrige, como A"
+  },
+  {
+   "id": "c_63168dfa9e50",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Eulogio ALARCON",
+    "documento": "CI 149.089",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1102/1979",
+    "fecha": "5/6/1981",
+    "destino": "",
+    "decreto_referido": "1102/1979",
+    "pagina": "346",
+    "nota": "fe de erratas (Decreto 383/1981): donde dice Luis Eulogio ALARCON debe decir Luis Eugenio ALARCON; el Decreto 1102/79 dispuso el cese del arresto"
+   },
+   "motivo": "el art. 1 rectifica también el Decreto 1102/79 ('el cese'); el decreto asociado es el que se corrige, como A"
+  },
+  {
+   "id": "c_2e74a065b391",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Norma Stella VAZQUEZ",
+    "documento": "LC 6.650.342",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "506/1981",
+    "fecha": "23/3/1981",
+    "destino": "",
+    "decreto_referido": "1390/1980",
+    "pagina": "346",
+    "nota": "se deja sin efecto el Decreto 1390/80 que la autorizaba a salir del país (República Federal de Alemania); arrestada por Decreto 558/76; había sido consignada bajo el nombre de Mónica Cecilia SANCHEZ"
+   },
+   "motivo": "el art. 1 dice 'Déjase sin efecto el Decreto Nº 1390/80'; la medida recae sobre ese decreto, no sobre el de arresto 558/76"
+  }
+ ]
+}

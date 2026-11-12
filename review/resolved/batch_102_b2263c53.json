@@ -1,0 +1,50 @@
+{
+ "case": "batch_102_b2263c53",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_5d9ad2e7d831",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Gustavo Alberto GENTILE",
+    "documento": "DNI 7.988.162",
+    "filiacion": "hijo de José Miguel y Josefina Ada MAINARDI",
+    "tipo": "otro",
+    "decreto": "1077/1982",
+    "fecha": "2/6/1982",
+    "destino": "",
+    "decreto_referido": "3936/1975",
+    "pagina": "414",
+    "nota": "rectificación: donde dice Gustavo Adolfo GENTILE, hijo de José Miguel y Josefina Ada MAIGAIV, LE 7.988.168, debe decir Gustavo Alberto GENTILE, hijo de José Miguel y Josefina Ada MAINARDI, DNI 7.988.162"
+   },
+   "motivo": "el art. 1° dice que las medidas 'deben entenderse a nombre de Gustavo Alberto GENTILE (Hijo de José Miguel y Josefina Ada MAINARDI) —DNI. 7.988.162—'; es un decreto de rectificación propio (1077/1982), no una fe de erratas del Boletín, así que el evento lleva el número del decreto que lo contiene; el arresto fue por 3936/75, primero del VISTO"
+  },
+  {
+   "id": "a_b4e5acf73e5a",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_5d9ad2e7d831 (misma persona y misma rectificación); A usó el nombre y documento erróneos que el decreto corrige y asignó el evento a 3936/1975 en vez del decreto 1077/1982 que lo contiene"
+  },
+  {
+   "id": "b_9612f05e8874",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Belzor MIÑO",
+    "documento": "MI 7.907.634",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1036/1982",
+    "fecha": "26/5/1982",
+    "destino": "",
+    "decreto_referido": "10/1976",
+    "pagina": "418",
+    "nota": "rectificación: donde dice Jorge BELZOR MIÑO debe decir Jorge Belzor MIÑO (nombre de pila Jorge Belzor, apellido MIÑO)"
+   },
+   "motivo": "el art. 1° dice que las medidas 'deben entenderse a nombre de Jorge Belzor MIÑO (MI. 7.907.634)'; el considerando dice 'respectivamente', por lo que el arresto corresponde al Decreto 10/76; el evento pertenece al decreto 1036/1982 que lo dispone"
+  },
+  {
+   "id": "a_ca7bb2f16c5d",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_9612f05e8874 (misma persona, MI 7.907.634, misma rectificación); A usó la grafía corregida 'Jorge BELZOR MIÑO' y asignó el evento a 10/1976 en vez del decreto 1036/1982 que lo contiene"
+  }
+ ]
+}

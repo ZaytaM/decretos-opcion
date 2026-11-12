@@ -1,0 +1,60 @@
+{
+ "case": "batch_036_bde103b6",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_cbf8bf6b8806",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rubén Orlando PIAZZA AMENDOLARA",
+    "documento": "DNI 11.480.941",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "31/1978",
+    "fecha": "12/1/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "123",
+    "nota": "rectificación de nombre y filiación: los Decretos 1584/74 (arresto) y 2911/76 (cese) a nombre de Orlando Rubén PIAZZA (CI 7.766.121) y el Decreto 209/77 (arresto) a nombre de Rubén ORLANDO AMENDOLARA (hijo de Alcides y de Elisa Antonieta) deben entenderse a nombre de Rubén Orlando PIAZZA AMENDOLARA (DNI 11.480.941)"
+   },
+   "motivo": "el art. 1 dispone que los tres decretos 'deben entenderse a nombre de Rubén Orlando PIAZZA AMENDOLARA (DNI. 11.480.941)'; una sola persona, un solo evento; con tres decretos referidos el campo queda vacío y se detallan en nota"
+  },
+  {
+   "id": "b_18fed2fc2313",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_cbf8bf6b8806: el texto dice que 'los nombrados son una misma y única persona'; PIAZZA (CI 7.766.121) es alias de PIAZZA AMENDOLARA, ya recogido en la nota"
+  },
+  {
+   "id": "b_8e907085b586",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_cbf8bf6b8806: 'Rubén ORLANDO AMENDOLARA (hijo de Alcides y de Elisa Antonieta)' es la misma y única persona que PIAZZA AMENDOLARA, ya recogido en la nota"
+  },
+  {
+   "id": "c_1cbf19fd4d1d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Adriana Luisa KREIMER",
+    "documento": "LC 6.434.377",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "823/1978",
+    "fecha": "13/4/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "123",
+    "nota": "rectificación de nombre y clase de documento: los Decretos 32/75 (arresto de Adriana Alicia BRIMER, DNI 6.434.377), 941/76 (arresto de Adriana Luisa KERIMER, LC 6.434.377) y 3006/77 (cese de este último arresto) deben entenderse a nombre de Adriana Luisa KREIMER (LC 6.434.377)"
+   },
+   "motivo": "el art. 1 dispone que los tres decretos 'deben entenderse a nombre de Adriana Luisa KREIMER (L.C. 6.434.377)'; vale la versión de A con el nombre correcto; B puso el alias BRIMER; con tres decretos referidos el campo queda vacío"
+  },
+  {
+   "id": "b_24f6dc6134cd",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_1cbf19fd4d1d: misma persona (Adriana Luisa KREIMER, LC 6.434.377) y mismo acto de rectificación"
+  },
+  {
+   "id": "b_751151693efb",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_1cbf19fd4d1d: el texto dice que 'las mencionadas son una misma y única persona'; KERIMER es alias de KREIMER, ya recogido en la nota"
+  }
+ ]
+}

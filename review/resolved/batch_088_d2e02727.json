@@ -1,0 +1,74 @@
+{
+ "case": "batch_088_d2e02727",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_6467524a9e5c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rafael Alberto KIERNAN",
+    "documento": "CI 8.383.664",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "186/1981",
+    "fecha": "4/2/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "339",
+    "nota": "fe de erratas: donde dice Rafael Alberto KIERNAN (C.I. 8.383.664) debe decir Rafael Alberto MORENO (M.I. 8.383.664); rectifica los Decretos 998/76, 1863/79 y 1369/80"
+   },
+   "motivo": "el texto dice 'KIERNAN (C.I. 8.383.664)' (se escribe 'CI' por regla) y rectifica tres decretos, no uno, por lo que decreto_referido queda vacío; nota en formato fe de erratas"
+  },
+  {
+   "id": "c_3d88cc299920",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto Jorge SEMINARA",
+    "documento": "DNI 11.871.085",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "189/1981",
+    "fecha": "4/2/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "340",
+    "nota": "fe de erratas: donde dice Roberto Jorge SEMINARA (DNI 11.871.085) debe decir Eduardo Jorge SEMINARA (DNI 11.871.085); rectifica los Decretos 1769/76, 530/77 y 1442/80"
+   },
+   "motivo": "el texto dice 'SEMINARA (DNI. 11.871.085)' (formato 'DNI' sin punto) y rectifica tres decretos, no uno, por lo que decreto_referido queda vacío"
+  },
+  {
+   "id": "c_02eb3bb82d96",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sergio Rubén PRAT",
+    "documento": "DNI 11.626.040",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "127/1981",
+    "fecha": "21/1/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "336",
+    "nota": "fe de erratas: donde dice Sergio Rubén PRAT (DNI 11.626.040) debe decir Sergio Rubén PRA (L.E. 8.450.596); rectifica los Decretos 1112/75, 624/79, 3252/79 y 2317/80"
+   },
+   "motivo": "el texto dice 'PRAT (DNI. 11.626.040)' y rectifica cuatro decretos, no uno, por lo que decreto_referido queda vacío"
+  },
+  {
+   "id": "c_a077a5151549",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roque Israel SALOMON FUNES",
+    "documento": "DNI 14.370.418",
+    "filiacion": "hijo de Juan Segundo y Mercedes MARTINEZ",
+    "tipo": "otro",
+    "decreto": "166/1981",
+    "fecha": "5/5/1981",
+    "destino": "",
+    "decreto_referido": "833/1975",
+    "pagina": "337",
+    "nota": "fe de erratas: donde dice Roque Israel SALOMON FUNES (hijo de Juan Segundo y Mercedes MARTINEZ) debe decir Roque Israel Salomón FUNES (D.N.I. 14.370.418); rectifica el Decreto 833/75"
+   },
+   "motivo": "el artículo 1° identifica al causante con 'D.N.I. 14.370.418', único documento del texto, y el único decreto rectificado es el 833/75"
+  }
+ ]
+}

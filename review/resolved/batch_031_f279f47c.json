@@ -1,0 +1,57 @@
+{
+ "case": "batch_031_f279f47c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_1b8cebbf6615",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alberto TRICOTI",
+    "documento": "MI 4.117.909",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "708/1977",
+    "fecha": "16/3/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "102",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Ml 4.117.909'; 'Ml' es OCR de MI (misma regla que Cl→CI), el documento se normaliza a MI"
+  },
+  {
+   "id": "c_3f323042e05a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Edgardo Daniel CARRACEDO",
+    "documento": "MI 5.512.011",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "708/1977",
+    "fecha": "16/3/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "102",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Ml 5.512.011'; 'Ml' es OCR de MI, se normaliza a MI"
+  },
+  {
+   "id": "c_ca7375f8f7c9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos CONTI",
+    "documento": "MI 5.548.800",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "707/1977",
+    "fecha": "16/3/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "102",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Ml 5.548.800'; 'Ml' es OCR de MI, se normaliza a MI"
+  }
+ ]
+}

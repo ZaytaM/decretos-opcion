@@ -1,0 +1,106 @@
+{
+ "case": "batch_081_07bc1eba",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_d37fb9791ebe",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Teresita María Celina GOMEZ",
+    "documento": "LC 6.411.253",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2103/1980",
+    "fecha": "30/9/1980",
+    "destino": "",
+    "decreto_referido": "1389/1980",
+    "pagina": "303",
+    "nota": "modifica el destino de la salida autorizada por Decreto 1389/1980: donde dice Estados Unidos de América debe entenderse República de Francia"
+   },
+   "motivo": "el art. 1 sólo 'deja establecido' un cambio de destino de una salida ya autorizada por el Decreto 1389/80; no es una nueva autorización, corresponde 'otro'"
+  },
+  {
+   "id": "b_34f82ae920e4",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_d37fb9791ebe; la salida fue autorizada por el Decreto 1389/80, este decreto sólo rectifica el destino"
+  },
+  {
+   "id": "a_08a04c0d54b6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rubén Alcides VIOLA",
+    "documento": "MI 7.635.671",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "209/1977",
+    "fecha": "29/10/1980",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "303",
+    "nota": "fe de erratas (Decreto 2243/1980): donde dice Manuel Alcides VIOLA debe decir Rubén Alcides VIOLA"
+   },
+   "motivo": "el art. 1 dice que el Decreto 209/77 'debe entenderse a nombre de Rubén Alcides VIOLA (M.I. 7.635.671)'; en fe de erratas el decreto es el corregido (209/1977) y se asienta el nombre correcto"
+  },
+  {
+   "id": "b_7f2687692b05",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_08a04c0d54b6; mismo hecho, pero en fe de erratas el campo decreto debe ser el corregido (209/1977), no 2243/1980"
+  },
+  {
+   "id": "c_1974395538b5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Benito Alberto MOYA",
+    "documento": "DNI 14.170.749",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "2241/1980",
+    "fecha": "29/10/1980",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "303",
+    "nota": "también CI 442.512 Pol. Tucumán"
+   },
+   "motivo": "el texto dice 'MOYA (CI 442.512 Pol. Tucumán) —DNI 14.170.749—'; como en PORCARO y FERNANDEZ del mismo decreto, prevalece el documento nacional entre guiones y la cédula provincial va en nota"
+  },
+  {
+   "id": "b_b98e73bde481",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_8bfd25770a46 y a_85ac7a89968f; en fe de erratas el campo decreto debe ser el corregido (12/76 y 1292/80), no 2245/1980"
+  },
+  {
+   "id": "a_8bfd25770a46",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sergio Argentino MARTIN",
+    "documento": "DNI 11.199.499",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "12/1976",
+    "fecha": "29/10/1980",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "302",
+    "nota": "fe de erratas (Decreto 2245/1980): donde dice Sergio Argentino MARTIN (DNI. 11.199.494) debe decir Sergio Argentino MARTIN (DNI. 11.199.499)"
+   },
+   "motivo": "el art. 1 rectifica el decreto 12/76: 'debe decir Sergio Argentino MARTIN (DNI. 11.199.499)'; se asienta el documento correcto y el original queda en nota"
+  },
+  {
+   "id": "a_85ac7a89968f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sergio Argentino MARTIN",
+    "documento": "DNI 11.199.499",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1292/1980",
+    "fecha": "29/10/1980",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "302",
+    "nota": "fe de erratas (Decreto 2245/1980): donde dice Sergio Argentino MARTIN (DNI. 11.199.494) debe decir Sergio Argentino MARTIN (DNI. 11.199.499)"
+   },
+   "motivo": "el art. 1 rectifica también el decreto 1292/80 con el mismo texto; un evento por cada decreto corregido, con el documento correcto"
+  }
+ ]
+}

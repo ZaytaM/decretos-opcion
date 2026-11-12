@@ -1,0 +1,84 @@
+{
+ "case": "batch_056_e2ab64ae",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_a3314692ea37",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Osvaldo María PAVIOLO",
+    "documento": "MI 6.384.875",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "3048/1978",
+    "fecha": "21/12/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "196",
+    "nota": "rectificación de nombre: el arresto (Decreto 1810/1974) y la denegatoria de salida del país (Decreto 2720/1978) dispuestos a nombre de Orlando María PAVIOLO deben entenderse a nombre de Osvaldo María PAVIOLO"
+   },
+   "motivo": "el texto asocia a la persona con dos decretos (1810/74 y 2720/78) sin que uno solo sea 'el' decreto referido; se deja vacío y ambos quedan en la nota"
+  },
+  {
+   "id": "c_1cfbdc621ba7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eduardo Oscar MARCHETTI",
+    "documento": "LE 10.625.785",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "3116/1977",
+    "fecha": "",
+    "destino": "",
+    "decreto_referido": "534/1978",
+    "pagina": "199",
+    "nota": "fe de erratas: donde dice Decreto S Nº 3118/1977 debe decir Decreto S Nº 3116/1977"
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 534/978' respecto de la persona liberada; A lo consignó correctamente"
+  },
+  {
+   "id": "a_967fe4a1c34b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Emiliano COSTA",
+    "documento": "MI 7.599.875 - CI 6.215.892",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2806/1979",
+    "fecha": "5/11/1979",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "204",
+    "nota": "rectificación de apellido: los Decretos 1017/75 (arresto a nombre de Miguel Emiliano ACOSTA), 3340/76 (se deja sin efecto la detención), 1097/77 (arresto) y 1278/79 (denegatoria de salida) a nombre de Miguel Emiliano COSTA BALLESTEROS deben entenderse a nombre de Miguel Emiliano COSTA"
+   },
+   "motivo": "art. 1: 'deben entenderse a nombre de Miguel Emiliano COSTA (M.I. 7.599.875 - C.I. 6.215.892)'; cuatro decretos referidos, se deja vacío por no ser uno solo"
+  },
+  {
+   "id": "b_0af667d40e5f",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_967fe4a1c34b: el texto establece que ACOSTA y COSTA BALLESTEROS 'corresponden a una misma y única persona', Miguel Emiliano COSTA; el evento es la misma rectificación"
+  },
+  {
+   "id": "b_492154aee8a4",
+   "veredicto": "descartar",
+   "motivo": "duplicado de c_5b9ed7096b4a (misma persona, misma exclusión del Decreto 984/76 del art. 2)"
+  },
+  {
+   "id": "c_5b9ed7096b4a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Emiliano COSTA BALLESTEROS",
+    "documento": "MI 7.599.875",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2806/1979",
+    "fecha": "5/11/1979",
+    "destino": "",
+    "decreto_referido": "984/1976",
+    "pagina": "204",
+    "nota": "exclusión del Decreto 984/76 (su detención física se produjo en virtud del Decreto 1017/75, resultando innecesaria la ratificación)"
+   },
+   "motivo": "art. 2: 'Exclúyase del Decreto Nº 984/76 a Miguel Emiliano COSTA BALLESTEROS (M.I. 7.599.875)'; la versión de B (rectificación) ya queda cubierta por a_967fe4a1c34b"
+  }
+ ]
+}

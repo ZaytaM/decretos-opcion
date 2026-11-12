@@ -1,0 +1,125 @@
+{
+ "case": "batch_039_5cf043a9",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_f5c84c43e54f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Andrés SOMBORY",
+    "documento": "DNI 11.054.538",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "312/1978",
+    "fecha": "14/2/1978",
+    "destino": "",
+    "decreto_referido": "2731/1977",
+    "pagina": "132",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 2731/977' y los artículos remiten a esas personas; A tiene razón"
+  },
+  {
+   "id": "c_8011aa11d879",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ana Rosa LLEWELLYN de SOMBORY",
+    "documento": "DNI 5.890.809",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "312/1978",
+    "fecha": "14/2/1978",
+    "destino": "",
+    "decreto_referido": "2731/1977",
+    "pagina": "132",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 2731/977'; único decreto de arresto asociado"
+  },
+  {
+   "id": "c_96add008ee15",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Eduardo ECHEVESTE",
+    "documento": "LE 7.353.908",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "313/1978",
+    "fecha": "14/2/1978",
+    "destino": "",
+    "decreto_referido": "3902/1977",
+    "pagina": "132",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 3902/977'; único decreto de arresto asociado"
+  },
+  {
+   "id": "c_bf0e3d3e1ae3",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roque Hipólito PESCARA",
+    "documento": "LE 7.366.793",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "313/1978",
+    "fecha": "14/2/1978",
+    "destino": "",
+    "decreto_referido": "3902/1977",
+    "pagina": "132",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 3902/977'; único decreto de arresto asociado"
+  },
+  {
+   "id": "c_ab4d1f5460f9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Angel Rodolfo ALONSO",
+    "documento": "LE 7.366.789",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "313/1978",
+    "fecha": "14/2/1978",
+    "destino": "",
+    "decreto_referido": "3902/1977",
+    "pagina": "132",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 3902/977'; único decreto de arresto asociado"
+  },
+  {
+   "id": "c_476c4a298053",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alfredo TORANZO",
+    "documento": "LE 7.365.975",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "313/1978",
+    "fecha": "14/2/1978",
+    "destino": "",
+    "decreto_referido": "3902/1977",
+    "pagina": "132",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 3902/977'; único decreto de arresto asociado"
+  },
+  {
+   "id": "c_c4e4517d6bc2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Enrique Eugenio QUERZOLA",
+    "documento": "MI 6.025.682",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "268/1978",
+    "fecha": "6/2/1978",
+    "destino": "",
+    "decreto_referido": "27/1978",
+    "pagina": "131",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 27/978, con respecto a la persona comprendida en el mismo'; A tiene razón"
+  }
+ ]
+}

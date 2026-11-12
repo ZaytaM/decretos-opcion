@@ -1,0 +1,62 @@
+{
+ "case": "batch_082_31ac32ed",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "a_31c72f9daa11",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto Rubén SANCHEZ CASAÑA",
+    "documento": "MI 6.782.746",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "2189/1980",
+    "fecha": "16/10/1980",
+    "destino": "",
+    "decreto_referido": "14/1976",
+    "pagina": "307",
+    "nota": "arresto en su domicilio, Carlos Pellegrini 485 9° piso, deptos. B y C, Ciudad de Buenos Aires (art. 2 inc. d del Acta Institucional); control Policía Federal Argentina"
+   },
+   "motivo": "el art. 1 dice 'Modifícase la forma de arresto' y el art. 2 dispone cumplimiento en el domicilio bajo control policial: eso es libertad_vigilada según la tabla, no 'otro'; 'M.I.' se normaliza a 'MI'"
+  },
+  {
+   "id": "b_b96b36a33463",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_31c72f9daa11 (misma persona y misma medida; sólo difiere el tipo, que corresponde libertad_vigilada)"
+  },
+  {
+   "id": "c_46aeb598e8b0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Justiniano Eduardo MEDINA",
+    "documento": "LE 8.051.725",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "140/1980",
+    "fecha": "18/1/1980",
+    "destino": "Estados Unidos de América",
+    "decreto_referido": "",
+    "pagina": "305",
+    "nota": "también consignado Prio. 668.843"
+   },
+   "motivo": "el texto dice 'Justiniano Eduardo MEDINA (Prio. 668.843) —L.E. 8.051.725—'; el prontuario no es documento de identidad, se toma la LE y se deja el prontuario en nota"
+  },
+  {
+   "id": "c_e0c43336d447",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Antonio PETITI",
+    "documento": "DNI 12.745.061",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "461/1980",
+    "fecha": "28/2/1980",
+    "destino": "República de Italia",
+    "decreto_referido": "",
+    "pagina": "305",
+    "nota": "también consignado Doc. Prov. 22.319"
+   },
+   "motivo": "el texto dice 'José Antonio PETITI (Doc. Prov. 22.319), —DNI 12.745.061—'; se toma el DNI como documento principal y el provincial queda en nota, igual criterio que MEDINA"
+  }
+ ]
+}

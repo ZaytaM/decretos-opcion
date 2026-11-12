@@ -1,0 +1,23 @@
+{
+ "case": "batch_093_ac8dd0d1",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_38af92243efc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Toribio GIMENEZ",
+    "documento": "Prio. 33347 - DNI 11.227.120",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2639/1980",
+    "fecha": "22/12/1980",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "366",
+    "nota": "arresto que se cumplía bajo libertad vigilada"
+   },
+   "motivo": "el texto dice 'Juan Toribio GIMENEZ (PRIO. 33347-DNI 11.227.120)': ambos identificadores forman el documento tal como aparece, con la grafía 'Prio.' ya usada para ACEVEDO; A relegó el prontuario a la nota"
+  }
+ ]
+}

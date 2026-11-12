@@ -1,0 +1,101 @@
+{
+ "case": "batch_055_dc7fb40e",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_110bc114ad50",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto CORVALAN",
+    "documento": "Prío. A.P. 48831",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "2991/1978",
+    "fecha": "19/12/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "194",
+    "nota": "el texto dice 'Prío. A.P. 48831' (abreviatura no estándar, posiblemente 'Prontuario'); se transcribe tal cual"
+   },
+   "motivo": "el texto dice literalmente 'Prío. A.P. 48831'; no dice 'Ppte.', y la regla es transcribir el documento tal como aparece y aclarar la errata en nota"
+  },
+  {
+   "id": "a_dbc1d60e0172",
+   "veredicto": "descartar",
+   "motivo": "duplicado del evento de expulsión ya confirmado para la misma persona; el art. 2 ('dejar sin efecto el arresto ... en el momento que la misma haga abandono del país') es accesorio a la expulsión y no constituye un evento distinto"
+  },
+  {
+   "id": "c_3e4684474e45",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Arnaldo Patricio MIR",
+    "documento": "LE 6.733.283",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "3071/1978",
+    "fecha": "22/12/1978",
+    "destino": "",
+    "decreto_referido": "504/1978",
+    "pagina": "192",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 504/78, con respecto a una persona comprendida en el mismo' y el art. 1 nombra a una sola persona"
+  },
+  {
+   "id": "a_c4f737a7890d",
+   "veredicto": "descartar",
+   "motivo": "duplicado del evento de expulsión ya confirmado para la misma persona; el art. 2 ('dejar sin efecto el arresto ... en el momento que la misma haga abandono del país') es accesorio a la expulsión y no constituye un evento distinto"
+  },
+  {
+   "id": "c_7f07bb07b426",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Alberto WALDOKE",
+    "documento": "LE 5.618.757",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1641/1978",
+    "fecha": "27/7/1978",
+    "destino": "",
+    "decreto_referido": "1220/1978",
+    "pagina": "193",
+    "nota": ""
+   },
+   "motivo": "el considerando dice 'medidas adoptadas por Decreto número 1220/978, con respecto a algunas personas comprendidas en los mismos'; es el único decreto de arresto citado y abarca a los tres nombrados"
+  },
+  {
+   "id": "c_3181bde3b2f9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo JANNETTI",
+    "documento": "LE 4.636.447",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1641/1978",
+    "fecha": "27/7/1978",
+    "destino": "",
+    "decreto_referido": "1220/1978",
+    "pagina": "193",
+    "nota": ""
+   },
+   "motivo": "el considerando cita como único decreto de arresto el 'Decreto número 1220/978' para las personas del art. 1"
+  },
+  {
+   "id": "c_5af68d439c4b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mario PAISSAN",
+    "documento": "LE 4.347.780",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1641/1978",
+    "fecha": "27/7/1978",
+    "destino": "",
+    "decreto_referido": "1220/1978",
+    "pagina": "193",
+    "nota": ""
+   },
+   "motivo": "el considerando cita como único decreto de arresto el 'Decreto número 1220/978' para las personas del art. 1"
+  }
+ ]
+}

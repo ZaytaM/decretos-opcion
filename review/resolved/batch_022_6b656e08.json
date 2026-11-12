@@ -1,0 +1,23 @@
+{
+ "case": "batch_022_6b656e08",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_a852b075a0f9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan José GUIDA",
+    "documento": "MI 7.697.520",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "3403/1977",
+    "fecha": "10/11/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "74",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(M.I. NRO 7.697.520)'; el número coincide en ambas lecturas y la convención de formato es 'MI 7.697.520' como puso A"
+  }
+ ]
+}

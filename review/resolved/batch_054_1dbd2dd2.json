@@ -1,0 +1,11 @@
+{
+ "case": "batch_054_1dbd2dd2",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_4e1f2cf72c32",
+   "veredicto": "dudoso",
+   "motivo": "el texto recibido sólo trae el VISTO ('detenido a disposición del PEN, Carlos HAIRABEDIAN') y un considerando truncado sobre la facultad de 'disponer la forma' del arresto (Ley 21.650 art. 2°); la parte dispositiva no figura, así que no se puede determinar el tipo de medida ni confirmar que el artículo lo nombre"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "case": "batch_106_de9345d5",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_fb3e4bce51c2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Gustavo WESTERKAMP",
+    "documento": "CI 5.702.613",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "775/1983",
+    "fecha": "6/4/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "441",
+    "nota": "Prio. DE. 221.908"
+   },
+   "motivo": "el texto dice 'Gustavo WESTERKAMP (Prio. DE. 221.908) —CI. 5.702.613—'; el prontuario no es documento de identidad, va en nota; el decreto es la liberación del arresto"
+  },
+  {
+   "id": "c_57b9e684fee0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ernesto Carlos PUCCIO",
+    "documento": "DNI 8.275.248",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "775/1983",
+    "fecha": "6/4/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "441",
+    "nota": "Prio. DE. 221.203"
+   },
+   "motivo": "el texto dice 'Ernesto Carlos PUCCIO (Prio. DE. 221.203) —DNI. 8.275.248—'; el prontuario no es documento de identidad, va en nota"
+  },
+  {
+   "id": "c_3953a5bde89a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar Antonio PORCARO",
+    "documento": "DNI 10.159.416",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "612/1983",
+    "fecha": "17/3/1983",
+    "destino": "",
+    "decreto_referido": "2492/1975",
+    "pagina": "442",
+    "nota": "Prio. A.P. 308.336; amplía el ámbito geográfico (antes Ciudad de Bolívar) a la Ciudad de Olavarría, Provincia de Buenos Aires; controla la Policía de la Provincia de Buenos Aires"
+   },
+   "motivo": "el texto dice 'Oscar Antonio PORCARO (Prio. A.P. 308.336) —DNI. 10.159.416—' y 'arrestado ... por Decreto N° 2492/75'; el prontuario va en nota, no en documento"
+  },
+  {
+   "id": "c_b794756f22ac",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Nicolás SANTELLA",
+    "documento": "CI 1.778.813",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "588/1983",
+    "fecha": "15/3/1983",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "442",
+    "nota": "Prio. CF. 1409"
+   },
+   "motivo": "el texto dice 'Hugo Nicolás SANTELLA (Prio. CF. 1409) —CI. 1.778.813—'; el prontuario va en nota, no en documento"
+  },
+  {
+   "id": "a_bd6cb73a914a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto ORELLANA",
+    "documento": "MI 3.214.191",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "192/1975",
+    "fecha": "27/6/1983",
+    "destino": "",
+    "decreto_referido": "2803/1979",
+    "pagina": "440",
+    "nota": "fe de erratas (Decreto 1592/1983): donde dice Carlos Alberto ORELLANA (MI. 3.214.191) debe decir Carlos Salvador ORELLANA (LE. 8.291.204); rectifica los Decretos 192/75 (arresto) y 2803/79 (opción diferida)"
+   },
+   "motivo": "el texto dice 'las medidas adoptadas mediante Decretos N°s. 192/75 y 2803/79 en la persona de Carlos Alberto ORELLANA (MI. 3.214.191) deben entenderse a nombre de Carlos Salvador ORELLANA (LE. 8.291.204)'; es fe de erratas, por regla el campo decreto lleva el decreto corregido"
+  },
+  {
+   "id": "b_d2f88953a164",
+   "veredicto": "descartar",
+   "motivo": "duplicado de a_bd6cb73a914a (misma persona y misma rectificación; se confirma la versión de A con decreto = decreto corregido, según la regla para fe de erratas)"
+  }
+ ]
+}

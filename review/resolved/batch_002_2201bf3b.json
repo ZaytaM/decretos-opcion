@@ -1,0 +1,23 @@
+{
+ "case": "batch_002_2201bf3b",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_beeeeccbae5e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Norberto José CIAVARINO",
+    "documento": "D.N.I. 6.505.407",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "984/1976",
+    "fecha": "21/6/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "6",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'D.N.I. nro. 6.505.407'; la partícula 'nro.' no forma parte del tipo ni del número y se omite, igual que en los ya confirmados 'MI 6.114.439' (texto 'MI nª') y 'MI 8.147.216' (texto 'MI nº')"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "case": "batch_025_aad4981c",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_eff74ea3a11a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Francisco CAMACHO LOPEZ",
+    "documento": "DNI 11.516.388",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "19/1977",
+    "fecha": "7/1/1977",
+    "destino": "",
+    "decreto_referido": "657/1976",
+    "pagina": "82",
+    "nota": ""
+   },
+   "motivo": "el considerando menciona un único decreto de arresto ('medidas adoptadas por Decreto Nº 657 del 2 de junio de 1976'), por lo que corresponde 657/1976 como decreto referido; B lo omitió"
+  },
+  {
+   "id": "c_7456f1593ca7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Luis GIOJA",
+    "documento": "MI 7.807.820",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "19/1977",
+    "fecha": "7/1/1977",
+    "destino": "",
+    "decreto_referido": "657/1976",
+    "pagina": "82",
+    "nota": ""
+   },
+   "motivo": "el considerando menciona un único decreto de arresto ('Decreto Nº 657 del 2 de junio de 1976'), por lo que corresponde 657/1976 como decreto referido; B lo omitió"
+  },
+  {
+   "id": "c_956e595912b2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "René Tomás GONZALEZ",
+    "documento": "MI 7.960.104",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2493/1977",
+    "fecha": "23/8/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "82",
+    "nota": ""
+   },
+   "motivo": "el considerando lista doce decretos (202/976 … 1585/977) sin indicar cuál corresponde a cada persona; la asignación de 1585/1977 por A es arbitraria, va vacío"
+  },
+  {
+   "id": "c_3a3db78f5e36",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "León Rudencindo TOLEDO",
+    "documento": "MI 2.643.824",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "2493/1977",
+    "fecha": "23/8/1977",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "82",
+    "nota": ""
+   },
+   "motivo": "el considerando lista doce decretos sin indicar cuál corresponde a cada persona; la asignación de 1585/1977 por A es arbitraria, va vacío"
+  }
+ ]
+}

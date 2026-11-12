@@ -1,0 +1,50 @@
+{
+ "case": "batch_095_a5bb29a9",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "b_17e6804421f2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Alberto TAIANA",
+    "documento": "CI 563.807",
+    "filiacion": "",
+    "tipo": "libertad_vigilada",
+    "decreto": "1291/1981",
+    "fecha": "10/9/1981",
+    "destino": "",
+    "decreto_referido": "1205/1976",
+    "pagina": "374",
+    "nota": "arresto domiciliario: cumple la internación en su propio domicilio, calle Eduardo Schiaffino 2197, 2° Piso, Capital Federal; visitas según Decreto 929/80; controla la Policía Federal Argentina"
+   },
+   "motivo": "el art. 1 dice 'Modifícase la forma de cumplimiento de la internación… quien la cumplirá en su propio domicilio'; según las reglas, el cambio de forma de cumplimiento del arresto es libertad_vigilada, no otro"
+  },
+  {
+   "id": "a_73fa68dca945",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_17e6804421f2 (misma persona y mismo hecho); el tipo correcto es libertad_vigilada por 'Modifícase la forma de cumplimiento'"
+  },
+  {
+   "id": "b_9144fcbbd960",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jaime LOCKMAN",
+    "documento": "LE 2.794.441",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1416/1981",
+    "fecha": "21/9/1981",
+    "destino": "",
+    "decreto_referido": "941/1976",
+    "pagina": "375",
+    "nota": "art. 1: se autoriza el reingreso a la República Argentina por el término de 20 días (la salida había sido autorizada por Decreto 2846/79 con destino a Israel)"
+   },
+   "motivo": "el art. 1 dice 'Autorízase el reingreso a la República Argentina por el término de 20 días'; es una medida distinta de la libertad vigilada del art. 2 y no es una salida del país, por lo que corresponde 'otro'"
+  },
+  {
+   "id": "a_98cf6f0dca1f",
+   "veredicto": "descartar",
+   "motivo": "duplicado de b_9144fcbbd960 (mismo hecho del art. 1); 'salida_autorizada' es incorrecto porque el texto autoriza un reingreso, no una salida"
+  }
+ ]
+}

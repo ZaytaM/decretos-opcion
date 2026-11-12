@@ -1,0 +1,40 @@
+{
+ "case": "batch_094_4f8ab096",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_6b30b9d7b190",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Francisco VELAZQUE",
+    "documento": "LE 6.647.186",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1054/1981",
+    "fecha": "21/8/1981",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "370",
+    "nota": "rectificación de apellido: donde dice VELAZQUE debe decir VELAZQUEZ, respecto de las medidas de los Decretos 863/75, 3257/79, 604/80, 304/81 y 1008/81"
+   },
+   "motivo": "el artículo 1 rectifica cinco decretos (863/75, 3257/79, 604/80, 304/81 y 1008/81) sin que uno solo corresponda a la persona, por lo que decreto_referido queda vacío; el documento se normaliza a 'LE 6.647.186' según la regla de formato"
+  },
+  {
+   "id": "c_0c567e752faa",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Guillermo Belisario HUEYO",
+    "documento": "DNI 4.250.807",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1215/1981",
+    "fecha": "4/9/1981",
+    "destino": "",
+    "decreto_referido": "734/1976",
+    "pagina": "373",
+    "nota": ""
+   },
+   "motivo": "el considerando dice que la medida fue adoptada 'por Decreto N° 734/76' respecto de 'una persona comprendida en los mismos', que es HUEYO; los decretos del VISTO son los del estado de sitio; documento normalizado a 'DNI 4.250.807' y nota vacía por ser liberacion"
+  }
+ ]
+}

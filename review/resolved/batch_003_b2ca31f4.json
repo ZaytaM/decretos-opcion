@@ -1,0 +1,57 @@
+{
+ "case": "batch_003_b2ca31f4",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_91450e677fe0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan José Saúl BERNET",
+    "documento": "CI 604.216",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1711/1976",
+    "fecha": "13/8/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "12",
+    "nota": ""
+   },
+   "motivo": "el considerando lista catorce decretos de arresto 'con respecto a algunas personas comprendidas en los mismos' sin indicar cuál corresponde a cada persona; decreto_referido ambiguo, vacío como B"
+  },
+  {
+   "id": "c_3f54264499c8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Raúl Horacio QUIBEL",
+    "documento": "MI 4.527.516",
+    "filiacion": "",
+    "tipo": "liberacion",
+    "decreto": "1711/1976",
+    "fecha": "13/8/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "12",
+    "nota": ""
+   },
+   "motivo": "el texto no asocia a QUIBEL con ningún decreto en particular entre los catorce citados; decreto_referido ambiguo, vacío como B"
+  },
+  {
+   "id": "c_02abdb566f63",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Victor Oscar ALEGRE",
+    "documento": "",
+    "filiacion": "hijo de Francisco y Ramona Fernandez",
+    "tipo": "liberacion",
+    "decreto": "1711/1976",
+    "fecha": "13/8/1976",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "12",
+    "nota": ""
+   },
+   "motivo": "el texto no asocia a ALEGRE con ningún decreto en particular entre los catorce citados; el 1138/76 de A no surge del texto, vacío como B"
+  }
+ ]
+}

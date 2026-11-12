@@ -1,0 +1,40 @@
+{
+ "case": "batch_033_f79bf658",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_c9f02a297f8b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Casiano BACHE",
+    "documento": "MI 8.203.031",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2559/1976",
+    "fecha": "21/2/1977",
+    "destino": "",
+    "decreto_referido": "2559/1976",
+    "pagina": "109",
+    "nota": "fe de erratas: donde dice Caciana VACHI debe decir Casiano BACHE (decreto de rectificación 474/1977)"
+   },
+   "motivo": "el texto asocia sin ambigüedad a Bache con el Decreto 2559/76 ('respectivamente'); corresponde completar decreto_referido como hizo A"
+  },
+  {
+   "id": "c_ac70ba12d7ba",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rufino LIZARRAGA",
+    "documento": "MI 10.742.207",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "1621/1974",
+    "fecha": "21/2/1977",
+    "destino": "",
+    "decreto_referido": "1621/1974",
+    "pagina": "109",
+    "nota": "fe de erratas: donde dice Rufino LIZARRAGUCDE debe decir Rufino LIZARRAGA (decreto de rectificación 474/1977)"
+   },
+   "motivo": "el texto asocia sin ambigüedad a Lizarraga con el Decreto 1621/74 ('respectivamente'); corresponde completar decreto_referido como hizo A"
+  }
+ ]
+}

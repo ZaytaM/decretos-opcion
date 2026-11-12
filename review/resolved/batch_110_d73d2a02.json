@@ -1,0 +1,1825 @@
+{
+ "case": "batch_110_d73d2a02",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_dbf4d0cbbecc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ruben Francisco SEHBIB",
+    "documento": "MI 5.457.152",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), que no es un decreto de arresto referido a la persona; corresponde vacío"
+  },
+  {
+   "id": "c_cf2023f81762",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Francisco Mateo BUCCI",
+    "documento": "MI 8.527.173",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_7bac3a12d66e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Higinio Roberto CALAMITA",
+    "documento": "DNI 10.388.363",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_1eafbca56510",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto CORBELLINI",
+    "documento": "DNI 11.375.041",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_56527819dc63",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge FERNANDEZ",
+    "documento": "MI 5.519.092",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_8196f5e0c23b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Horacio FERNANDEZ",
+    "documento": "MI 7.849.597",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_78373f16e5c1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto Enan INOSTROZA ARROYO",
+    "documento": "CI 8.854.371",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_3fbe8864c393",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sonia Mabel MOURA de FERNANDEZ",
+    "documento": "LC 5.778.315",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_dacd8ffb2384",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eugenio Angel NAVARRETE",
+    "documento": "DNI 10.388.346",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_84fafbdb22b1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ivan Abel ROJO",
+    "documento": "MI 5.474.408",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_04c3caf0c8bc",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Gerardo Darío SAAD",
+    "documento": "DNI 10.928.206",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_d331bd9214ec",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ricardo Alberto BARRIENTOS",
+    "documento": "MI 8.478.307",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_2decb9ed9624",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Angelina ROSSATTI Vda. de CORBALAN",
+    "documento": "CI 7.536.551",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_20177a853c00",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Pablo Antonio VALDEZ",
+    "documento": "MI 5.093.275",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_a8279fc37eed",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar Mirto PEDROTTA",
+    "documento": "MI 4.367.095",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_db46ee17ad14",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mario Enrique BRION",
+    "documento": "MI 5.939.571",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_71e80059f831",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mario José RUFINER",
+    "documento": "MI 8.451.942",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1407/1974",
+    "fecha": "11/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_7dfdd933dd68",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Patrocinio LUNA",
+    "documento": "MI 8.059.933",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1452/1974",
+    "fecha": "14/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_873b4a6f00a7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Enrique Omar DE ROBLEDO",
+    "documento": "CI 6.642.842 PF",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1452/1974",
+    "fecha": "14/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_202b47492c03",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan KONCURAT",
+    "documento": "CI 8.522.838",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1452/1974",
+    "fecha": "14/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_d951d019d04c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Walter Desiderio SALINAS",
+    "documento": "MI 6.860.116",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1452/1974",
+    "fecha": "14/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_33d9d2252cce",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Raúl Ernesto LASCANO",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1452/1974",
+    "fecha": "14/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": "nacido el 25/1/46"
+   },
+   "motivo": "el texto da fecha de nacimiento en vez de documento; el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_538a46c61c93",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Alberto VUISTAZ",
+    "documento": "",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1452/1974",
+    "fecha": "14/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": "nacido el 21/12/49"
+   },
+   "motivo": "el texto da fecha de nacimiento en vez de documento; el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_d76ad2021a85",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Silvia Elena MORILLA de FACCHINI",
+    "documento": "LC 4.722.095",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1452/1974",
+    "fecha": "14/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_d5cb58492ec1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Crisanto René RIPODAS BARBER",
+    "documento": "MI 4.690.804",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_fed253a08021",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Ramón FRANCO",
+    "documento": "MI 5.706.787",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_1c59e5c615dd",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos CORDISCO",
+    "documento": "MI 4.698.991",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_afb5ad956567",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "María de los Milagros DEMIRYI de CASTRO",
+    "documento": "DNI 11.524.828",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_9c44aac719af",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Oscar DOMENEZ",
+    "documento": "MI 7.927.409",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_e4f90424664b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eduardo Alberto MONZON",
+    "documento": "DNI 10.646.653",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_559cea8f7523",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Saturnino FERREYRA",
+    "documento": "MI 8.448.237",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_ddb231fbc3c7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Armando Atilio BENITEZ",
+    "documento": "DNI 11.653.870",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_4c745c0d83bb",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Elba Justina SABACHUK de SCHREINER",
+    "documento": "LC 1.450.135",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_c7e1ddf03fa2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Emilia LUDUEÑA de PEREIRA",
+    "documento": "LC 5.128.060",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_8af79111b2a1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Emilser Enerio PEREIRA",
+    "documento": "MI 7.323.943",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_2ac7cc100cdf",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ernesto Omar TORROIJA",
+    "documento": "CI 6.748.529",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_d31954ce89fa",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ramón Eudosio VALLEJOS",
+    "documento": "MI 7.984.760",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_b9a578362fb2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Angel FERNANDEZ",
+    "documento": "MI 6.798.148",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_2c8f7ccf82d8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Gregorio CUGURA",
+    "documento": "MI 7.815.166",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_17ba60564413",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos LARREA",
+    "documento": "MI 5.503.212",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_7f94a81128ff",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Nestor Francisco BUENO",
+    "documento": "MI 8.350.550",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1474/1974",
+    "fecha": "15/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "462",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_3e80d7108ff6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carmen FERRADAS",
+    "documento": "DNI 11.181.960",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_2c4ec2cfcc1a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ramón Alfredo MORENO",
+    "documento": "MI 6.490.263",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_21295aaafc05",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sebastián Francisco MESQUIDA",
+    "documento": "MI 7.985.600",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_3285134878b0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto BUSTOS",
+    "documento": "MI 2.797.339",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_a69b0ea9261a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Eduardo FERNANDEZ",
+    "documento": "MI 6.471.308",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_f84c66ffb801",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Nelson SANCHEZ",
+    "documento": "MI 6.511.768",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_ff8d897c4e38",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Leonardo Jacinto COGO",
+    "documento": "MI 8.022.020",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_a8cf50237dda",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Angel Guido MOLINA",
+    "documento": "DNI 2.797.333",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_5f18e84058ec",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ramón Alfredo BUFFA",
+    "documento": "MI 6.465.827",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_cd3b078229b6",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar Jesús ALVAREZ",
+    "documento": "MI 6.467.078",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_16b353d40e19",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Santos PATULlAN",
+    "documento": "MI 2.797.707",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": "el texto dice 'PATULlAN' (errata evidente, probablemente PATULIAN)"
+   },
+   "motivo": "el texto trae 'PATULlAN' con errata; se transcribe y se anota; el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_6694a7ce3a0d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Andrés Nicolás MURUA",
+    "documento": "CI 5.885.152",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_99c2f5765994",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Pablo LEJARRAGA",
+    "documento": "MI 190.864",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_1fb934d64c51",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Alberto MASSOLO",
+    "documento": "MI 7.351.267",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_a463c31bbaae",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Alberto CARRICART",
+    "documento": "MI 10.798.686",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_f6fc922eff41",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José Alberto ARIZMENDI",
+    "documento": "MI 7.599.325",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1408/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "460",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_5c9d111aaf3c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Orlando Luis CALAMARI",
+    "documento": "MI 10.447.157",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_064e6c26a749",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo ECHALAR SILVA",
+    "documento": "CI 31.902 Policía de Córdoba",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_f6d6a61d910a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Omar Víctor GARCIA",
+    "documento": "CI 7.176.764 PF",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I. nº 7.176.764 P.F.'; se normaliza la sigla como en DE ROBLEDO ('CI … PF'); decreto_referido vacío porque el VISTO cita el Decreto 1368/74 (estado de sitio)"
+  },
+  {
+   "id": "c_249e7591e219",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Venancio SOSA",
+    "documento": "MI 8.074.198",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_3ef942c7852b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio Alfredo OROPEL",
+    "documento": "MI 6.693.587",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_5c5690a4f4a0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hugo Francisco COLAUTTI",
+    "documento": "MI 7.975.451",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_83891795d463",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar CACERES",
+    "documento": "MI 7.806.896",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_595f1b87a02a",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Miguel Angel RODRIGUEZ",
+    "documento": "MI 6.612.515",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_035fabb9ab29",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Carlos ALVAREZ",
+    "documento": "MI 7.982.328",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_b9e39ca7a91d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Armando Enrique CAPRETTI",
+    "documento": "MI 4.986o13",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1475/1974",
+    "fecha": "16/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "463",
+    "nota": "el texto dice 'M.I. 4.986o13' (errata en el número, probablemente 4.986.013)"
+   },
+   "motivo": "el texto trae '4.986o13' con errata; se transcribe y se anota; el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_dc0effdb0d1b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Amilcar ARCHETTI",
+    "documento": "MI 5.157.251",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_8b8cde14f7c4",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Cesar Luis CALCAGNO",
+    "documento": "MI 4.919.695",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_dabf9d35e9d0",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Jorge ALVARO",
+    "documento": "MI 5.084.400",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_89c05051f344",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Manuel Enrique PEDREIRA",
+    "documento": "MI 8.482.183",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_50fd12337a3b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Raúl GONZALEZ",
+    "documento": "MI 7.659.626",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_32441822f576",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Hernán Miguel COLOMBO",
+    "documento": "MI 7.659.297",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_02383a2b738d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Raúl Erasmo COLOMBO",
+    "documento": "",
+    "filiacion": "hijo de Raúl Alberto y Ethel Adelina ASTONDES",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el texto da filiación en lugar de documento; el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_be2b6320a47b",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Humberto José COSTA",
+    "documento": "",
+    "filiacion": "hijo de Humberto y Dominga Lorenza MARTORELLI",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el texto da filiación en lugar de documento; el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_e3d3b55d9bff",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Joaquín QUIROGA",
+    "documento": "MI 8.044.990",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_398c2692db46",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Reinaldo Oscar NUÑEZ",
+    "documento": "MI 8.041.295",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_8789bb6c366f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Lila Nora MACEDO",
+    "documento": "LC 10.752.635",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_2201b813ef86",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Segundo Arturo ALVAREZ",
+    "documento": "MI 3.617.832",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_f143cfb65e95",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ernesto Militón CORTES TARTALOS",
+    "documento": "MI 8.160.913",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_5618ae6b84d9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Guillermo URRUTIA",
+    "documento": "MI 8.388.794",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_336c34090cda",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Marcelo Cristian AHUERMA",
+    "documento": "DNI 10.953.672",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_c2cac28684c2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Héctor Gerardo BAVIO",
+    "documento": "MI 4.788.939",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_cadb7e528fb9",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "José HADDAD",
+    "documento": "Prio. A.G.C. 473.923",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'Prio. A.G.C. 473.923'; el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_ab29eae82c69",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Fidel Victoriano CHAUQUI",
+    "documento": "CI 147.330 Pol. Salta",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_9be96023963d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Carlos Oscar ARAMALLO",
+    "documento": "CI 172.847 Pol. Salta",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_126d80781be5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Marcelo José RAMOS",
+    "documento": "CI 224.811 Pol. Salta",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_61dae8e9199e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Humberto René PASTRANA",
+    "documento": "MI 7.850.815",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_59145eef559c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto Santiago GARGIULO",
+    "documento": "MI 7.008.160",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_9ffce7ffc795",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan Fernando POSTIGO",
+    "documento": "MI 10.294.268",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_06593f056bb1",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Ernesto Cándido OJEDA",
+    "documento": "MI 11.637.970",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_c808d6581709",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Oscar René RUIZ",
+    "documento": "MI 10.640.705",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1429/1974",
+    "fecha": "12/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_6093461f8a47",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Enrique René MARCOLLI",
+    "documento": "MI 6.966.313",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_9d10f841b329",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Julio César Antonio MARCOLLI",
+    "documento": "MI 6.086.264",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_1929534105c8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Mario Domingo MARCAS",
+    "documento": "MI 7.065.796",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_d83df1df406c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Roberto DIAZ",
+    "documento": "MI 6.959.184",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_6a132e27d5e5",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Mardonio Rafael DIAZ MARTINEZ",
+    "documento": "MI 6.956.488",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_85e71b93a0b2",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "César Ignacio GUTIERREZ",
+    "documento": "MI 4.708.060",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_0f8211e56897",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jorge Osvaldo WEISZ",
+    "documento": "MI 4.359.262",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_4c10a3586e1c",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Blas Mario ROJAS",
+    "documento": "MI 8.197.635",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_3ced405c1c51",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Dora María RUBECCHI de WEISZ",
+    "documento": "LC 4.834.515",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_e06e86aa8daa",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Nicolino Carlos PARAFIORITI",
+    "documento": "MI 7.743.225",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_12fe4bb38821",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Rosario GALO MOYA",
+    "documento": "MI 5.537.108",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_3ef4b2994888",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Guillermo Héctor SORIA",
+    "documento": "DNI 10.090.008",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_793fb6a6a9a8",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Juan José CANALS",
+    "documento": "MI 5.527.964",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_290e472ca819",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Benito GUZMAN",
+    "documento": "CIPF 6.419.605",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el texto dice 'C.I.P.F. 6.419.605'; el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  },
+  {
+   "id": "c_2c4c64fb992f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Orlando LUNA",
+    "documento": "MI 8.468.742",
+    "filiacion": "",
+    "tipo": "arresto",
+    "decreto": "1438/1974",
+    "fecha": "13/11/1974",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "461",
+    "nota": ""
+   },
+   "motivo": "el VISTO cita el Decreto 1368/74 (estado de sitio), no un decreto de arresto de la persona"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "case": "batch_121_10fb5e00",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_70f3f611be2f",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Sara MELUL",
+    "documento": "CI 4.734.884",
+    "filiacion": "",
+    "tipo": "salida_autorizada",
+    "decreto": "301/1975",
+    "fecha": "17/2/1975",
+    "destino": "República del Perú",
+    "decreto_referido": "1761/1974",
+    "pagina": "494",
+    "nota": ""
+   },
+   "motivo": "el Art. 2 concede autorización para salir 'con destino a la República del PERU'; el documento se normaliza a 'CI 4.734.884' (el texto dice 'C.I. nº 4.734.884'); la nota de B es redundante con el tipo"
+  },
+  {
+   "id": "c_37449156dec7",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Guillermo Daniel MARTINI",
+    "documento": "",
+    "filiacion": "arg. nacido el 17/10/52",
+    "tipo": "arresto",
+    "decreto": "1151/1975",
+    "fecha": "30/4/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "492",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(arg. nacido el 17/10/52)': no es tipo ni número de documento, sino dato identificatorio en lugar del documento, por lo que va en filiacion"
+  },
+  {
+   "id": "c_9a2bf9fc09af",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Luis Ricardo MAGUIRE",
+    "documento": "",
+    "filiacion": "arg. nacido el 15/10/55",
+    "tipo": "arresto",
+    "decreto": "1151/1975",
+    "fecha": "30/4/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "492",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(arg. nacido el 15/10/55)': dato identificatorio en lugar del documento, va en filiacion y documento queda vacío"
+  },
+  {
+   "id": "c_621a9a947b90",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Alfredo Eduardo POSADAS",
+    "documento": "",
+    "filiacion": "arg. nacido el 7/2/50",
+    "tipo": "arresto",
+    "decreto": "1151/1975",
+    "fecha": "30/4/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "492",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(arg. nacido el 7/2/50)': dato identificatorio en lugar del documento, va en filiacion y documento queda vacío"
+  },
+  {
+   "id": "c_591ac7d8f267",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Daniel Eduardo ESTARLI",
+    "documento": "",
+    "filiacion": "arg. nacido el 27/4/54",
+    "tipo": "arresto",
+    "decreto": "1151/1975",
+    "fecha": "30/4/1975",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "492",
+    "nota": ""
+   },
+   "motivo": "el texto dice '(arg. nacido el 27/4/54)': dato identificatorio en lugar del documento, va en filiacion y documento queda vacío"
+  }
+ ]
+}
