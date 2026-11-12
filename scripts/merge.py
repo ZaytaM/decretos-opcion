@@ -15,6 +15,12 @@ opcion.xlsx
 revisar.xlsx
   Eventos found by only one agent, or with conflicting fields, for manual review.
 
+opcion.xlsx and eventos.csv are the public result: no batch / agent columns.
+The bookkeeping (which agent, which batch, agreement counts) is in revisar.xlsx.
+
+Countries: if paises.json exists (scripts/paises.py), `destino` is rewritten
+to one spelling per country ("Reino de España" -> "España").
+
 Adjudication: scripts/adjudicate.py asks a stronger model to settle each of
 those items against the decree text and writes review/resolved/*.json. When
 those files exist, merge applies them: "confirmar" moves the (corrected) event
@@ -76,6 +82,29 @@ def norm_doc(s: str) -> str:
     return re.sub(r"\D", "", s or "")
 
 
+_PAISES = None
+
+
+def canon_destino(s: str) -> str:
+    """One spelling per country, from paises.json; unknown values are kept."""
+    global _PAISES
+    if _PAISES is None:
+        try:
+            raw = json.load(open(os.path.join(ROOT, "paises.json"), encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            raw = {}
+        _PAISES = {}
+        for k, v in raw.items():
+            if isinstance(v, dict) and v.get("pais"):
+                out = v["pais"] + (f" ({v['ciudad']})" if v.get("ciudad") else "")
+                _PAISES[k] = out
+                _PAISES.setdefault(k.casefold(), out)
+        for out in set(_PAISES.values()):  # already-canonical values map to themselves
+            _PAISES.setdefault(out, out)
+    s = (s or "").strip()
+    return _PAISES.get(s) or _PAISES.get(s.casefold()) or s
+
+
 def norm_decreto(s: str) -> str:
     m = re.search(r"(\d+)\s*/\s*(\d{2,4})", s or "")
     if not m:
@@ -102,6 +131,7 @@ def load(agent: str):
             ev["tipo"] = ev["tipo"] if ev["tipo"] in TIPOS else "otro"
             ev["decreto"] = norm_decreto(ev["decreto"])
             ev["decreto_referido"] = norm_decreto(ev["decreto_referido"])
+            ev["destino"] = canon_destino(ev["destino"])
             ev["batch"] = batch
             ev["agente"] = agent
             ev["_name"] = norm_name(ev["persona"])
@@ -153,7 +183,7 @@ def match(a, b):
                 if not ev[k]:
                     merged[k] = other[k]
         if diffs:
-            merged["nota"] = (merged["nota"] + " | " if merged["nota"] else "") + "; ".join(diffs)
+            merged["_diff"] = "; ".join(diffs)
             conflicts.append(merged)
         confirmed.append(merged)
     only_b = [ev for j, ev in enumerate(b) if j not in used_b]
@@ -165,6 +195,7 @@ def renorm(ev):
     ev["tipo"] = ev["tipo"] if ev["tipo"] in TIPOS else "otro"
     ev["decreto"] = norm_decreto(ev["decreto"])
     ev["decreto_referido"] = norm_decreto(ev["decreto_referido"])
+    ev["destino"] = canon_destino(ev["destino"])
     ev["_name"] = norm_name(ev["persona"])
     ev["_doc"] = norm_doc(ev["documento"])
 
@@ -330,7 +361,7 @@ def people_sheet(ws, people, pids):
             head += [f"{TIPO_LABEL[t]} - destino"]
         if t == "libertad_vigilada":
             head += ["Libertad vigilada - lugar"]
-    head += ["Otros eventos / notas", "Decretos referidos", "Páginas PDF", "Fuente"]
+    head += ["Otros eventos / notas", "Decretos referidos", "Páginas PDF"]
     ws.append(head)
     for pid in pids:
         p = people[pid]
@@ -347,22 +378,28 @@ def people_sheet(ws, people, pids):
         otros = [f"{e['decreto']} ({e['fecha']}): {e['nota']}" for e in evs if e["tipo"] == "otro" or (e["nota"] and e["tipo"] != "libertad_vigilada")]
         row += [" ; ".join(otros),
                 " ; ".join(sorted({e["decreto_referido"] for e in evs if e["decreto_referido"]})),
-                " ; ".join(sorted({e["pagina"] for e in evs if e["pagina"]}, key=lambda s: int(re.sub(r"\D", "", s) or 0))),
-                "ambos" if all(e["agente"] == "a+b" for e in evs)
-                else "revisado" if all(e["agente"] in ("a+b", "a+f", "b+f") for e in evs)
-                else "parcial"]
+                " ; ".join(sorted({e["pagina"] for e in evs if e["pagina"]}, key=lambda s: int(re.sub(r"\D", "", s) or 0)))]
         ws.append(row)
     style_header(ws)
 
 
-def events_sheet(ws, events, extra_cols=()):
+def events_sheet(ws, events, internal=False):
+    """internal=True adds the bookkeeping columns (revisar.xlsx only)."""
     head = ["Persona", "Documento", "Filiación", "Tipo", "Decreto", "Fecha", "Destino",
-            "Decreto referido", "Página PDF", "Nota", "Lote", "Agente", *extra_cols]
+            "Decreto referido", "Página PDF", "Nota"]
+    if internal:
+        head += ["Lote", "Agente", "Motivo"]
+        events = sorted(events, key=lambda e: (e["batch"], e["decreto"], e["tipo"], e["persona"]))
+    else:
+        dk = lambda e: (date_key(e["fecha"]), [int(x) for x in re.findall(r"\d+", e["decreto"])], e["tipo"], e["persona"])  # noqa: E731
+        events = sorted(events, key=dk)
     ws.append(head)
-    for e in sorted(events, key=lambda e: (e["batch"], e["decreto"], e["tipo"], e["persona"])):
-        ws.append([e["persona"], e["documento"], e["filiacion"], TIPO_LABEL[e["tipo"]], e["decreto"],
-                   e["fecha"], e["destino"], e["decreto_referido"], e["pagina"], e["nota"],
-                   e["batch"], e["agente"], *[e.get(c, "") for c in extra_cols]])
+    for e in events:
+        row = [e["persona"], e["documento"], e["filiacion"], TIPO_LABEL[e["tipo"]], e["decreto"],
+               e["fecha"], e["destino"], e["decreto_referido"], e["pagina"], e["nota"]]
+        if internal:
+            row += [e["batch"], e["agente"], e.get("motivo", "")]
+        ws.append(row)
     style_header(ws)
 
 
@@ -398,46 +435,55 @@ def main() -> int:
     ws = wb.create_sheet("Resumen")
     ws.append(["Métrica", "Valor"])
     rows = [
-        ("Lotes procesados por ambos agentes", len(both)),
-        ("Lotes procesados por un solo agente", len(batches_a ^ batches_b)),
-        ("Eventos confirmados por ambos", len(confirmed)),
-        ("Eventos sólo agente A", len(only_a)),
-        ("Eventos sólo agente B", len(only_b)),
-        ("Eventos con campos en conflicto", len(conflicts)),
-        ("Ítems enviados a revisión (antes de adjudicar)", n_review),
-        ("Adjudicador: conflictos de campos resueltos", st["conf_ok"]),
-        ("Adjudicador: eventos de un solo agente confirmados", st["solo_ok"]),
-        ("Adjudicador: eventos descartados", st["solo_drop"] + st["solo_dup"] + st["conf_drop"]),
-        ("Pendientes de revisión manual", len(only_a) + len(only_b) + len(conflicts)),
         ("Personas con eventos de opción/otros", len(with_option)),
         ("Personas sólo con arresto", len(arrest_only)),
+        ("Eventos (total)", len(all_events)),
     ] + [(f"Eventos: {TIPO_LABEL[t]}", sum(1 for e in all_events if e["tipo"] == t)) for t in TIPOS]
     for r in rows:
         ws.append(list(r))
     style_header(ws)
     wb.save(os.path.join(ROOT, "opcion.xlsx"))
 
+    # revisar.xlsx: internal working file (what is left to check by hand + bookkeeping)
     wb = Workbook()
     ws = wb.active
     ws.title = "Sólo un agente"
     for e in only_a + only_b:
         e["motivo"] = "sólo agente " + e["agente"]
     for e in conflicts:
-        e["motivo"] = "campos distintos"
+        e["motivo"] = "campos distintos: " + e.get("_diff", "")
     for e in only_a + only_b + conflicts:
         if e.get("motivo_f"):
             e["motivo"] += " | adjudicador (dudoso): " + e["motivo_f"]
-    events_sheet(ws, only_a + only_b, extra_cols=("motivo",))
-    events_sheet(wb.create_sheet("Campos en conflicto"), conflicts, extra_cols=("motivo",))
+    events_sheet(ws, only_a + only_b, internal=True)
+    events_sheet(wb.create_sheet("Campos en conflicto"), conflicts, internal=True)
     if discarded:
-        events_sheet(wb.create_sheet("Descartados"), discarded, extra_cols=("motivo",))
+        events_sheet(wb.create_sheet("Descartados"), discarded, internal=True)
+    ws = wb.create_sheet("Resumen")
+    ws.append(["Métrica", "Valor"])
+    rows = [
+        ("Lotes procesados por ambos agentes", len(both)),
+        ("Lotes procesados por un solo agente", len(batches_a ^ batches_b)),
+        ("Eventos en que ambos agentes coinciden", len(confirmed)),
+        ("Ítems enviados a revisión (antes de adjudicar)", n_review),
+        ("Adjudicador: conflictos de campos resueltos", st["conf_ok"]),
+        ("Adjudicador: eventos de un solo agente confirmados", st["solo_ok"]),
+        ("Adjudicador: eventos descartados", st["solo_drop"] + st["solo_dup"] + st["conf_drop"]),
+        ("Pendientes: sólo agente A", len(only_a)),
+        ("Pendientes: sólo agente B", len(only_b)),
+        ("Pendientes: campos en conflicto", len(conflicts)),
+        ("Pendientes de revisión manual (total)", len(only_a) + len(only_b) + len(conflicts)),
+    ]
+    for r in rows:
+        ws.append(list(r))
+    style_header(ws)
     wb.save(os.path.join(ROOT, "revisar.xlsx"))
 
     with open(os.path.join(ROOT, "eventos.csv"), "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
-        w.writerow(FIELDS + ["batch", "agente"])
-        for e in all_events:
-            w.writerow([e[k] for k in FIELDS] + [e["batch"], e["agente"]])
+        w.writerow(FIELDS)
+        for e in sorted(all_events, key=lambda e: (date_key(e["fecha"]), e["decreto"], e["tipo"], e["persona"])):
+            w.writerow([e[k] for k in FIELDS])
     print("wrote opcion.xlsx, revisar.xlsx, eventos.csv")
     return 0
 
