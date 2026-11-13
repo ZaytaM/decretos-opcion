@@ -115,8 +115,22 @@ def norm_decreto(s: str) -> str:
     return f"{int(m.group(1))}/{y}"
 
 
+def load_repairs():
+    """batches/repairs.json (written by split.py --repair): repair batch ->
+    decrees re-read into it. Events for those decrees coming from any OTHER
+    batch are the incomplete first reading and are dropped."""
+    path = os.path.join(ROOT, "batches", "repairs.json")
+    if not os.path.exists(path):
+        return {}, set()
+    rep = json.load(open(path, encoding="utf-8"))
+    keys = {(norm_decreto(r["numero"]), r["fecha"]) for items in rep.values() for r in items}
+    return rep, keys
+
+
 def load(agent: str):
+    repairs, repaired = load_repairs()
     evs = []
+    dropped = 0
     for f in sorted(glob.glob(os.path.join(ROOT, "events", agent, "batch_*.json"))):
         batch = os.path.basename(f)[:-5]
         try:
@@ -136,7 +150,12 @@ def load(agent: str):
             ev["agente"] = agent
             ev["_name"] = norm_name(ev["persona"])
             ev["_doc"] = norm_doc(ev["documento"])
+            if batch not in repairs and (ev["decreto"], ev["fecha"]) in repaired:
+                dropped += 1
+                continue
             evs.append(ev)
+    if dropped:
+        print(f"agent {agent}: dropped {dropped} events of repaired decrees (superseded by repair batches)")
     return evs
 
 
