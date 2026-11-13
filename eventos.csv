@@ -4993,7 +4993,7 @@ Alberto LEIVA,,hijo de Eusebio y Juana Perez,arresto,1135/1976,1/7/1976,,,9,
 Alfredo Rodolfo ARTOLA,MI 4.977.747,,arresto,1135/1976,1/7/1976,,,9,
 Amelia del Valle SESTO de LEIVA,DNI 4.564.395,,arresto,1135/1976,1/7/1976,,,9,
 Eduardo Simón DALMASSO,MI 8.524.918,,arresto,1135/1976,1/7/1976,,,9,
-Felix Alfredo AGÜERO,MI 5.959.294,,arresto,1135/1976,1/7/1976,,,9,el texto del decreto aparece cortado tras este nombre (termina en coma); la lista podría estar incompleta
+Felix Alfredo AGÜERO,MI 5.959.294,,arresto,1135/1976,1/7/1976,,,9,
 Francisco José PALAO,MI 8.112.546,,arresto,1135/1976,1/7/1976,,,9,
 Haroldo Blas LASCOT,MI 4.978.369,,arresto,1135/1976,1/7/1976,,,9,
 Irineo BARRIOS,MI 2.062.314,,arresto,1135/1976,1/7/1976,,,9,
@@ -5016,6 +5016,12 @@ Beatriz GARCIA,L.C. nº 6.283.087,,arresto,1136/1976,1/7/1976,,,10,
 Decio Bernardo NARANJO VARGAS,MI 6.827.833,,arresto,1136/1976,1/7/1976,,,10,
 Gerónimo MORGANTE PANELLA,CI 6.860.627,,arresto,1136/1976,1/7/1976,,,10,
 Liliana Beatriz BUTTINI PALOMBO,LC 6.525.331,,arresto,1136/1976,1/7/1976,,,10,
+Armando Ariel ABELES,CI 3.155.824,,arresto,1137/1976,1/7/1976,,,10,
+Carlos Julio MOYANO,CI 5.104.562,,arresto,1137/1976,1/7/1976,,,10,
+Edgardo Emilio LONGHI,CI 2.976.820,,arresto,1137/1976,1/7/1976,,,10,
+Héctor OLIVIERO LOSI,CI 2.854.261,,arresto,1137/1976,1/7/1976,,,10,
+José Tomás BELOTTI,CI 2.260.368,,arresto,1137/1976,1/7/1976,,,10,
+Mario Oscar FARRANDO,CI 5.393.499,,arresto,1137/1976,1/7/1976,,,10,
 Alberto GOMEZ,DNI 8.009.099,,arresto,1138/1976,2/7/1976,,,10,
 Carlos HAIRABEDIAN,DNI 6.493.735,,arresto,1138/1976,2/7/1976,,,10,
 Diógenes Alberto GIULIANI,DNI 8.578.308,,arresto,1138/1976,2/7/1976,,,10,
@@ -13234,8 +13240,8 @@ Luis María CANOSA,LE 10.502.328,,arresto,564/1978,8/3/1978,,,154,
 Miriam Gladys BASSO,DNI 12.863.056,,libertad_vigilada,565/1978,8/3/1978,,,155,"Arresto a disposición del PEN bajo libertad vigilada en Río Cuarto, Provincia de Córdoba, pudiendo desplazarse dentro de su ejido urbano; controla el Batallón de Arsenales 141 'JOSE MARIA ROJAS' (Grupo Inteligencia)"
 Arnoldo Carlos Alberto OGER,CI 6.080.383,,arresto,566/1978,8/3/1978,,,155,
 Carlos Eduardo TESSELHOFF,CI 5.986.903,,arresto,566/1978,8/3/1978,,,155,
-César Javier VILLANUEVA,CI 3.408.893 PF,,arresto,567/1978,8/3/1978,,,155,El texto del decreto aparece cortado e intercalado con el decreto 2511/1978 en la fuente; los artículos dispositivos están completos al final
-Domingo Celestino FARIAS,CI 5.981.404 PF,,arresto,567/1978,8/3/1978,,,155,El texto del decreto aparece cortado e intercalado con el decreto 2511/1978 en la fuente; los artículos dispositivos están completos al final
+César Javier VILLANUEVA,C.I. 3.408.893 P.F.,,arresto,567/1978,8/3/1978,,,155,
+Domingo Celestino FARIAS,C.I. 5.981.404 P.F.,,arresto,567/1978,8/3/1978,,,155,
 Francisco Javier MARTIN,,hijo de Manuel y de Elena NAVARRO,liberacion,568/1978,8/3/1978,,,155,
 Gianfranco TESTA,Ppte. 5.512.365/P,,liberacion,568/1978,8/3/1978,,,155,
 Joaquín NUÑEZ,CI 8.863.753,,liberacion,568/1978,8/3/1978,,,155,
@@ -13558,15 +13564,24 @@ Ricardo Alonso ROBIROSA,LE 4.385.866,,liberacion,969/1978,2/5/1978,,,128,
 Luis Carlos ABREGU,Prio. 847.373,,liberacion,971/1978,4/5/1978,,1962/1975,129,
 Alberto LALLI,DNI. 10.932.450,,opcion_denegada,972/1978,4/5/1978,,,129,
 Diana Alcira QUATTROCHI,,hija de Sebastian Roberto y Sara ARBU,opcion_denegada,972/1978,4/5/1978,,,129,
-Dora María RUBECCHI deWEISZ,LC. 4.834.515,,opcion_denegada,972/1978,4/5/1978,,,129,
+Dora María RUBECCHI deWEISZ,LC. 4.834.515,,opcion_denegada,972/1978,4/5/1978,,,129,el texto dice 'deWEISZ' sin espacio; debe leerse 'de WEISZ'
+Esperanza MARTINEZ RODRIGUEZ de ROSSI,L.C. 6.382.527,,opcion_denegada,972/1978,4/5/1978,,,129,
 Germán GARGANO,DNI. 10.691.810,,opcion_denegada,972/1978,4/5/1978,,,129,
+Héctor Manuel CENA,D.N.I. 11.723.019,,opcion_denegada,972/1978,4/5/1978,,,129,
 Jose Luis HISI,MI 11.933.615,,opcion_denegada,972/1978,4/5/1978,,,129,
 José Antonio MAURO,L.E. 7.607.087,,opcion_denegada,972/1978,4/5/1978,,,129,
+José Luis Mario TOLEDO,DNI. 13.333.421,,opcion_denegada,972/1978,4/5/1978,,,129,
 Juan Carlos HERRERO,DNI. 8.278.637,,opcion_denegada,972/1978,4/5/1978,,,129,
+Luis Eduardo BLOGA,L.E. 8.521.648,,opcion_denegada,972/1978,4/5/1978,,,129,
+Mabel Irene FERNANDEZ,L.C. 5.873.635,,opcion_denegada,972/1978,4/5/1978,,,129,
 Mario Antonio LEYVA,M.I. 8.000.353,,opcion_denegada,972/1978,4/5/1978,,,129,
 Marta Irene CARDOSO RODRIGUEZ,,hija de Leoncio Aurelio e Invensión RODRIGUEZ,opcion_denegada,972/1978,4/5/1978,,,129,
-Mauricio Raúl HOREN,,,opcion_denegada,972/1978,4/5/1978,,,129,"texto cortado: el apellido está truncado (""HOREN..."") y el decreto continúa más allá del texto recibido; puede haber más personas en la lista"
+Mauricio Raúl HOREN,,hijo de Carlos y Ana TABACHINI,opcion_denegada,972/1978,4/5/1978,,,129,
+Miguel Angel GARCIA PERERA,DNI. 10.353.539,,opcion_denegada,972/1978,4/5/1978,,,129,
+Oscar Julio CLEMENT,M.I. 7.709.131,,opcion_denegada,972/1978,4/5/1978,,,129,
 Pascualino D’ERRICO,AGC. 744.963,,opcion_denegada,972/1978,4/5/1978,,,129,
+Raquel Eva ORIFICI de MARCIANO,L.C. 5.948.830,,opcion_denegada,972/1978,4/5/1978,,,129,
+Raúl Alberto MARCIANO,L.E. 5.616.678,,opcion_denegada,972/1978,4/5/1978,,,129,
 Raúl Oscar NUDEL,DNI. 11.723.282,,opcion_denegada,972/1978,4/5/1978,,,129,
 Roberto Aníbal BOTTARINI,LE. 8.631.684,,opcion_denegada,972/1978,4/5/1978,,,129,
 Alberto Pablo FERNANDEZ BANUS,L.E. 1.666.999,,liberacion,973/1978,4/5/1978,,,129,
@@ -13763,7 +13778,7 @@ Elena SEVILLA VARGAS,CI Pol. Mza. 5.766.582,,salida_autorizada,1317/1978,14/6/19
 Manuel Antonio CAMIÑO,LE 11.460.016,,salida_autorizada,1317/1978,14/6/1978,España,,190,
 Manuel Secundino BARCIA,MI 12.290.252,,salida_autorizada,1317/1978,14/6/1978,España,,190,
 Horacio Luís NARVARTE,LE 6.895.377,,arresto,1318/1978,14/6/1978,,,190,
-Mario Néstor RUIZ,DNI 7.637.242,,salida_autorizada,1321/1978,16/6/1978,España,,191,Texto del decreto intercalado con fragmentos de otro decreto (1630/1978) en la fuente; parte dispositiva legible
+Mario Néstor RUIZ,DNI. 7.637.242,,salida_autorizada,1321/1978,16/6/1978,España,,191,
 Norma Bremilda KENNEDY,LC 5.915.592,,liberacion,1322/1978,16/6/1978,,655/1976,191,
 Héctor Mario CORDOVA,LE 1.136.932,,liberacion,1323/1978,16/6/1978,,,136,"los considerandos citan el Decreto 1220/78 'con respecto a una persona comprendida en el mismo', pero el art. 1 libera a dos personas sin indicar cuál"
 Rodolfo Ramón GOÑI,LE 4.351.977,,liberacion,1323/1978,16/6/1978,,,136,"los considerandos citan el Decreto 1220/78 'con respecto a una persona comprendida en el mismo', pero el art. 1 libera a dos personas sin indicar cuál"
@@ -13877,7 +13892,7 @@ David Enrique KOKOTOFF,LE 6.884.935,,liberacion,1453/1978,6/7/1978,,3112/1977,16
 Dora Cecilia HOLZER,LC 1.365.635,,liberacion,1453/1978,6/7/1978,,3112/1977,163,
 Enrique PASCUAL,LE 6.876.119,,liberacion,1453/1978,6/7/1978,,3112/1977,163,
 Jorge Augusto MARANDIHO,LE 4.223.754,,liberacion,1453/1978,6/7/1978,,3112/1977,163,
-Alda Irene RAMIREZ de SALVO,,,libertad_vigilada,1454/1978,6/7/1978,,759/1975,165,Texto truncado: el artículo 1° se corta antes de indicar el lugar de cumplimiento; modificación a la forma del art. 2° inc. c) del Acta Institucional del 1/9/1977
+Alda Irene RAMIREZ de SALVO,,hija de Carlos Hiram y María Ada Paradela,libertad_vigilada,1454/1978,6/7/1978,,759/1975,165,"Ciudad de Rosario, Provincia de Santa Fe; control por Policía de la Provincia de Santa Fe"
 César Osvaldo BIDABHERE,DNI 10.228.545,,libertad_vigilada,1455/1978,6/7/1978,,282/1975,165,"Puerto Deseado, Provincia de Santa Cruz; puede desplazarse dentro del ejido urbano; control: Escuadrón de Exploración de Caballería Blindada 9"
 Alejandro BIBILONI,L.E. 4.649.517,,liberacion,1456/1978,6/7/1978,,1220/1978,166,
 Vilma Emilia RUPOLO,MI 6.708.407,,liberacion,1457/1978,6/7/1978,,2088/1976,169,
@@ -14034,6 +14049,7 @@ Alicia Beatriz WIESLAND,LC 5.881.729,,otro,1675/1978,3/8/1978,,3409/1975,197,rec
 Alicia Beatriz WIELAND,LC 5.881.927,,opcion_diferida,1676/1978,3/8/1978,,,197,
 Nélida Elena Timotea ORUETA,,hija de José Antonio y Timotea Francisca Marcelina MONASTERIO,liberacion,1677/1978,3/8/1978,,3720/1975,198,
 Claudia María CARRARA de CANOSA,LC 10.661.962,,libertad_vigilada,1678/1978,3/8/1978,,564/1978,199,"Ciudad de Buenos Aires, Capital Federal; control: Policía Federal Argentina"
+Eduardo Oscar MARCHETTI,LE 10.625.785,,liberacion,1679/1978,3/8/1978,,534/1978,199,
 Adolfo María PEREZ ESQUIVEL,CI 3.350.880,,salida_autorizada,1680/1978,3/8/1978,Noruega,,137,
 Enrique Román PARISI,DNI 10.335.295,,salida_autorizada,1719/1978,4/8/1978,España,,139,
 Osvaldo Sigfrido DEBENEDETTI,CI 5.100.305,,otro,1720/1978,4/8/1978,,1761/1974,140,excluido de la orden de arresto del Decreto 1761/74 a partir del 21/7/1978 por fallecimiento
@@ -14517,7 +14533,7 @@ Nissim HALEGUA,DNI 15.123.768,,liberacion,2510/1978,23/10/1978,,,155,
 Pinchos WALTER,LE 4.095.485,,liberacion,2510/1978,23/10/1978,,,155,
 Ricardo Alberto TOMASZEWSKI,LE 4.855.588,,liberacion,2510/1978,23/10/1978,,,155,
 Salomón SAID,LE 4.183.264,,liberacion,2510/1978,23/10/1978,,,155,
-Juana Julia ORMAECHEA de PADULA,,,opcion_denegada,2519/1978,25/10/1978,,,156,Texto del artículo 1° cortado en la fuente ('a la detenida a'); persona tomada del VISTO
+Juana Julia ORMAECHEA de PADULA,,hija de Enrique y Amalia SCHIAVONI,opcion_denegada,2519/1978,25/10/1978,,,156,
 Enrique Alberto RIVERO,CI 7.020.825,,salida_autorizada,2520/1978,26/10/1978,España,,157,
 Hugo René TOMINI BATISTON,MI 7.890.510,,salida_autorizada,2520/1978,26/10/1978,Italia,,157,
 Olga Gloria ROJAS SANDFORD,DNI 13.753.815,,salida_autorizada,2520/1978,26/10/1978,Bélgica,,157,
@@ -14541,6 +14557,9 @@ Ricardo D’AMICO FORNES,DNI 10.564.230,,opcion_denegada,2525/1978,26/10/1978,,,
 Guillermo Emilio RUIZ,,hijo de Rafael y de América Ayesa,opcion_denegada,2526/1978,26/10/1978,,,160,
 Obdulia Lucia VEGA,LC 5.811.812,,opcion_denegada,2526/1978,26/10/1978,,,160,
 Germán SEDEVCIC HUMAR,DNI 92.248.707,,expulsion,2527/1978,26/10/1978,,1753/1977,161,ciudadano italiano
+Carlos José MASSERA,MI 6.484.225,,arresto,2528/1978,26/10/1978,,,162,
+Humberto Julio LORIA,CIPF 6.674.043,,arresto,2528/1978,26/10/1978,,,162,
+José Erio LUMELLO,MI 6.401.143,,arresto,2528/1978,26/10/1978,,,162,
 Amelia DIEZ PERLA,DNI 6.268.732,,opcion_denegada,2557/1978,27/10/1978,,,165,
 Bertha HOREN,,hija de Carlos y de Ana TUACHERIK,opcion_denegada,2557/1978,27/10/1978,,,165,
 Claudio Alberto SARRODE,MI 7.804.165,,opcion_denegada,2557/1978,27/10/1978,,,165,
@@ -14583,10 +14602,10 @@ Patricia Miriam BORENZTEIN,,hija de Abrahan y de Esther Scheolnik,opcion_denegad
 Ricardo Alberto CARRERA,MI 8.473.237,,opcion_denegada,2720/1978,17/11/1978,,,165,
 Roberto Antenor GAUNA,DNI 10.734.167,,opcion_denegada,2720/1978,17/11/1978,,,165,
 Silvia Marina CLEMENTI,LC 4.679.474,,opcion_denegada,2720/1978,17/11/1978,,,165,
-Bienvenido Tristán MARTINEZ,MI 6.751.072,,arresto,2721/1978,17/11/1978,,,167,Arresto en establecimiento penal o carcelario
-Juan Carlos PE[…]TRAZZINI,MI 4.109.803,,arresto,2721/1978,17/11/1978,,,167,"Texto cortado en el original: el apellido aparece partido (""PE-"" … ""TRAZZINI"") por la mezcla de columnas con el decreto 2589/1978; apellido completo dudoso. Arresto en establecimiento penal o carcelario"
-Juan Hugo VALENCIA,MI 7.216.679,,arresto,2721/1978,17/11/1978,,,167,Arresto en establecimiento penal o carcelario
-Leopoldo Nicolás CAAMAÑO,MI 6.723.685,,arresto,2721/1978,17/11/1978,,,167,Arresto en establecimiento penal o carcelario; texto parcialmente desordenado en el original
+Bienvenido Tristán MARTINEZ,MI 6.751.072,,arresto,2721/1978,17/11/1978,,,167,
+Juan Carlos PETRAZZINI,MI 4.109.803,,arresto,2721/1978,17/11/1978,,,167,
+Juan Hugo VALENCIA,MI 7.216.679,,arresto,2721/1978,17/11/1978,,,167,
+Leopoldo Nicolás CAAMAÑO,MI 6.723.685,,arresto,2721/1978,17/11/1978,,,167,
 Daniel José HEREDIA,MI 4.382.493,,arresto,2722/1978,17/11/1978,,,168,
 Julio Pedro HEREDIA,MI 4.382.491,,arresto,2722/1978,17/11/1978,,,168,
 Alicia María LINARES,C.I. 6.376.291,,salida_autorizada,2723/1978,17/11/1978,España,,168,
@@ -14680,7 +14699,8 @@ Ana Raquel NUTA,CI 3.267.603,,arresto,2813/1978,28/11/1978,,,178,
 Angel Daniel HEREDIA,DNI 11.050.858,,salida_autorizada,2815/1978,28/11/1978,Francia,,178,
 Juan YAHDJIAN,MI 7.983.610,,salida_autorizada,2815/1978,28/11/1978,Bélgica,,178,
 Oscar Antonio MOLINA,MI 8.301.134,,salida_autorizada,2816/1978,28/11/1978,Suecia,2037/1978,179,
-Pedro Justo RODRIGUEZ,MI 6.897.305,,opcion_denegada,2874/1978,1/12/1978,,,179,texto del decreto cortado tras 'y': falta al menos otro nombre denegado
+Osvaldo Irineo Iberá SOTELO BOADO,,hijo de Onísimo SOTELO e Isabel BOADO,opcion_denegada,2874/1978,1/12/1978,,,179,
+Pedro Justo RODRIGUEZ,MI 6.897.305,,opcion_denegada,2874/1978,1/12/1978,,,179,
 Roberto César TATO,MI 0.582.926,,liberacion,2875/1978,1/12/1978,,1585/1977,179,
 Rafael Antonio FLORES,DNI 8.358.243,,salida_autorizada,2876/1978,1/12/1978,España,,180,
 José Cristian FUNES,DNI 10.489.465,,otro,2877/1978,1/12/1978,,503/1976,183,"excluido del Decreto 503/1976 a partir del 30/6/1976, fecha de su fallecimiento"
@@ -14729,7 +14749,7 @@ Marta Irene CARDOSO RODRIGUEZ,,hija de Leoncio Aurelio e Invensión RODRIGUEZ,ex
 Ruben ANGELACCIO,,hijo de Alberto Rogelio y de Mamerta VILLAMAYOR,expulsion,2980/1978,19/12/1978,,,190,
 Inés DEL VALLE LUGONES de BADER,DNI 10.294.595,,arresto,2982/1978,19/12/1978,,,190,
 Oscar Ricardo BADER,,hijo de Erich BADER y de Angela LAZZARONE,arresto,2982/1978,19/12/1978,,,190,
-Carlos HAIRABEDIAN,,,otro,2983/1978,19/12/1978,,,191,"texto truncado: sólo figura el VISTO y parte del considerando (detenido a disposición del PEN, se trataría de modificar la forma de arresto); la parte dispositiva no está en el texto recibido"
+Carlos HAIRABEDIAN,DNI 6.493.735,,libertad_vigilada,2983/1978,19/12/1978,,1138/1976,191,"Ciudad de Córdoba, Provincia de Córdoba; control por Policía de la Provincia de Córdoba. El texto cita 'decreto número 1138/976'"
 Florencio OBREGON,LE 7.412.758,,liberacion,2984/1978,19/12/1978,,,192,
 Hugo MALDONADO,MI 5.143.897,,liberacion,2984/1978,19/12/1978,,,192,
 Manuel Alberto NAVARRO,MI 6.961.460,,liberacion,2984/1978,19/12/1978,,,192,
@@ -15118,8 +15138,8 @@ Julio Jorge HOKAMA,MI 4.738.152,,liberacion,69/1979,15/1/1979,,,212,
 María Eva PONCE,,,liberacion,69/1979,15/1/1979,,,212,"Identificada como argentina, nacida el 10/04/950"
 Oscar Rodolfo TAGLIAFERRO,MI 4.878.247,,liberacion,70/1979,15/1/1979,,1845/1974,212,
 Pedro René AMAYA,Prio. 836.936,,libertad_vigilada,71/1979,15/1/1979,,728/1975,212,"Localidad de Acheral, Provincia de Tucumán; desplazamiento limitado al ejido urbano; controla la Policía de la Provincia de Tucumán"
-Edita del Carmen RUBILAR,,hija de Raúl Luis y de Doralia Artiaga,libertad_vigilada,72/1979,15/1/1979,,1430/1976,212,"Ciudad de Comodoro Rivadavia, Provincia de Chubut; desplazamiento limitado al ejido urbano; controla la Policía de la Provincia de Chubut"
-Mirta Doris SILVEIRA,,hija de Samuel Fabio y de María Antonia Krieger,libertad_vigilada,72/1979,15/1/1979,,1430/1976,212,"Ciudad de Comodoro Rivadavia, Provincia de Chubut; desplazamiento limitado al ejido urbano; controla la Policía de la Provincia de Chubut"
+Edita del Carmen RUBILAR,,hija de Raúl Luis y de Doralia Artiaga,libertad_vigilada,72/1979,15/1/1979,,1430/1976,212,"Ciudad de Comodoro Rivadavia, Provincia de Chubut; control por Policía de la Provincia de Chubut"
+Mirta Doris SILVEIRA,,hija de Samuel Fabio y de María Antonia Krieger,libertad_vigilada,72/1979,15/1/1979,,1430/1976,212,"Ciudad de Comodoro Rivadavia, Provincia de Chubut; control por Policía de la Provincia de Chubut"
 Alberto Carmelo GARRITANO,MI 4.429.016,,liberacion,73/1979,15/1/1979,,,212,
 Alberto Manuel VILLANUEVA,LE 5.504.356,,liberacion,73/1979,15/1/1979,,,212,
 Carlos Alberto CRISTIA,MI 6.046.440,,liberacion,73/1979,15/1/1979,,,212,
@@ -15376,6 +15396,7 @@ Gloria Lilian ECHAVARRIA de RODRIGUEZ,CI 3.405.402,,liberacion,528/1979,5/3/1979
 Rubén Rafael DI SIERVO,MI 5.505.941,,salida_autorizada,534/1979,6/3/1979,Italia,,222,
 Lidia Raquel ECHEVERRI,CI 7.980.317,,libertad_vigilada,535/1979,6/3/1979,,3970/1975,222,"Ciudad de Santa Fé, Provincia de Santa Fé, dentro de su ejido urbano; controla la Policía de la Provincia de Santa Fé"
 José Ricardo URQUIDI JURAN,DNI 41.030 pol. Cba.,,expulsion,536/1979,6/3/1979,,351/1977,222,Ciudadano boliviano; el decreto no menciona destino
+Guido Adrián ÑANCUPIL URIBE,CI 62.482 Policía de Chile,,arresto,540/1979,6/3/1979,,,223,
 Fanny Ana Lía PASCUAL,CI 3.915.624,,arresto,551/1979,9/3/1979,,,223,
 Máximo Rodolfo BLOSTEIN,CI 5.697.105,,arresto,551/1979,9/3/1979,,,223,
 Guido Adrián ÑANCUPIL URIBE,CI 62.482 Policía de Chile,,arresto,571/1979,9/3/1979,,,223,Texto del decreto 571/1979 mezclado con el de otro decreto de arresto (parte dispositiva superpuesta); arresto en establecimiento penal o carcelario
@@ -15383,6 +15404,7 @@ Evangelina Mercedes BOTTA,LC 5.448.663,,liberacion,577/1979,9/3/1979,,,223,
 María AMARU LUQUE,LC 6.377.868,,liberacion,577/1979,9/3/1979,,,223,
 Pablo Eliseo OUTSS,MI 7.214.231,,liberacion,577/1979,9/3/1979,,,223,
 Roberto Luis OGLIETTI,DNI 11.993.107,,liberacion,577/1979,9/3/1979,,,223,
+Arnaldo Sebastian GUTIERREZ,M.I. 8.067.713,,liberacion,578/1979,9/3/1979,,1928/1974,223,
 Ana Juana Angélica GOMEZ,Prio. 843.567,,libertad_vigilada,579/1979,9/3/1979,,1393/1975,223,"Localidad de Ingenio San José, Provincia de Tucumán, dentro de su ejido urbano; controla la Policía de la Provincia de Tucumán"
 Neddy Luisa MICUCCI de ZARATE,LC 3.360.012,,libertad_vigilada,579/1979,9/3/1979,,1959/1974,223,"Ciudad de Bahía Blanca, Provincia de Buenos Aires, dentro de su ejido urbano; controla la Policía de la Provincia de Buenos Aires"
 Rosa Medina de SANDOVAL,CI 3.099.293,,libertad_vigilada,579/1979,9/3/1979,,863/1975,223,"Localidad de Ranelagh, Provincia de Buenos Aires, dentro de su ejido urbano; controla la Policía de la Provincia de Buenos Aires"
@@ -15720,6 +15742,7 @@ Orlando Gerardo BRIZUELA,MI 8.053.422,,liberacion,1049/1979,11/5/1979,,,234,
 Rafael Eugenio DE SANTIS GUTIERREZ,MI 6.798.325,,liberacion,1049/1979,11/5/1979,,,234,
 Saturnino Jesús NUÑEZ,,hijo de Juan Francisco y de Julia Dorotea FIGUEROA,liberacion,1049/1979,11/5/1979,,,234,
 Segundo Tomás APARICIO,MI 5.096.259,,liberacion,1049/1979,11/5/1979,,,234,
+Pedro Pablo PEREYRA,M.I. 3.500.626,,otro,2559/1976,16/5/1979,,2559/1976,234,fe de erratas: donde dice Pedro Pablo FERREYRA debe decir Pedro Pablo PEREYRA (rectificación por Decreto 1088/1979 del arresto dispuesto por Decreto 2559 del 18/10/1976)
 Ana María MAIDANA,CI 221.890,,liberacion,1097/1979,18/5/1979,,,235,
 Daniel RIZZO PATRON,MI 7.197.187,,liberacion,1097/1979,18/5/1979,,,235,
 Eduardo José CHALAR,MI 6.690.479,,liberacion,1097/1979,18/5/1979,,,235,
@@ -16123,6 +16146,7 @@ Nicolás SAYAN,MI 5.537.652,,libertad_vigilada,1536/1979,28/6/1979,,252/1978,247
 Néstor Enrique DE BREUIL,MI 2.772.444,,libertad_vigilada,1536/1979,28/6/1979,,2189/1975,247,"Ciudad de Río Cuarto, Provincia de Córdoba, dentro de su ejido urbano; control: Policía de la Provincia de Córdoba"
 Néstor Manuel FANTINI AYEAR,DNI 11.052.379,,libertad_vigilada,1536/1979,28/6/1979,,2525/1975,247,"Ciudad de Córdoba, Provincia de Córdoba, dentro de su ejido urbano; control: Policía de la Provincia de Córdoba"
 Víctor Eduardo FERRARO,MI 7.856.728,,libertad_vigilada,1536/1979,28/6/1979,,2000/1977,247,"Ciudad de Santa Fé, Provincia de Santa Fé, dentro de su ejido urbano; control: Policía de la Provincia de Santa Fé"
+Susana DEL VALLE GENARO,LC 3.080.172,,liberacion,1537/1979,28/6/1979,,2190/1975,247,
 Susana DEL VALLE GENARO,LC 3.080.172,,liberacion,1557/1979,3/7/1979,,2190/1975,247,"Texto del decreto 1557/1979 mezclado/truncado (el encabezado trata del Presupuesto General y el dispositivo parece corresponder a otro decreto, probablemente el 1537/1979 cuyo texto quedó cortado); dudoso"
 Alberto LEVI,D.N.I. 10.585.423,,liberacion,1629/1979,6/7/1979,,,248,
 Alberto Orlando MARZULLO,,hijo de Francisco y de Lidia Amalia BONTHAIS,liberacion,1629/1979,6/7/1979,,,248,
@@ -16881,8 +16905,9 @@ Juana Haydee SANDOVAL,CI 8.820.609,,libertad_vigilada,2895/1979,15/11/1979,,863/
 Humberto Leopoldo ARCE,DNI 11.610.121,,opcion_denegada,2896/1979,15/11/1979,,,207,
 Ana Mirta MARCIAL REIMANN de D'AGNESE,,hija de Marino José y de Irma Carmen REIMANN,otro,2897/1979,15/11/1979,,972/1976,207,"se la excluye del decreto 972/76, pues su detención física se produjo por una disposición anterior; es la misma persona que Ana Mirta MARCIALES de D'AGNESE"
 Ana Mirta MARCIALES de D'AGNESE,LC 5.955.454,,otro,2897/1979,15/11/1979,,2492/1975,207,"rectificación de apellido y filiación: el Decreto 2492/75 (arresto), dictado a nombre de Ana Mirta MARCIALES (hija de Mariano José y de Irma Carmen RIENNAN), debe entenderse a nombre de Ana Mirta MARCIALES de D'AGNESE (LC 5.955.454)"
-Angel Francisco ABRAHAM,MI 4.690.892,,libertad_vigilada,2926/1979,19/11/1979,,794/1975,207,"Ciudad de San Nicolás, Buenos Aires; ejido urbano; control: Policía de la Provincia de Buenos Aires. Texto del decreto cortado e intercalado con el decreto 2950/1979 en el original"
-Arturo Armando CARRIZO,,hijo de Armando Arturo y Sara del Carmen RUIZ,libertad_vigilada,2926/1979,19/11/1979,,3801/1975,207,"Ciudad de Santa Fé, Santa Fé; ejido urbano; control: Policía de la Provincia de Santa Fé. Texto del decreto cortado e intercalado con el decreto 2950/1979 en el original"
+Angel Francisco ABRAHAM,MI 4.690.892,,libertad_vigilada,2926/1979,19/11/1979,,794/1975,207,"Ciudad de San Nicolás, Provincia de Buenos Aires; control por Policía de la Provincia de Buenos Aires"
+Arturo Armando CARRIZO,,hijo de Armando Arturo y Sara del Carmen RUIZ,libertad_vigilada,2926/1979,19/11/1979,,3801/1975,207,"Ciudad de Santa Fe, Provincia de Santa Fe; control por Policía de la Provincia de Santa Fe"
+Raúl Francisco FOUSSAL,M.I. 7.534.799,,salida_autorizada,2997/1979,23/11/1979,Alemania,,208,
 Ana Cristina IBAÑEZ,LC 5.435.242,,libertad_vigilada,2998/1979,23/11/1979,,1814/1974,209,"Ciudad de San Salvador de Jujuy, Jujuy; ejido urbano; control: Policía de la Provincia de Jujuy"
 Raúl José ORELLANO,MI 6.807.435,,liberacion,2999/1979,23/11/1979,,1023/1976,273,
 Rufino LIZARRAGA,MI 10.742.207,,libertad_vigilada,3000/1979,23/11/1979,,1621/1974,273,"Ciudad de Perico, Provincia de Jujuy; modifica el Decreto 1275/1979 (antes General Güemes, Salta); control: Policía de la Provincia de Jujuy"
@@ -17038,6 +17063,27 @@ Rafael Mario TOER,DNI 4.496.750,,opcion_denegada,3256/1979,17/12/1979,,,284,
 Raúl Héctor CANO,MI 5.543.644,,opcion_denegada,3256/1979,17/12/1979,,,284,
 Rubén Enrique ZAREMBA,DNI 12.513.632,,opcion_denegada,3256/1979,17/12/1979,,,284,
 Rubén Luis TARTARINI,DNI 10.833.969,,opcion_denegada,3256/1979,17/12/1979,,,284,
+Alfredo Mario ANTANUCCI,CI 7.914.472,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Arnaldo Norberto TAGNOCHETTI,CI 6.484.671,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Daniel Osvaldo BERMUDEZ,DNI 11.217.402,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Eugenio COMARK,MI 8.522.278,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Germán GARGANO,DNI 10.691.810,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Héctor Alfredo GAUTE,,hijo de NN y de Celia Gaute,opcion_diferida,3257/1979,17/12/1979,,,202,
+José Francisco VELAZQUE,LE 6.647.186,,opcion_diferida,3257/1979,17/12/1979,,,202,
+José Manuel GONCALVEZ,CI 2.443.119 Pol. Pcia. Buenos Aires,hijo de Porfilio López y de María Goncalvez,opcion_diferida,3257/1979,17/12/1979,,,202,
+José María Ramón BOERO,MI 6.224.773,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Juan Carlos MAIO,CI 6.510.198,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Juan Remigio ARGUELLO,CI 6.269.215,,opcion_diferida,3257/1979,17/12/1979,,,202,"el texto dice 'Cl' (OCR), probablemente CI"
+Manuel Armando ALFONSO,DNI 10.304.923,,opcion_diferida,3257/1979,17/12/1979,,,202,
+María Rosa CARDOZO de TORANZO,DNI 5.884.823,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Nora Marta MATTION,LC 5.700.146,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Néstor Alberto ROJAS,,hijo de Victor Ladislao y Nélida Gomez,opcion_diferida,3257/1979,17/12/1979,,,202,
+Plácido GOMEZ,CI 6.854.671,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Ricardo Enrique KASCMAJOR,,hijo de Segismundo y Juana Kikuda,opcion_diferida,3257/1979,17/12/1979,,,202,
+Rolando Humberto RUBIO,MI 11.217.590,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Rubén Silvio BAGENETTA,MI 5.524.315,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Silvia René HORNE,CI 338.068 Pol. Mendoza,,opcion_diferida,3257/1979,17/12/1979,,,202,
+Vilma Pompeya GOMEZ,,hija de Hermenegildo y de Vilma Emilse Morales,opcion_diferida,3257/1979,17/12/1979,,,202,
 Héctor Raúl RODRIGUEZ,MI 5.501.685,hijo de Jaime Segundo y de Elvira Maggi,liberacion,3258/1979,17/12/1979,,1309/1975,209,se ratifica la libertad personal desde el 27/8/1975
 Elba Clotilde PERRONE,LC 5.255.862,,otro,3313/1979,21/12/1979,,484/1977,204,"rectificación de documento: los Decretos 484/77 (arresto), 3396/77 y 2518/79 (dos denegatorias de salida del país) deben entenderse a nombre de Elba Clotilde PERRONE (LC 5.255.862); donde dice LC 5.255.882 debe decir 5.255.862"
 Ramón Angel SAUCEDO,Doc. prov. 5.882.126,,libertad_vigilada,3314/1979,21/12/1979,,3621/1975,205,"Ciudad de Córdoba, Córdoba; ejido urbano; control: Policía de la Provincia de Córdoba"
@@ -18782,7 +18828,7 @@ Nora Beatriz SAVOY,LC 10.639.055,,opcion_denegada,425/1981,6/3/1981,,,341,
 Néstor Augusto BRUTTI,,hijo de Espartaco Augusto y de Mónica Lidia BIANCHI,opcion_denegada,425/1981,6/3/1981,,,341,
 Sergio José GONZALEZ,MI 11.217.754,,opcion_denegada,425/1981,6/3/1981,,,341,
 Silvia Viviana ZUSTOVICH,DNI 12.927.867,,opcion_denegada,425/1981,6/3/1981,,,341,
-Cristina Nilda ALVAREZ,,,otro,445/1981,11/3/1981,,396/1975,341,El texto del lote omite los artículos 1 y 2; solo figura el Art. 3 (pasaportes por Ceremonial). Los considerandos indican pedido de cambio del ámbito geográfico de la libertad vigilada fijada por Decreto 125/81 (San Salvador de Jujuy); la medida dispositiva exacta no es legible
+Cristina Nilda ALVAREZ,LC 10.600.873,,libertad_vigilada,445/1981,11/3/1981,,396/1975,341,"Departamento de Famaillá, Provincia de Tucumán (modifica Decreto 125/81, que fijaba San Salvador de Jujuy); control por Policía de Tucumán"
 Horacio Oscar ZAYAS,LE 10.481.510,,liberacion,446/1981,11/3/1981,,,342,
 Isaura NIETO,DNI 10.252.009,,liberacion,446/1981,11/3/1981,,,342,
 Mario Emilio ESCALONA,CI 7.579.214,hijo de Emilio Marcelo y Filomena Sara Matías,liberacion,446/1981,11/3/1981,,,342,
@@ -19664,6 +19710,49 @@ Segundo Alfredo REARTE,Prio. 732.390 Tucumán,,opcion_denegada,2237/1981,21/12/1
 Walter Roberto DOCTERS,DNI 11.995.198,,opcion_denegada,2237/1981,21/12/1981,,,402,
 Jorge CEPERNIC,CI 1.836.430,,libertad_vigilada,20/1981,22/12/1981,,1205/1976,402,"Modifícase la forma de cumplimiento de la internación: arresto domiciliario en la 'Estancia Josefina', Lago Argentino, Provincia de Santa Cruz; visitas según Decreto 929/80; controla la Policía de la Provincia de Santa Cruz"
 Julio Isabelino GUILLAN,MI 4.140.045,,libertad_vigilada,20/1981,22/12/1981,,202/1976,402,"Modifícase la forma de cumplimiento de la internación: arresto domiciliario en su propio domicilio, calle Obispo San Alberto N° 3464, Ciudad de Buenos Aires; visitas según Decreto 929/80; controla la Policía Federal Argentina"
+Adriana Beatriz CORSALETTI,DNI 12.157.459,,liberacion,25/1981,24/12/1981,,,403,
+Agustín Conrado LOPEZ,CI 8.399.738,,liberacion,25/1981,24/12/1981,,,403,
+Andrés RUARTE,MI 5.409.185,,liberacion,25/1981,24/12/1981,,,403,
+Angel Rubén ROMANO,LE 6.064.725,hijo de Angel y Haidee DIEGUEZ,liberacion,25/1981,24/12/1981,,,403,
+Aurelio Santos CHAPARRO,MI 7.058.160,,liberacion,25/1981,24/12/1981,,,403,
+Benito Alberto MOYA,CI 442.512 Pol.de Tucumán,,liberacion,25/1981,24/12/1981,,,403,
+Carlos Alberto RAMIREZ GIMENEZ,MI 7.376.303,,liberacion,25/1981,24/12/1981,,,403,
+Claudio Alberto SARRODE,MI 7.804.165,,liberacion,25/1981,24/12/1981,,,403,
+Cristina Nilda ALVAREZ,LC 10.600.873,,liberacion,25/1981,24/12/1981,,,403,
+Edgardo OLIVERA,CI 44.080 Pol.Santa Cruz,,liberacion,25/1981,24/12/1981,,,403,
+Eduardo Mario PEREZ,CI 2.353.147,,liberacion,25/1981,24/12/1981,,,403,
+Enrique PERELMUTER,DNI 6.829.483,,liberacion,25/1981,24/12/1981,,,403,
+Estela Cristina GARIBOTTO,CI 6.384.636,hija de Alfredo y María Hurbana ORTIZ,liberacion,25/1981,24/12/1981,,,403,
+Fulgencio ANADON,MI 7.433.692,,liberacion,25/1981,24/12/1981,,,403,
+Graciela Celina IMAZ de OJEA,LC 5.722.925,,liberacion,25/1981,24/12/1981,,,403,
+Hugo Ignacio MOLINA OLIVA,MI 7.970.980,,liberacion,25/1981,24/12/1981,,,403,
+Jesús María AGUINAGALDE,DNI 10.228.175,,liberacion,25/1981,24/12/1981,,,403,
+Jorge Eduardo PEREYRA,LE 7.620.499,hijo de Pablo José y Amanda VALENTI,liberacion,25/1981,24/12/1981,,,403,
+Juan Carlos HERRERO,DNI 8.278.637,,liberacion,25/1981,24/12/1981,,,403,
+Juan Evaristo PUTHOD,DNI 12.071.400,,liberacion,25/1981,24/12/1981,,,403,
+Julia Beatriz GARCIA,DNI 11.113.752,,liberacion,25/1981,24/12/1981,,,403,
+León Eduardo GLOGOWSKY,DNI 11.827.749,,liberacion,25/1981,24/12/1981,,,403,
+Luis Alberto NEGRO,DNI 11.381.062,,liberacion,25/1981,24/12/1981,,,403,
+Manuel Adolfo MILLAN,DNI 11.538.639,,liberacion,25/1981,24/12/1981,,,403,
+Marcelino Lucas FLORES,LE 8.554.933,,liberacion,25/1981,24/12/1981,,,403,
+Margarita Rosa CAMUS PUIGDENGOLAS,MI 11.921.953,,liberacion,25/1981,24/12/1981,,,403,
+Mario Atilio SARTORI,MI 10.554.557,,liberacion,25/1981,24/12/1981,,,403,
+Martha Ada ARGUELLO,LC 3.187.345,,liberacion,25/1981,24/12/1981,,,403,
+Miguel Carlos CONTRERAS,LE 6.484.925,,liberacion,25/1981,24/12/1981,,,403,
+Nestór Luján SCAVUZZO,DNI 7.866.015,,liberacion,25/1981,24/12/1981,,,403,
+Nilda Rosa ZARATE AGUIRRE,CI 154.062 Pol.de Córdoba,,liberacion,25/1981,24/12/1981,,,403,
+Omar MIGNOLA,MI 6.586.813,,liberacion,25/1981,24/12/1981,,,403,
+Oscar Alfredo ANDINO,DNI 11.019.879,,liberacion,25/1981,24/12/1981,,,403,
+Osvaldo Ivo Antonio María BIDINOST,MI 6.452.751,,liberacion,25/1981,24/12/1981,,,403,
+Ramón Edgardo PONCE,MI 10.012.824,,liberacion,25/1981,24/12/1981,,,403,
+Ricardo Jorge MONACO MARCH,LE 8.629.645,hijo de Angel y Minfa Aurora MARCH,liberacion,25/1981,24/12/1981,,,403,
+Roberto Gabriel VARAS,MI 7.998.505,,liberacion,25/1981,24/12/1981,,,403,
+Roberto Savino ANGARAMO,MI 7.779.032,,liberacion,25/1981,24/12/1981,,,403,
+Rodolfo María OJEA,MI 8.928.349,,liberacion,25/1981,24/12/1981,,,403,
+Rubén Fernando HABER,CI 6.832.898,,liberacion,25/1981,24/12/1981,,,403,
+Salomón GERCHUNOFF,CI 5.763.907,,liberacion,25/1981,24/12/1981,,,403,
+Sergio Eduardo ABRIL,MI 10.219.948,,liberacion,25/1981,24/12/1981,,,403,
+Susana Isabel FUNES,LC 4.707.999,,liberacion,25/1981,24/12/1981,,,403,
 Adriana Beatriz CORSALETTI,DNI 12.157.459,,liberacion,95/1981,31/12/1981,,,403,texto del decreto truncado/mezclado con un decreto presupuestario; arresto que se cumplía bajo libertad vigilada
 Agustín Conrado LOPEZ,CI 8.399.738,,liberacion,95/1981,31/12/1981,,,403,texto del decreto truncado/mezclado con un decreto presupuestario; arresto que se cumplía bajo libertad vigilada
 Andrés RUARTE,MI 5.409.185,,liberacion,95/1981,31/12/1981,,,403,texto del decreto truncado/mezclado con un decreto presupuestario; arresto que se cumplía bajo libertad vigilada
@@ -19739,6 +19828,13 @@ María Isabel GAMBA de NEGROTTI,LC 6.075.345,,opcion_denegada,126/1982,20/1/1982
 Ramón Alberto IRIGOY,DNI 11.419.551,hijo de Ramón Angel y Pura Viviana CAMPOS,opcion_denegada,126/1982,20/1/1982,,,454,
 Alba Argentina ACOSTA de AZULAY,LC 4.952.460,,opcion_diferida,127/1982,20/1/1982,,,454,
 Ana María CAMARA,DNI 11.832.715,,opcion_denegada,128/1982,20/1/1982,,2563/1980,454,
+Alberto Antonio GOMEZ,DNI 11.147.257,,liberacion,129/1982,20/1/1982,,,446,
+Angelina ROSSATTI Vda. de CORBALAN,CI 7.536.551,,liberacion,129/1982,20/1/1982,,,446,
+Duilio Blas APONTE,CI Pol. Chaco 304.000,,liberacion,129/1982,20/1/1982,,,446,
+Francisco Adalberto ESQUIVEL,DNI 5.669.394,,liberacion,129/1982,20/1/1982,,,446,
+Guillermo Aurelio RIVAS,MI 8.043.105,,liberacion,129/1982,20/1/1982,,,446,
+Hugo Francisco TORRES,DNI 6.075.896,,liberacion,129/1982,20/1/1982,,,446,
+Víctor Hugo BENITEZ,DNI 8.594.348,,liberacion,129/1982,20/1/1982,,,446,
 Antonio Eduardo ROMANO,DNI 11.335.901,,opcion_denegada,133/1982,20/1/1982,,,432,
 Armando Norberto LAZCANO,DNI 10.139.612,,opcion_denegada,133/1982,20/1/1982,,,432,
 Carlos Alberto CORVALAN,LE 6.612.497 (Prio. AP. 48.831),,opcion_denegada,133/1982,20/1/1982,,,432,
@@ -19772,7 +19868,7 @@ María Susana MARTIN de PANCALDO,CI 6.162.597,,opcion_denegada,166/1982,21/1/198
 Norberto REY,LE 4.887.264,,otro,190/1982,27/1/1982,,3384/1975,429,fe de erratas: donde dice Roberto REY (CI. 5.078.780) debe decir Norberto REY (LE. 4.887.264)
 Ramón TORRES MOLINA,DNI 5.176.035,,otro,191/1982,27/1/1982,,425/1976,428,fe de erratas: donde dice Horacio TORRES MOLINA (MI. 5.176.035) debe decir Ramón TORRES MOLINA (DNI. 5.176.035)
 Carlos Alberto CORBALAN,Prio. AP 48.831; LE 6.612.497,,otro,223/1982,29/1/1982,,2492/1975,428,fe de erratas: donde dice Carlos Alberto CORVALAN (Prio. AP 48.831) debe decir Carlos Alberto CORBALAN (Prio. AP 48.831) —LE. 6.612.497—
-Vicente Jorge PETRIZANI PARRA,,,otro,224/1982,29/1/1982,,,426,"texto truncado: no aparece la parte dispositiva; solo consta la solicitud de opción para salir del país (probablemente denegatoria, no verificable)"
+Vicente Jorge PETRIZANI PARRA,MI 7.617.014,,opcion_diferida,224/1982,29/1/1982,,,426,
 Alberto Manuel AZULAY,MI 8.636.712,,liberacion,225/1982,29/1/1982,,,424,
 Alcídes Antonio CHIEZA,LE 7.788.905,,liberacion,225/1982,29/1/1982,,,424,
 Antonio José María MATTERSON,CI Pol. Santa Fe 315.815,,liberacion,225/1982,29/1/1982,,,424,
@@ -19782,6 +19878,8 @@ Jorge Omar DELGADO,LE 11.366.549,hijo de Francisco Tomás y María Estela VILLAF
 Mariano José D’ANUNCIO,CI 10.847.099,,liberacion,225/1982,29/1/1982,,,424,
 Pacacio LIMA,MI 8.595.241,,liberacion,225/1982,29/1/1982,,,424,
 Raúl Ernesto PUJOL,MI 8.046.823,,liberacion,225/1982,29/1/1982,,,424,
+Jaime LOCKMAN,LE. 2.794.441,,libertad_vigilada,257/1982,3/2/1982,,941/1976,424,"Ciudad de Córdoba, Provincia de Córdoba; control por Policía de la Provincia de Córdoba"
+Jaime LOCKMAN,LE. 2.794.441,,otro,257/1982,3/2/1982,,2846/1979,424,se deja sin efecto la autorización para salir del país conferida con destino al Estado de Israel por Decreto 2846/79
 Jorge Alejandro OLMOS,,,libertad_vigilada,258/1982,3/2/1982,,1886/1974,423,"Ciudad de Zárate, Provincia de Buenos Aires (modifica ámbito del Art. 2 del Decreto 2077/81, tras reingreso desde Perú); control: Policía de Buenos Aires"
 Luis ORTOLANI,MI 6.713.483,,otro,259/1982,3/2/1982,,2253/1975,423,rectificación de documento en decretos 2253/75 y 1924/79: donde dice MI 6.713.483 debe decir LE 2.966.733
 Armando Tomás CERNADAS,DNI 10.328.795,,otro,260/1982,3/2/1982,,1017/1975,423,"rectificación de número de documento en decretos 1017/75, 300/80, 133/81 y 2020/81: donde dice DNI 10.328.795 debe decir DNI 10.328.195"
@@ -20925,8 +21023,10 @@ Jorge Enrique DE BREUIL,MI 7.646.344,,libertad_vigilada,45/1983,6/1/1983,,2189/1
 Alejandro Raúl ISLA,MI 4.635.732,,libertad_vigilada,115/1983,14/1/1983,,3558/1975,453,"Ciudad de La Plata, Provincia de Buenos Aires; ejido urbano; controla Policía de la Provincia de Buenos Aires"
 Natalio David MELULL,DNI 4.390.251,,libertad_vigilada,115/1983,14/1/1983,,3721/1975,453,Ciudad de Buenos Aires; ejido urbano; controla Policía Federal Argentina
 Roberto Aníbal BOTTARINI,LE 8.631.684,,libertad_vigilada,115/1983,14/1/1983,,1017/1975,453,"Ciudad de Ituzaingó, Provincia de Buenos Aires; ejido urbano; controla Policía de la Provincia de Buenos Aires"
+Nelfa Rufina SUAREZ JUAREZ de TABOADA,LC 6.199.855,hija de Santos Dalmiro JUAREZ y María Alejandra SUAREZ,libertad_vigilada,116/1983,14/1/1983,,984/1976,452,"Localidad de Don Bosco, Partido de Quilmes, Provincia de Buenos Aires; control: Policía de la Provincia de Buenos Aires"
+Ramón TORRES MOLINA,DNI 5.176.035,,libertad_vigilada,116/1983,14/1/1983,,425/1976,452,"Ciudad de La Plata, Provincia de Buenos Aires (ejido urbano); control: Policía de la Provincia de Buenos Aires"
 Segundo Alfredo REARTE,Prio. Prov. Tucumán 732.390,,opcion_denegada,227/1983,28/1/1983,,,452,Encabezado y parte de los considerandos ilegibles/truncados; artículo 1° legible
-Segundo Alfredo REARTE,,,otro,255/1983,3/2/1983,,,452,"Texto truncado: la parte dispositiva no figura en el lote. Solicitud de opción para salir del país de un detenido a disposición del PEN; resolución ilegible (el considerando insinúa riesgo para la paz y seguridad, probable denegatoria, no confirmado)"
+Segundo Alfredo REARTE,Prio. Prov. Tucumán 732.390,,opcion_denegada,255/1983,3/2/1983,,,452,
 Eugenio COMARK,LE 8.522.278,,liberacion,256/1983,3/2/1983,,,452,
 Horacio Luis ROMERO,MI 4.688.492,,liberacion,256/1983,3/2/1983,,,452,
 Julio Merardo BENTOS ALVAREZ,MI 11.275.173,,liberacion,256/1983,3/2/1983,,,452,
@@ -21067,6 +21167,7 @@ Aída Graciela SCHTUTMAN,CI 2.710.749 Pol. Pcia. de Buenos Aires,,opcion_denegad
 Tomás ALZUGARAY,CI 8.790.997,hijo de Tomás y Antonia AREVALO,opcion_denegada,1330/1983,30/5/1983,,479/1979,426,
 Luis César PERLINGER,MI 1.995.606,,libertad_vigilada,1331/1983,30/5/1983,,534/1982,426,"Ciudad de Buenos Aires, dentro de su ejido urbano; controla la Policía Federal Argentina"
 Antonio Miguel PITURA,DNI 8.398.097,,liberacion,1361/1983,31/5/1983,,,426,texto del decreto mezclado con otro (considerandos sobre contrataciones); la parte dispositiva sobre Pitura es legible
+Antonio Miguel PITURA,DNI. 8.398.097,,liberacion,1511/1983,17/6/1983,,3317/1975,426,se cumplía bajo régimen de Libertad Vigilada
 Lidia Isabel ESPINOLA de ANGELACCIO,CI 7.484.290,hija de Crescencio y Amalia DAVALOS,otro,1512/1983,17/6/1983,,3505/1975,425,fe de erratas: donde dice Liccia ANGELACCIO de ESPINOLA (Hija de Crescencio y Amalia DAVALOS) debe decir Lidia Isabel ESPINOLA de ANGELACCIO (Hija de Crescencio y Amalia DAVALOS) —CI. Nº 7.484.290—
 Antonio Mario BURGOS,CI 7.862.871,,libertad_vigilada,1590/1983,27/6/1983,,85/1975,440,"amplía el ámbito geográfico (antes Localidad de Torres) al Partido de Moreno, Buenos Aires; controla la Policía de la Provincia de Buenos Aires"
 Jorge Carlos SAMBRANA,DNI 11.725.447,,opcion_denegada,1591/1983,27/6/1983,,,440,

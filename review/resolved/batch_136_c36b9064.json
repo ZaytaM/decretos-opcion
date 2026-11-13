@@ -1,0 +1,57 @@
+{
+ "case": "batch_136_c36b9064",
+ "model": "fable",
+ "resoluciones": [
+  {
+   "id": "c_936f1f3c1162",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Pedro Pablo PEREYRA",
+    "documento": "M.I. 3.500.626",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "2559/1976",
+    "fecha": "16/5/1979",
+    "destino": "",
+    "decreto_referido": "2559/1976",
+    "pagina": "234",
+    "nota": "fe de erratas: donde dice Pedro Pablo FERREYRA debe decir Pedro Pablo PEREYRA (rectificación por Decreto 1088/1979 del arresto dispuesto por Decreto 2559 del 18/10/1976)"
+   },
+   "motivo": "el texto asocia expresamente a la persona con 'el arresto dispuesto por Decreto N° 2559 de fecha 18 de Octubre de 1976'; el decreto_referido no es ambiguo, vale la versión de B"
+  },
+  {
+   "id": "c_dec31c2ded2d",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Dora María RUBECCHI deWEISZ",
+    "documento": "LC. 4.834.515",
+    "filiacion": "",
+    "tipo": "opcion_denegada",
+    "decreto": "972/1978",
+    "fecha": "4/5/1978",
+    "destino": "",
+    "decreto_referido": "",
+    "pagina": "129",
+    "nota": "el texto dice 'deWEISZ' sin espacio; debe leerse 'de WEISZ'"
+   },
+   "motivo": "el texto dice 'RUBECCHI deWEISZ (LC. 4.834.515)'; se transcribe tal cual y se aclara la errata en nota, B normalizó el espacio"
+  },
+  {
+   "id": "c_f061b61f272e",
+   "veredicto": "confirmar",
+   "evento": {
+    "persona": "Jaime LOCKMAN",
+    "documento": "LE. 2.794.441",
+    "filiacion": "",
+    "tipo": "otro",
+    "decreto": "257/1982",
+    "fecha": "3/2/1982",
+    "destino": "",
+    "decreto_referido": "2846/1979",
+    "pagina": "424",
+    "nota": "se deja sin efecto la autorización para salir del país conferida con destino al Estado de Israel por Decreto 2846/79"
+   },
+   "motivo": "el Art. 2 deja sin efecto la salida autorizada por Decreto 2846/79; 'destino' sólo se completa para salida_autorizada o expulsion, por eso va vacío y el país queda en nota, como en A"
+  }
+ ]
+}
