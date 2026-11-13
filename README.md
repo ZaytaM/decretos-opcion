@@ -6,35 +6,38 @@ liberación, salida del país autorizada, expulsión) a partir del suplemento de
 Boletín Oficial "Decretos secretos y reservados" (1.248 páginas, 7.039 decretos,
 1974–1983).
 
-Resultado: `opcion.xlsx` (hoja **Personas**: 8.291 filas; **Solo arresto**: 746;
-**Eventos**: 21.559; **Resumen**) y `revisar.xlsx` (3 ítems sin resolver,
+Resultado: `opcion.xlsx` (hoja **Personas**: 8.297 filas; **Solo arresto**: 742;
+**Eventos**: 21.660; **Resumen**) y `revisar.xlsx` (0 ítems sin resolver,
 98 descartados con su motivo). `eventos.csv` es la hoja Eventos en texto plano.
 Corrida del 12 de noviembre de 2026.
 
 | Tipo de evento | Cantidad |
 |---|---|
-| Arresto a disposición del PEN | 7.680 |
-| Opción denegada | 3.459 |
-| Opción diferida | 187 |
-| Libertad vigilada | 1.660 |
-| Liberación (sin efecto el arresto) | 7.395 |
-| Salida del país autorizada | 665 |
+| Arresto a disposición del PEN | 7.690 |
+| Opción denegada | 3.470 |
+| Opción diferida | 209 |
+| Libertad vigilada | 1.665 |
+| Liberación (sin efecto el arresto) | 7.449 |
+| Salida del país autorizada | 666 |
 | Expulsión | 268 |
-| Otro (rectificaciones, fe de erratas, cambios de régimen) | 245 |
+| Otro (rectificaciones, fe de erratas, cambios de régimen) | 243 |
 
 ## Qué se hizo
 
 | Paso | Qué | Script | Dónde / cuánto |
 |------|-----|--------|----------------|
 | 1 | Cortar el PDF en un .txt por decreto (marcadores `#I…I#` / `#F…F#`), leyendo cada página en cuatro franjas de columna debajo del encabezado. Marcar como relevantes los que hablan de arresto, detención, opción, libertad vigilada, salida o expulsión: 3.360 de 7.039. Armar 135 lotes de 25. | `scripts/split.py` | Mac, 1 min |
+| 1b | Reparación: 113 decretos quedaron cortados o mezclados porque en algunas páginas el texto no sigue el orden columna 1→4 (bloques de dos columnas de ancho, colas de un decreto dentro de otra columna). `split.py --repair` los detecta (cerrados sin su propio marcador de fin, o sin "Artículo 1"), los vuelve a leer con un corte recursivo por espacios en blanco (XY-cut) respetando los marcadores, y repara 106. Los 31 relevantes se reescribieron en los lotes 136–137 y sus eventos viejos se descartan (`batches/repairs.json`). | `scripts/split.py --repair` | Mac, 1 min; agentes en dell3, 2 min |
 | 2 | Dos agentes independientes (`claude -p`, modelo Sonnet) leen cada lote con instrucciones distintas (`prompts/extract.md` → `events/a/`, `prompts/verify.md` → `events/b/`) y devuelven un evento por persona en JSON. 3 lotes a la vez; reintenta ante límites de uso; saltea lo ya hecho. | `scripts/run_agents.sh` | dell3, 4,5 h (260 de 270 trabajos; 6 lotes se agotaron por límite de uso y se corrieron de nuevo en 3 min) |
 | 3 | Adjudicación: los eventos que sólo un agente encontró, o donde difieren en algún campo, se mandan con el texto completo del decreto a un modelo más fuerte (Fable) que decide `confirmar` / `descartar` / `dudoso` con motivo. 745 ítems en 15 min. | `scripts/adjudicate.py`, `prompts/adjudicate.md` | dell3 |
 | 4 | Normalizar destinos: cada valor distinto de `destino` ("Reino de España", "ESPAÑA") se mapea a un nombre de país único (`paises.json`, editable a mano). | `scripts/paises.py` | dell3, 1 min |
 | 5 | Fusionar: aparear los eventos de A y B (mismo decreto + tipo + persona, por número de documento si lo hay, si no por nombre normalizado), aplicar las resoluciones del adjudicador, agrupar por persona y escribir los Excel. | `scripts/merge.py` | segundos |
 
 Piloto previo sobre 50 decretos: 752 eventos por agente, 751 coincidentes.
-En la corrida completa los dos agentes coincidieron en todo salvo 752 ítems
-(3,5 %), de los cuales el adjudicador confirmó 651, descartó 98 y dejó 3 dudosos.
+En la corrida completa los dos agentes coincidieron en todo salvo 755 ítems
+(3,5 %), de los cuales el adjudicador confirmó 657 y descartó 98. Los 3 que
+había dejado como dudosos eran decretos truncados por el corte en columnas y
+se resolvieron al releerlos (paso 1b).
 
 ### Qué se verificó a mano
 
@@ -72,17 +75,13 @@ En la corrida completa los dos agentes coincidieron en todo salvo 752 ítems
 
 En orden de impacto.
 
-1. **33 decretos truncados por el corte en columnas** (8 relevantes: 567/1978,
-   1321/1978, 2983/1978, 540/1979, 445/1981, 257/1982, 255/1983, 3050/1977).
-   En algunas páginas el texto de un decreto no sigue el orden columna 1→4 que
-   asume `split.py` (por ejemplo página 191: un decreto empieza al pie de la
-   columna 3 y sigue arriba de la 4 mientras otro termina en medio), y el
-   decreto queda sin su parte dispositiva. Son exactamente los 3 ítems
-   "dudosos" de `revisar.xlsx` más cinco personas que faltan. Arreglo:
-   detectar el orden de lectura por página a partir de los bloques del PDF
-   (o cortar por marcador con el mismo id de inicio y fin) y volver a correr
-   sólo esos 8 decretos. Lista completa: los archivos de `decretos/` sin
-   "Artículo 1".
+1. **Decretos con orden de lectura irregular (resuelto en su mayor parte).**
+   El corte en columnas truncó o mezcló 113 decretos; la reparación (paso 1b)
+   recuperó 106. Quedan 7 sin marcador de fin propio, 2 de ellos relevantes
+   (2950/1979 y 1361/1983) pero con texto completo hasta la firma, y 1 no
+   relevante truncado (1169/1979). Si se vuelve a cortar el PDF desde cero,
+   conviene usar directamente la lectura por XY-cut para todas las páginas y
+   comprobar que ningún decreto quede sin "Artículo 1".
 2. **Personas repetidas por no tener documento.** 634 filas no tienen número
    de documento; se agruparon por nombre normalizado. Cuando la misma persona
    aparece con documento en un decreto y sin documento (o con filiación) en
@@ -120,7 +119,7 @@ python3 scripts/split.py
 # 2. agentes (saltea lo hecho; N M = rango de lotes, opcional)
 bash scripts/run_agents.sh [N M]
 # 3. adjudicar desacuerdos (saltea lo resuelto)
-python3 scripts/adjudicate.py
+python3 scripts/adjudicate.py run
 # 4. destinos nuevos
 python3 scripts/paises.py
 # 5. fusionar
@@ -130,7 +129,7 @@ python3 scripts/merge.py
 En dell3, todo junto y desatendido:
 
 ```bash
-ssh dell3 'tmux new -d -s run "bash ~/bin/dell3_run.sh decretos-opcion cmd \"bash scripts/run_agents.sh && python3 scripts/adjudicate.py && python3 scripts/paises.py && python3 scripts/merge.py\""'
+ssh dell3 'tmux new -d -s run "bash ~/bin/dell3_run.sh decretos-opcion cmd \"bash scripts/run_agents.sh && python3 scripts/adjudicate.py run && python3 scripts/paises.py && python3 scripts/merge.py\""'
 ssh dell3 'tail -40 ~/work/decretos-opcion/logs/agents_latest.log'
 ```
 
