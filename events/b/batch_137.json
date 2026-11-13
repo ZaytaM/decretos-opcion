@@ -1,0 +1,136 @@
+{
+ "eventos": [
+  {
+   "persona": "Vicente Jorge PETRIZANI PARRA",
+   "documento": "MI 7.617.014",
+   "filiacion": "",
+   "tipo": "opcion_diferida",
+   "decreto": "224/1982",
+   "fecha": "29/1/1982",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "426",
+   "nota": ""
+  },
+  {
+   "persona": "Angelina ROSSATTI Vda. de CORBALAN",
+   "documento": "CI 7.536.551",
+   "filiacion": "",
+   "tipo": "liberacion",
+   "decreto": "129/1982",
+   "fecha": "20/1/1982",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "446",
+   "nota": "arresto cumplido bajo libertad vigilada"
+  },
+  {
+   "persona": "Alberto Antonio GOMEZ",
+   "documento": "DNI 11.147.257",
+   "filiacion": "",
+   "tipo": "liberacion",
+   "decreto": "129/1982",
+   "fecha": "20/1/1982",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "446",
+   "nota": "arresto cumplido bajo libertad vigilada"
+  },
+  {
+   "persona": "Guillermo Aurelio RIVAS",
+   "documento": "MI 8.043.105",
+   "filiacion": "",
+   "tipo": "liberacion",
+   "decreto": "129/1982",
+   "fecha": "20/1/1982",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "446",
+   "nota": "arresto cumplido bajo libertad vigilada"
+  },
+  {
+   "persona": "Hugo Francisco TORRES",
+   "documento": "DNI 6.075.896",
+   "filiacion": "",
+   "tipo": "liberacion",
+   "decreto": "129/1982",
+   "fecha": "20/1/1982",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "446",
+   "nota": "arresto cumplido bajo libertad vigilada"
+  },
+  {
+   "persona": "Francisco Adalberto ESQUIVEL",
+   "documento": "DNI 5.669.394",
+   "filiacion": "",
+   "tipo": "liberacion",
+   "decreto": "129/1982",
+   "fecha": "20/1/1982",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "446",
+   "nota": "arresto cumplido bajo libertad vigilada"
+  },
+  {
+   "persona": "Víctor Hugo BENITEZ",
+   "documento": "DNI 8.594.348",
+   "filiacion": "",
+   "tipo": "liberacion",
+   "decreto": "129/1982",
+   "fecha": "20/1/1982",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "446",
+   "nota": "arresto cumplido bajo libertad vigilada"
+  },
+  {
+   "persona": "Duilio Blas APONTE",
+   "documento": "CI Pol. Chaco 304.000",
+   "filiacion": "",
+   "tipo": "liberacion",
+   "decreto": "129/1982",
+   "fecha": "20/1/1982",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "446",
+   "nota": "arresto cumplido bajo libertad vigilada"
+  },
+  {
+   "persona": "Segundo Alfredo REARTE",
+   "documento": "Prio. Prov. Tucumán 732.390",
+   "filiacion": "",
+   "tipo": "opcion_denegada",
+   "decreto": "255/1983",
+   "fecha": "3/2/1983",
+   "destino": "",
+   "decreto_referido": "",
+   "pagina": "452",
+   "nota": ""
+  },
+  {
+   "persona": "Nelfa Rufina SUAREZ JUAREZ de TABOADA",
+   "documento": "LC 6.199.855",
+   "filiacion": "hijo de Santos Dalmiro JUAREZ y María Alejandra SUAREZ",
+   "tipo": "libertad_vigilada",
+   "decreto": "116/1983",
+   "fecha": "14/1/1983",
+   "destino": "",
+   "decreto_referido": "984/1976",
+   "pagina": "452",
+   "nota": "Localidad de Don Bosco, Partido de Quilmes, Provincia de Buenos Aires; control: Policía de la Provincia de Buenos Aires"
+  },
+  {
+   "persona": "Ramón TORRES MOLINA",
+   "documento": "DNI 5.176.035",
+   "filiacion": "",
+   "tipo": "libertad_vigilada",
+   "decreto": "116/1983",
+   "fecha": "14/1/1983",
+   "destino": "",
+   "decreto_referido": "425/1976",
+   "pagina": "452",
+   "nota": "Ciudad de La Plata, Provincia de Buenos Aires, dentro de su ejido urbano; control: Policía de la Provincia de Buenos Aires"
+  }
+ ]
+}
